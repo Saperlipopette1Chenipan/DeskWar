@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/esteban.mazon/Documents/Unreal Projects/DeskWar2/Content/NewMap.umap",
+				"C:/Users/esteban.mazon/Documents/Unreal Projects/DeskWar2/Content/DEWKWAR.umap",
+				"C:/Users/esteban.mazon/Documents/Unreal Projects/DeskWar2/Content/Map/DEWKWAR.umap"
+			]
+		}
+	]
+}
