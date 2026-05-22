@@ -1816,3 +1816,309 @@ FPackageName: Skipped package /Game/ASSETS/Desk_WarLogo has a valid, mounted, mo
 [2026.05.22-12.00.56:256][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux_Auto1
 [2026.05.22-12.00.56:257][ 16]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_Pierre_Pradal_Ciseaux_Auto1C4B738024EAA4ED1875F18A71E84A080.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux_Auto1.uasset'
 [2026.05.22-12.00.56:259][ 16]LogFileHelpers: Auto-saving content packages took 0.068
+[2026.05.22-12.01.19:169][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1055.369263
+[2026.05.22-12.01.19:346][290]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.22-12.01.19:346][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1055.532349, Update Interval: 303.363739
+[2026.05.22-12.01.23:298][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.05.22-12.01.23:345][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-12.01.23:401][576]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux] ([2] browsable assets)...
+[2026.05.22-12.01.23:405][576]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux.WBP_Pierre_Pradal_Ciseaux]
+[2026.05.22-12.01.23:405][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux]
+[2026.05.22-12.01.23:405][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/WBP_Pierre_Pradal_Ciseaux.uasset" SILENT=true
+[2026.05.22-12.01.23:457][576]LogSavePackage: Moving output files for package: /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux
+[2026.05.22-12.01.23:460][576]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_Pierre_Pradal_CiseauxB41E71944F7A41F7A2678DAC7566A3A7.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/WBP_Pierre_Pradal_Ciseaux.uasset'
+[2026.05.22-12.01.23:473][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.557 ms (total: 1.11 sec)
+[2026.05.22-12.01.23:543][576]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.22-12.01.23:543][576]LogContentValidation: Enabled validators:
+[2026.05.22-12.01.23:543][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-12.01.23:543][576]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-12.01.23:543][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-12.01.23:543][576]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-12.01.23:543][576]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-12.01.23:543][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-12.01.23:545][576]AssetCheck: /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux Validating asset
+[2026.05.22-12.01.26:226][797]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.22-12.01.26:238][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.22-12.01.26:238][797]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2026.05.22-12.01.26:242][797]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.05.22-12.01.26:258][798]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.05.22-12.01.26:262][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004100s)
+[2026.05.22-12.01.26:262][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.004171s)
+[2026.05.22-12.01.26:308][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.05.22-12.01.26:312][798]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.05.22-12.01.26:315][798]LogPlayLevel: PIE: World Init took: (0.003212s)
+[2026.05.22-12.01.26:316][798]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.05.22-12.01.26:316][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.22-12.01.26:316][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.22-12.01.26:316][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.22-12.01.26:317][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.22-12.01.26:317][798]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.22-12.01.26:317][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.22-12.01.26:317][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.22-12.01.26:317][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.22-12.01.26:317][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.22-12.01.26:317][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.22-12.01.26:317][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.22-12.01.26:319][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.22-12.01.26:413][798]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.05.22-12.01.26:414][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.22-12.01.26:414][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.22-12.01.26:414][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.22-12.01.26:415][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.05.22-12.01.26:415][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.05.22-12.01.26:419][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.05.22-12.01.26:419][798]LogInit: FAudioDevice initialized with ID 9.
+[2026.05.22-12.01.26:419][798]LogAudio: Display: Audio Device (ID: 9) registered with world 'DEWKWAR'.
+[2026.05.22-12.01.26:419][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.05.22-12.01.26:419][798]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.05.22-12.01.26:424][798]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.05.22-12.01.26:426][798]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.05.22-14.01.26
+[2026.05.22-12.01.26:426][798]LogWorld: Bringing up level for play took: 0.001394
+[2026.05.22-12.01.26:430][798]PIE: Server logged in
+[2026.05.22-12.01.26:433][798]PIE: Play in editor total start time 0,195 seconds.
+[2026.05.22-12.01.26:489][799]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.22-12.01.27:277][879]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.05.22-12.01.28:765][ 45]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.22-12.01.29:221][ 97]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.22-12.01.29:679][148]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.22-12.01.32:485][465]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.22-12.01.32:863][508]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.22-12.01.33:263][553]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.22-12.01.35:510][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.22-12.01.35:510][798]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.05.22-12.01.35:510][798]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-12.01.35:510][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-12.01.35:511][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.22-12.01.35:522][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-12.01.35:559][798]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.22-12.01.35:560][798]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.05.22-12.01.35:560][798]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.05.22-12.01.35:562][798]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.05.22-12.01.35:570][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.22-12.01.35:573][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.05.22-12.01.35:736][799]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.05.22-12.01.37:194][915]LogSlate: Window 'Message Log' being destroyed
+[2026.05.22-12.01.37:203][915]LogSlate: Window 'Message Log' being destroyed
+[2026.05.22-12.01.45:989][722]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.22-12.01.46:002][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.22-12.01.46:002][722]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2026.05.22-12.01.46:004][722]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.05.22-12.01.46:025][723]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.05.22-12.01.46:030][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005275s)
+[2026.05.22-12.01.46:030][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.005350s)
+[2026.05.22-12.01.46:074][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.05.22-12.01.46:075][723]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.05.22-12.01.46:078][723]LogPlayLevel: PIE: World Init took: (0.002322s)
+[2026.05.22-12.01.46:079][723]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.05.22-12.01.46:079][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.22-12.01.46:079][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.22-12.01.46:079][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.22-12.01.46:079][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.22-12.01.46:079][723]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.22-12.01.46:080][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.22-12.01.46:080][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.22-12.01.46:080][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.22-12.01.46:080][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.22-12.01.46:080][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.22-12.01.46:080][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.22-12.01.46:082][723]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.22-12.01.46:172][723]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.05.22-12.01.46:172][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.22-12.01.46:172][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.22-12.01.46:173][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.22-12.01.46:173][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.05.22-12.01.46:173][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.05.22-12.01.46:177][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.05.22-12.01.46:177][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.05.22-12.01.46:177][723]LogInit: FAudioDevice initialized with ID 10.
+[2026.05.22-12.01.46:177][723]LogAudio: Display: Audio Device (ID: 10) registered with world 'DEWKWAR'.
+[2026.05.22-12.01.46:177][723]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.22-12.01.46:185][723]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.05.22-12.01.46:187][723]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.05.22-14.01.46
+[2026.05.22-12.01.46:187][723]LogWorld: Bringing up level for play took: 0.001656
+[2026.05.22-12.01.46:190][723]PIE: Server logged in
+[2026.05.22-12.01.46:193][723]PIE: Play in editor total start time 0,192 seconds.
+[2026.05.22-12.01.46:250][724]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.22-12.01.57:820][906]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.05.22-12.02.03:652][547]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.22-12.02.04:214][609]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.22-12.02.04:746][667]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.22-12.02.13:803][652]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.22-12.02.15:572][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.22-12.02.15:572][830]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.05.22-12.02.15:572][830]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-12.02.15:572][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-12.02.15:579][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.22-12.02.15:586][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-12.02.15:625][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.22-12.02.15:625][830]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.22-12.02.15:626][830]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.05.22-12.02.15:629][830]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.05.22-12.02.15:640][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.05.22-12.02.15:800][831]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.05.22-12.02.17:258][904]LogSlate: Window 'Message Log' being destroyed
+[2026.05.22-12.02.17:272][904]LogSlate: Window 'Message Log' being destroyed
+[2026.05.22-12.03.28:478][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.05.22-12.03.29:707][297]LogSlate: Window 'Save Content' being destroyed
+[2026.05.22-12.03.29:744][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-12.03.29:813][297]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux] ([2] browsable assets)...
+[2026.05.22-12.03.29:814][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux]
+[2026.05.22-12.03.29:814][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/WBP_Pierre_Pradal_Ciseaux.uasset" SILENT=true
+[2026.05.22-12.03.29:868][297]LogSavePackage: Moving output files for package: /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux
+[2026.05.22-12.03.29:869][297]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_Pierre_Pradal_Ciseaux8ADF5EF242E0384B29260D9AF09F8D8C.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/WBP_Pierre_Pradal_Ciseaux.uasset'
+[2026.05.22-12.03.29:884][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.823 ms (total: 1.25 sec)
+[2026.05.22-12.03.29:950][297]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.22-12.03.29:950][297]LogContentValidation: Enabled validators:
+[2026.05.22-12.03.29:950][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-12.03.29:950][297]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-12.03.29:950][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-12.03.29:950][297]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-12.03.29:950][297]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-12.03.29:950][297]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-12.03.29:951][297]AssetCheck: /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux Validating asset
+[2026.05.22-12.03.34:416][654]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI_UX/MENU_Principal.MENU_Principal
+[2026.05.22-12.03.34:416][654]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.05.22-12.03.34:425][654]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.05.22-12.03.43:674][173]LogStreaming: Display: FlushAsyncLoading(527): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-12.03.50:745][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.05.22-12.03.50:759][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-12.03.50:831][949]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/MENU_Principal] ([2] browsable assets)...
+[2026.05.22-12.03.50:838][949]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/MENU_Principal.MENU_Principal]
+[2026.05.22-12.03.50:838][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/MENU_Principal]
+[2026.05.22-12.03.50:838][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/MENU_Principal" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/MENU_Principal.uasset" SILENT=true
+[2026.05.22-12.03.50:856][949]LogSavePackage: Moving output files for package: /Game/UI_UX/MENU_Principal
+[2026.05.22-12.03.50:857][949]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/MENU_PrincipalB64B5C1D43A8BF7E13F8728298A2BE9E.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/MENU_Principal.uasset'
+[2026.05.22-12.03.50:875][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.834 ms (total: 1.37 sec)
+[2026.05.22-12.03.50:928][949]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.22-12.03.50:928][949]LogContentValidation: Enabled validators:
+[2026.05.22-12.03.50:928][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-12.03.50:928][949]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-12.03.50:928][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-12.03.50:928][949]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-12.03.50:928][949]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-12.03.50:928][949]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-12.03.50:929][949]AssetCheck: /Game/UI_UX/MENU_Principal Validating asset
+[2026.05.22-12.05.29:412][913]LogEditorTransaction: Undo Edit Bottom
+[2026.05.22-12.05.57:576][618]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.57:579][618]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.57:720][619]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.57:735][619]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.57:876][620]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.57:880][620]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:153][622]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:163][623]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:185][625]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:196][626]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:220][628]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:232][629]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:253][631]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:264][632]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:288][634]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:299][635]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:321][637]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:334][638]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:357][640]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:368][641]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:389][643]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:400][644]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:420][646]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:431][647]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:453][649]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:464][650]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:489][652]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:499][653]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.58:519][655]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.05.22-12.05.59:682][731]LogEditorTransaction: Undo Edit Bottom
+[2026.05.22-12.06.35:364][839]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1371.568726
+[2026.05.22-12.06.35:556][855]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.22-12.06.35:556][855]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1371.749146, Update Interval: 345.314484
+[2026.05.22-12.07.30:064][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.05.22-12.07.30:076][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-12.07.30:144][436]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/MENU_Principal] ([2] browsable assets)...
+[2026.05.22-12.07.30:149][436]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/MENU_Principal.MENU_Principal]
+[2026.05.22-12.07.30:150][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/MENU_Principal]
+[2026.05.22-12.07.30:150][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/MENU_Principal" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/MENU_Principal.uasset" SILENT=true
+[2026.05.22-12.07.30:171][436]LogSavePackage: Moving output files for package: /Game/UI_UX/MENU_Principal
+[2026.05.22-12.07.30:172][436]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/MENU_PrincipalE91EAEB6491CA395EDAF949D5AED6D3F.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/MENU_Principal.uasset'
+[2026.05.22-12.07.30:187][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.407 ms (total: 1.48 sec)
+[2026.05.22-12.07.30:277][436]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.22-12.07.30:277][436]LogContentValidation: Enabled validators:
+[2026.05.22-12.07.30:277][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-12.07.30:277][436]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-12.07.30:277][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-12.07.30:277][436]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-12.07.30:277][436]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-12.07.30:277][436]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-12.07.30:278][436]AssetCheck: /Game/UI_UX/MENU_Principal Validating asset
+[2026.05.22-12.07.31:935][587]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.22-12.07.31:948][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.22-12.07.31:948][587]LogPlayLevel: Display: Creating online subsystem for client :Context_15
+[2026.05.22-12.07.31:951][587]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.05.22-12.07.31:967][588]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.05.22-12.07.31:972][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004597s)
+[2026.05.22-12.07.31:972][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.004672s)
+[2026.05.22-12.07.32:013][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.05.22-12.07.32:016][588]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.05.22-12.07.32:019][588]LogPlayLevel: PIE: World Init took: (0.002793s)
+[2026.05.22-12.07.32:020][588]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.05.22-12.07.32:020][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.22-12.07.32:020][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.22-12.07.32:020][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.22-12.07.32:020][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.22-12.07.32:020][588]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.22-12.07.32:020][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.22-12.07.32:020][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.22-12.07.32:020][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.22-12.07.32:020][588]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.22-12.07.32:020][588]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.22-12.07.32:020][588]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.22-12.07.32:023][588]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.22-12.07.32:114][588]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.05.22-12.07.32:115][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.22-12.07.32:115][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.22-12.07.32:115][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.22-12.07.32:115][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.05.22-12.07.32:115][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.05.22-12.07.32:120][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.05.22-12.07.32:120][588]LogInit: FAudioDevice initialized with ID 11.
+[2026.05.22-12.07.32:120][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.05.22-12.07.32:120][588]LogAudio: Display: Audio Device (ID: 11) registered with world 'DEWKWAR'.
+[2026.05.22-12.07.32:120][588]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.05.22-12.07.32:126][588]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.05.22-12.07.32:127][588]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.05.22-14.07.32
+[2026.05.22-12.07.32:128][588]LogWorld: Bringing up level for play took: 0.001680
+[2026.05.22-12.07.32:132][588]PIE: Server logged in
+[2026.05.22-12.07.32:136][588]PIE: Play in editor total start time 0,189 seconds.
+[2026.05.22-12.07.32:190][589]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.22-12.07.33:343][705]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.05.22-12.07.35:294][918]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.22-12.07.35:996][994]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.22-12.07.36:425][ 40]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.22-12.07.37:165][120]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.22-12.07.37:483][153]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.22-12.07.37:786][185]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.22-12.08.47:299][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.22-12.08.47:299][652]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.05.22-12.08.47:300][652]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-12.08.47:300][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-12.08.47:302][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.22-12.08.47:311][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-12.08.47:352][652]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.22-12.08.47:352][652]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.05.22-12.08.47:352][652]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.05.22-12.08.47:355][652]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.05.22-12.08.47:361][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.22-12.08.47:365][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.05.22-12.08.47:505][653]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.05.22-12.08.50:340][879]LogSlate: Window 'Message Log' being destroyed
+[2026.05.22-12.08.50:362][879]LogSlate: Window 'Message Log' being destroyed
+[2026.05.22-12.09.14:203][240]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.05.22-12.12.47:293][629]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1743.499512
+[2026.05.22-12.12.47:479][640]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.22-12.12.47:479][640]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1743.670410, Update Interval: 314.064758
