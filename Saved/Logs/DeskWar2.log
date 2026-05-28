@@ -1402,3 +1402,150 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.28-08.26.21:367][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.28-08.26.21:367][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.28-08.26.21:368][986]AssetCheck: /Game/HUD_Game/Spam_Bar/WBP_SPam Validating asset
+[2026.05.28-08.26.40:075][351]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 362.705994
+[2026.05.28-08.26.41:077][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-08.26.41:078][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 363.372742, Update Interval: 318.300110
+[2026.05.28-08.27.50:606][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.05.28-08.27.50:736][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.28-08.27.50:800][169]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/Spam_Bar/WBP_SPam] ([2] browsable assets)...
+[2026.05.28-08.27.50:803][169]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/Spam_Bar/WBP_SPam.WBP_SPam]
+[2026.05.28-08.27.50:803][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/Spam_Bar/WBP_SPam]
+[2026.05.28-08.27.50:803][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/Spam_Bar/WBP_SPam" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset" SILENT=true
+[2026.05.28-08.27.50:846][169]LogSavePackage: Moving output files for package: /Game/HUD_Game/Spam_Bar/WBP_SPam
+[2026.05.28-08.27.50:847][169]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SPam0DC206D749C021D45EC9EAA3376E9204.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset'
+[2026.05.28-08.27.50:858][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.411 ms (total: 250.503 ms)
+[2026.05.28-08.27.50:931][169]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.28-08.27.50:931][169]LogContentValidation: Enabled validators:
+[2026.05.28-08.27.50:931][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.28-08.27.50:931][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.28-08.27.50:931][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.28-08.27.50:931][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.28-08.27.50:931][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.28-08.27.50:931][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.28-08.27.50:932][169]AssetCheck: /Game/HUD_Game/Spam_Bar/WBP_SPam Validating asset
+[2026.05.28-08.28.05:970][566]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:970][566]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:970][566]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:974][567]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:974][567]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:974][567]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:974][567]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:974][567]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:974][567]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:974][567]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:974][567]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:974][567]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:974][567]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:974][567]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:974][567]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:980][567]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:983][568]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:983][568]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:983][568]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:983][568]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:983][568]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:983][568]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:983][568]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:983][568]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:983][568]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:983][568]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:983][568]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:983][568]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:983][568]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.05:983][568]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.06:179][591]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.28.06:179][591]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.30:61567, Sequence=0
+[2026.05.28-08.31.14:180][902]Cmd: TRANSACTION UNDO
+[2026.05.28-08.31.14:180][902]LogEditorTransaction: Undo Animatable Property Changed
+[2026.05.28-08.31.58:335][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.05.28-08.31.58:337][520]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.051
+[2026.05.28-08.31.58:337][520]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/Spam_Bar/WBP_SPam] ([2] browsable assets)...
+[2026.05.28-08.31.58:342][520]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/Spam_Bar/WBP_SPam.WBP_SPam]
+[2026.05.28-08.31.58:342][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/Spam_Bar/WBP_SPam]
+[2026.05.28-08.31.58:387][520]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD_Game/Spam_Bar/WBP_SPam_Auto1
+[2026.05.28-08.31.58:388][520]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SPam_Auto11B81183046E7BF8A2AD215BE88C7ED73.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/HUD_Game/Spam_Bar/WBP_SPam_Auto1.uasset'
+[2026.05.28-08.31.58:390][520]LogFileHelpers: Auto-saving content packages took 0.055
+[2026.05.28-08.32.02:358][845]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 684.992371
+[2026.05.28-08.32.02:509][858]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-08.32.02:509][858]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 685.132751, Update Interval: 351.979736
+[2026.05.28-08.35.19:647][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.05.28-08.35.19:834][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.28-08.35.19:897][322]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/Spam_Bar/WBP_SPam] ([2] browsable assets)...
+[2026.05.28-08.35.19:900][322]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/Spam_Bar/WBP_SPam.WBP_SPam]
+[2026.05.28-08.35.19:900][322]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/Spam_Bar/WBP_SPam]
+[2026.05.28-08.35.19:900][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/Spam_Bar/WBP_SPam" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset" SILENT=true
+[2026.05.28-08.35.19:945][322]LogSavePackage: Moving output files for package: /Game/HUD_Game/Spam_Bar/WBP_SPam
+[2026.05.28-08.35.19:946][322]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SPam5026BA584EE25C4BE928D8907FF3A2F6.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset'
+[2026.05.28-08.35.19:960][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.164 ms (total: 375.668 ms)
+[2026.05.28-08.35.20:030][322]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.28-08.35.20:030][322]LogContentValidation: Enabled validators:
+[2026.05.28-08.35.20:030][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.28-08.35.20:030][322]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.28-08.35.20:030][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.28-08.35.20:030][322]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.28-08.35.20:030][322]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.28-08.35.20:030][322]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.28-08.35.20:031][322]AssetCheck: /Game/HUD_Game/Spam_Bar/WBP_SPam Validating asset
+[2026.05.28-08.37.59:240][295]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1041.875244
+[2026.05.28-08.37.59:415][308]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-08.37.59:415][308]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1042.036499, Update Interval: 336.962799
+[2026.05.28-08.41.58:760][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.05.28-08.41.58:761][860]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.048
+[2026.05.28-08.41.58:763][860]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Game/Spam_Bar/WBP_SPam] ([2] browsable assets)...
+[2026.05.28-08.41.58:763][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/Spam_Bar/WBP_SPam]
+[2026.05.28-08.41.58:810][860]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD_Game/Spam_Bar/WBP_SPam_Auto2
+[2026.05.28-08.41.58:810][860]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SPam_Auto253C0F8184B7D2C9C8FE4A59ABC914853.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/HUD_Game/Spam_Bar/WBP_SPam_Auto2.uasset'
+[2026.05.28-08.41.58:811][860]LogFileHelpers: Auto-saving content packages took 0.050
+[2026.05.28-08.43.49:914][400]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1392.560425
+[2026.05.28-08.43.50:086][413]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-08.43.50:086][413]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1392.719238, Update Interval: 304.246338
+[2026.05.28-08.49.13:790][851]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1716.435303
+[2026.05.28-08.49.13:950][863]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-08.49.13:950][863]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1716.581543, Update Interval: 321.634583
+[2026.05.28-08.49.59:394][303]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.176:54336, Sequence=0
+[2026.05.28-08.55.26:201][834]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2088.852783
+[2026.05.28-08.55.26:380][847]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-08.55.26:380][847]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2089.018311, Update Interval: 313.856018
+[2026.05.28-08.58.21:400][731]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.176:54336, Sequence=0
+[2026.05.28-08.58.25:424][ 37]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.176:54336, Sequence=0
+[2026.05.28-08.58.34:128][690]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.176:54336, Sequence=0
+[2026.05.28-08.58.34:207][696]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.176:54336, Sequence=0
+[2026.05.28-08.58.34:228][698]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.176:54336, Sequence=0
+[2026.05.28-08.58.34:275][702]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.176:54336, Sequence=0
+[2026.05.28-08.58.34:294][703]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.176:54336, Sequence=0
+[2026.05.28-08.58.34:389][710]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.176:54336, Sequence=0
+[2026.05.28-08.58.34:608][727]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.176:54336, Sequence=0
+[2026.05.28-08.58.34:769][739]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.176:54336, Sequence=0
+[2026.05.28-08.58.34:891][749]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.176:54336, Sequence=0
+[2026.05.28-09.01.12:823][688]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2435.491943
+[2026.05.28-09.01.13:007][702]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-09.01.13:008][702]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2435.663574, Update Interval: 349.176300
+[2026.05.28-09.07.51:909][ 50]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2834.584473
+[2026.05.28-09.07.52:091][ 63]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-09.07.52:091][ 63]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2834.754639, Update Interval: 328.003174
+[2026.05.28-09.11.51:656][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.05.28-09.11.51:658][122]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.054
+[2026.05.28-09.11.51:658][122]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/Spam_Bar/WBP_SPam] ([2] browsable assets)...
+[2026.05.28-09.11.51:661][122]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/Spam_Bar/WBP_SPam.WBP_SPam]
+[2026.05.28-09.11.51:661][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/Spam_Bar/WBP_SPam]
+[2026.05.28-09.11.51:711][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD_Game/Spam_Bar/WBP_SPam_Auto3
+[2026.05.28-09.11.51:712][122]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SPam_Auto3BBA147C94F3406EDD8CE5083DC581E11.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/HUD_Game/Spam_Bar/WBP_SPam_Auto3.uasset'
+[2026.05.28-09.11.51:714][122]LogFileHelpers: Auto-saving content packages took 0.056
+[2026.05.28-09.12.13:262][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.05.28-09.12.13:394][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.28-09.12.13:433][257]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/Spam_Bar/WBP_SPam] ([2] browsable assets)...
+[2026.05.28-09.12.13:437][257]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/Spam_Bar/WBP_SPam.WBP_SPam]
+[2026.05.28-09.12.13:438][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/Spam_Bar/WBP_SPam]
+[2026.05.28-09.12.13:438][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/Spam_Bar/WBP_SPam" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset" SILENT=true
+[2026.05.28-09.12.13:485][257]LogSavePackage: Moving output files for package: /Game/HUD_Game/Spam_Bar/WBP_SPam
+[2026.05.28-09.12.13:486][257]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SPam8808462F46213FCFDC571F967B1EF6B8.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset'
+[2026.05.28-09.12.13:499][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.725 ms (total: 480.394 ms)
+[2026.05.28-09.12.13:566][257]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.28-09.12.13:567][257]LogContentValidation: Enabled validators:
+[2026.05.28-09.12.13:567][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.28-09.12.13:567][257]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.28-09.12.13:567][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.28-09.12.13:567][257]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.28-09.12.13:567][257]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.28-09.12.13:567][257]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.28-09.12.13:567][257]AssetCheck: /Game/HUD_Game/Spam_Bar/WBP_SPam Validating asset
