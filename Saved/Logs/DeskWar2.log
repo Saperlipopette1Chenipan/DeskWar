@@ -2050,3 +2050,213 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.28-08.08.27:736][523]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/meuf dos.png]
 [2026.05.28-08.08.27:834][523]LogInterchangeEngine: [Pending] Importing - Operation completed.
 [2026.05.28-08.08.27:834][523]LogInterchangeEngine: [Success] Import Done
+[2026.05.28-08.09.13:629][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.05.28-08.09.13:818][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.28-08.09.13:875][169]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/Spam_Bar/WBP_SPam] ([2] browsable assets)...
+[2026.05.28-08.09.13:879][169]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/Spam_Bar/WBP_SPam.WBP_SPam]
+[2026.05.28-08.09.13:879][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/Spam_Bar/WBP_SPam]
+[2026.05.28-08.09.13:879][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/Spam_Bar/WBP_SPam" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset" SILENT=true
+[2026.05.28-08.09.13:919][169]LogSavePackage: Moving output files for package: /Game/HUD_Game/Spam_Bar/WBP_SPam
+[2026.05.28-08.09.13:920][169]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SPamDE5A78A241E222AC7B0CB2B6FB3A3A58.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset'
+[2026.05.28-08.09.13:931][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.727 ms (total: 1.43 sec)
+[2026.05.28-08.09.13:989][169]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.28-08.09.13:989][169]LogContentValidation: Enabled validators:
+[2026.05.28-08.09.13:989][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.28-08.09.13:989][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.28-08.09.13:989][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.28-08.09.13:989][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.28-08.09.13:989][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.28-08.09.13:989][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.28-08.09.13:990][169]AssetCheck: /Game/HUD_Game/Spam_Bar/WBP_SPam Validating asset
+[2026.05.28-08.09.23:300][951]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.28-08.09.23:311][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.28-08.09.23:311][951]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.05.28-08.09.23:316][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003568s)
+[2026.05.28-08.09.23:316][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.003628s)
+[2026.05.28-08.09.23:354][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.05.28-08.09.23:355][951]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.05.28-08.09.23:358][951]LogPlayLevel: PIE: World Init took: (0.002450s)
+[2026.05.28-08.09.23:359][951]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.05.28-08.09.23:359][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.28-08.09.23:359][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.28-08.09.23:359][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.28-08.09.23:359][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.28-08.09.23:359][951]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.28-08.09.23:359][951]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.28-08.09.23:359][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.28-08.09.23:360][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.28-08.09.23:360][951]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.28-08.09.23:360][951]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.28-08.09.23:360][951]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.28-08.09.23:363][951]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.28-08.09.23:446][951]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.05.28-08.09.23:446][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.28-08.09.23:446][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.28-08.09.23:446][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.28-08.09.23:447][951]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.05.28-08.09.23:447][951]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.05.28-08.09.23:451][951]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.05.28-08.09.23:451][951]LogInit: FAudioDevice initialized with ID 10.
+[2026.05.28-08.09.23:451][951]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.05.28-08.09.23:451][951]LogAudio: Display: Audio Device (ID: 10) registered with world 'DEWKWAR'.
+[2026.05.28-08.09.23:451][951]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.28-08.09.23:456][951]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.05.28-08.09.23:457][951]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.05.28-10.09.23
+[2026.05.28-08.09.23:458][951]LogWorld: Bringing up level for play took: 0.001318
+[2026.05.28-08.09.23:461][951]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.05.28-08.09.23:466][951]PIE: Server logged in
+[2026.05.28-08.09.23:470][951]PIE: Play in editor total start time 0,159 seconds.
+[2026.05.28-08.09.23:545][952]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.28-08.09.24:400][ 28]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.05.28-08.09.27:019][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.28-08.09.27:019][285]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.05.28-08.09.27:019][285]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-08.09.27:020][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-08.09.27:021][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.28-08.09.27:029][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-08.09.27:068][285]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.28-08.09.27:068][285]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.28-08.09.27:068][285]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.05.28-08.09.27:071][285]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.05.28-08.09.27:076][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.28-08.09.27:080][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2026.05.28-08.09.27:300][286]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.05.28-08.09.29:333][425]LogSlate: Window 'Message Log' being destroyed
+[2026.05.28-08.09.29:348][425]LogSlate: Window 'Message Log' being destroyed
+[2026.05.28-08.09.45:194][766]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3155.208252
+[2026.05.28-08.09.45:366][781]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-08.09.45:366][781]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3155.369385, Update Interval: 306.231262
+[2026.05.28-08.13.32:864][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.05.28-08.13.33:890][193]LogSlate: Window 'Save Content' being destroyed
+[2026.05.28-08.13.33:907][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.28-08.13.33:973][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/BA] ([1] browsable assets)...
+[2026.05.28-08.13.33:976][193]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/BA.BA]
+[2026.05.28-08.13.33:976][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/BA]
+[2026.05.28-08.13.33:976][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/BA" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/BA.uasset" SILENT=true
+[2026.05.28-08.13.33:996][193]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/BA
+[2026.05.28-08.13.33:996][193]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/BA25924DF145CBA5DFA6D3A4B097501F5E.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/BA.uasset'
+[2026.05.28-08.13.34:001][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/BB] ([1] browsable assets)...
+[2026.05.28-08.13.34:003][193]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/BB.BB]
+[2026.05.28-08.13.34:003][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/BB]
+[2026.05.28-08.13.34:003][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/BB" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/BB.uasset" SILENT=true
+[2026.05.28-08.13.34:022][193]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/BB
+[2026.05.28-08.13.34:022][193]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/BB8C119809460029E5175DF99E6ED4DA6F.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/BB.uasset'
+[2026.05.28-08.13.34:024][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/BX] ([1] browsable assets)...
+[2026.05.28-08.13.34:027][193]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/BX.BX]
+[2026.05.28-08.13.34:027][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/BX]
+[2026.05.28-08.13.34:027][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/BX" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/BX.uasset" SILENT=true
+[2026.05.28-08.13.34:046][193]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/BX
+[2026.05.28-08.13.34:046][193]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/BXB602479A49A4DDC6B30ECE8404FAADD9.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/BX.uasset'
+[2026.05.28-08.13.34:048][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/BY] ([1] browsable assets)...
+[2026.05.28-08.13.34:050][193]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/BY.BY]
+[2026.05.28-08.13.34:050][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/BY]
+[2026.05.28-08.13.34:050][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/BY" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/BY.uasset" SILENT=true
+[2026.05.28-08.13.34:069][193]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/BY
+[2026.05.28-08.13.34:069][193]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/BYB9D5425441F80669EA6FADA15A7524A7.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/BY.uasset'
+[2026.05.28-08.13.34:071][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux] ([2] browsable assets)...
+[2026.05.28-08.13.34:071][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux]
+[2026.05.28-08.13.34:071][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/WBP_Pierre_Pradal_Ciseaux.uasset" SILENT=true
+[2026.05.28-08.13.34:130][193]LogSavePackage: Moving output files for package: /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux
+[2026.05.28-08.13.34:130][193]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_Pierre_Pradal_CiseauxAC538B014FFECB1423E8979769EE79D5.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/WBP_Pierre_Pradal_Ciseaux.uasset'
+[2026.05.28-08.13.34:133][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/crayon] ([1] browsable assets)...
+[2026.05.28-08.13.34:136][193]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/crayon.crayon]
+[2026.05.28-08.13.34:136][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/crayon]
+[2026.05.28-08.13.34:136][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/crayon" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/crayon.uasset" SILENT=true
+[2026.05.28-08.13.34:154][193]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/crayon
+[2026.05.28-08.13.34:154][193]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/crayon31D0061B40595D0F4D9FE0B5890EF3D5.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/crayon.uasset'
+[2026.05.28-08.13.34:156][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/gomme] ([1] browsable assets)...
+[2026.05.28-08.13.34:158][193]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/gomme.gomme]
+[2026.05.28-08.13.34:158][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/gomme]
+[2026.05.28-08.13.34:158][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/gomme" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/gomme.uasset" SILENT=true
+[2026.05.28-08.13.34:178][193]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/gomme
+[2026.05.28-08.13.34:178][193]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/gomme9FFE5B8344A095B34B91D1A567375D83.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/gomme.uasset'
+[2026.05.28-08.13.34:182][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/mec_dos] ([1] browsable assets)...
+[2026.05.28-08.13.34:184][193]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/mec_dos.mec_dos]
+[2026.05.28-08.13.34:184][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/mec_dos]
+[2026.05.28-08.13.34:184][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/mec_dos" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/mec_dos.uasset" SILENT=true
+[2026.05.28-08.13.34:204][193]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/mec_dos
+[2026.05.28-08.13.34:204][193]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/mec_dos89E952964C8FFCB8F9DD49B189FB5FF9.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/mec_dos.uasset'
+[2026.05.28-08.13.34:206][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/mec_regarde] ([1] browsable assets)...
+[2026.05.28-08.13.34:208][193]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/mec_regarde.mec_regarde]
+[2026.05.28-08.13.34:208][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/mec_regarde]
+[2026.05.28-08.13.34:208][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/mec_regarde" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/mec_regarde.uasset" SILENT=true
+[2026.05.28-08.13.34:229][193]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/mec_regarde
+[2026.05.28-08.13.34:229][193]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/mec_regarde34ABBCA645BB2FD6B1CB748D950656BC.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/mec_regarde.uasset'
+[2026.05.28-08.13.34:231][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/meuf_dos] ([1] browsable assets)...
+[2026.05.28-08.13.34:233][193]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/meuf_dos.meuf_dos]
+[2026.05.28-08.13.34:233][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/meuf_dos]
+[2026.05.28-08.13.34:233][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/meuf_dos" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/meuf_dos.uasset" SILENT=true
+[2026.05.28-08.13.34:253][193]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/meuf_dos
+[2026.05.28-08.13.34:253][193]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/meuf_dos865BA1A74CBD47B8B76F38914C10758E.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/meuf_dos.uasset'
+[2026.05.28-08.13.34:256][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/meuf_regarde] ([1] browsable assets)...
+[2026.05.28-08.13.34:258][193]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/meuf_regarde.meuf_regarde]
+[2026.05.28-08.13.34:258][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/meuf_regarde]
+[2026.05.28-08.13.34:258][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/meuf_regarde" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/meuf_regarde.uasset" SILENT=true
+[2026.05.28-08.13.34:278][193]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/meuf_regarde
+[2026.05.28-08.13.34:278][193]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/meuf_regardeF81520CD4CA3F1E2779C4A818B12C835.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/meuf_regarde.uasset'
+[2026.05.28-08.13.34:281][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/trou_gomme_1] ([1] browsable assets)...
+[2026.05.28-08.13.34:284][193]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/trou_gomme_1.trou_gomme_1]
+[2026.05.28-08.13.34:284][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/trou_gomme_1]
+[2026.05.28-08.13.34:284][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/trou_gomme_1" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/trou_gomme_1.uasset" SILENT=true
+[2026.05.28-08.13.34:295][193]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/trou_gomme_1
+[2026.05.28-08.13.34:295][193]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/trou_gomme_1C103D40A49EE906548A17E9F245850DA.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/trou_gomme_1.uasset'
+[2026.05.28-08.13.34:297][193]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/trou_gomme_2] ([1] browsable assets)...
+[2026.05.28-08.13.34:299][193]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/trou_gomme_2.trou_gomme_2]
+[2026.05.28-08.13.34:299][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/trou_gomme_2]
+[2026.05.28-08.13.34:299][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/trou_gomme_2" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/trou_gomme_2.uasset" SILENT=true
+[2026.05.28-08.13.34:311][193]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/trou_gomme_2
+[2026.05.28-08.13.34:311][193]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/trou_gomme_293D6E8F2438D376BC48852B68E5C9821.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/trou_gomme_2.uasset'
+[2026.05.28-08.13.34:327][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 419.536 ms (total: 1.85 sec)
+[2026.05.28-08.13.34:388][193]LogContentValidation: Display: Starting to validate 13 assets
+[2026.05.28-08.13.34:388][193]LogContentValidation: Enabled validators:
+[2026.05.28-08.13.34:388][193]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.28-08.13.34:389][193]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.28-08.13.34:389][193]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.28-08.13.34:389][193]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.28-08.13.34:389][193]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.28-08.13.34:389][193]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.28-08.13.34:389][193]AssetCheck: /Game/ASSETS/Elements/BA Validating asset
+[2026.05.28-08.13.34:389][193]AssetCheck: /Game/ASSETS/Elements/BB Validating asset
+[2026.05.28-08.13.34:389][193]AssetCheck: /Game/ASSETS/Elements/BX Validating asset
+[2026.05.28-08.13.34:389][193]AssetCheck: /Game/ASSETS/Elements/BY Validating asset
+[2026.05.28-08.13.34:391][193]AssetCheck: /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux Validating asset
+[2026.05.28-08.13.34:391][193]AssetCheck: /Game/ASSETS/Elements/crayon Validating asset
+[2026.05.28-08.13.34:391][193]AssetCheck: /Game/ASSETS/Elements/gomme Validating asset
+[2026.05.28-08.13.34:391][193]AssetCheck: /Game/ASSETS/Elements/mec_dos Validating asset
+[2026.05.28-08.13.34:392][193]AssetCheck: /Game/ASSETS/Elements/mec_regarde Validating asset
+[2026.05.28-08.13.34:392][193]AssetCheck: /Game/ASSETS/Elements/meuf_dos Validating asset
+[2026.05.28-08.13.34:392][193]AssetCheck: /Game/ASSETS/Elements/meuf_regarde Validating asset
+[2026.05.28-08.13.34:392][193]AssetCheck: /Game/ASSETS/Elements/trou_gomme_1 Validating asset
+[2026.05.28-08.13.34:392][193]AssetCheck: /Game/ASSETS/Elements/trou_gomme_2 Validating asset
+[2026.05.28-08.13.34:419][193]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.28-08.13.38:855][447]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ASSETS/Elements/BX.BX
+[2026.05.28-08.13.39:441][447]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2026.05.28-08.13.39:441][447]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2026.05.28-08.13.39:441][447]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2026.05.28-08.13.39:441][447]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2026.05.28-08.14.07:839][ 59]LogSlate: Window 'Color Picker' being destroyed
+[2026.05.28-08.15.04:460][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.05.28-08.15.04:646][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.28-08.15.04:706][520]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/Spam_Bar/WBP_SPam] ([2] browsable assets)...
+[2026.05.28-08.15.04:709][520]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/Spam_Bar/WBP_SPam.WBP_SPam]
+[2026.05.28-08.15.04:709][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/Spam_Bar/WBP_SPam]
+[2026.05.28-08.15.04:709][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/Spam_Bar/WBP_SPam" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset" SILENT=true
+[2026.05.28-08.15.04:748][520]LogSavePackage: Moving output files for package: /Game/HUD_Game/Spam_Bar/WBP_SPam
+[2026.05.28-08.15.04:749][520]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SPam573E8B1B41B2797F5A7C6E902D92A3AA.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset'
+[2026.05.28-08.15.04:761][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.108 ms (total: 1.97 sec)
+[2026.05.28-08.15.04:823][520]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.28-08.15.04:823][520]LogContentValidation: Enabled validators:
+[2026.05.28-08.15.04:823][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.28-08.15.04:823][520]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.28-08.15.04:823][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.28-08.15.04:823][520]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.28-08.15.04:823][520]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.28-08.15.04:823][520]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.28-08.15.04:824][520]AssetCheck: /Game/HUD_Game/Spam_Bar/WBP_SPam Validating asset
+[2026.05.28-08.15.38:376][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3508.385010
+[2026.05.28-08.15.38:528][514]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-08.15.38:528][514]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3508.526123, Update Interval: 315.782349
+[2026.05.28-08.16.24:116][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.05.28-08.16.25:700][956]LogSlate: Window 'Save Content' being destroyed
