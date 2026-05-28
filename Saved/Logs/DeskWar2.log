@@ -1717,3 +1717,336 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.28-07.28.09:374][117]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.28-07.28.09:374][117]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.28-07.28.09:375][117]AssetCheck: /Game/Map/DEWKWAR Validating asset
+[2026.05.28-07.32.09:568][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.05.28-07.32.09:611][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.28-07.32.09:673][776]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux] ([2] browsable assets)...
+[2026.05.28-07.32.09:679][776]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux.WBP_Pierre_Pradal_Ciseaux]
+[2026.05.28-07.32.09:679][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux]
+[2026.05.28-07.32.09:679][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/WBP_Pierre_Pradal_Ciseaux.uasset" SILENT=true
+[2026.05.28-07.32.09:738][776]LogSavePackage: Moving output files for package: /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux
+[2026.05.28-07.32.09:739][776]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_Pierre_Pradal_Ciseaux78B8C4BA428883F699781EAFF0BF2C7F.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/WBP_Pierre_Pradal_Ciseaux.uasset'
+[2026.05.28-07.32.09:751][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.923 ms (total: 1.05 sec)
+[2026.05.28-07.32.09:823][776]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.28-07.32.09:824][776]LogContentValidation: Enabled validators:
+[2026.05.28-07.32.09:824][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.28-07.32.09:824][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.28-07.32.09:824][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.28-07.32.09:824][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.28-07.32.09:824][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.28-07.32.09:824][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.28-07.32.09:825][776]AssetCheck: /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux Validating asset
+[2026.05.28-07.33.29:381][913]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 979.404236
+[2026.05.28-07.33.29:540][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-07.33.29:540][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 979.551331, Update Interval: 312.537628
+[2026.05.28-07.36.59:806][475]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.28-07.36.59:819][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.28-07.36.59:819][475]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.05.28-07.36.59:823][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003658s)
+[2026.05.28-07.36.59:823][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.003721s)
+[2026.05.28-07.36.59:863][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.05.28-07.36.59:866][475]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.05.28-07.36.59:868][475]LogPlayLevel: PIE: World Init took: (0.002937s)
+[2026.05.28-07.36.59:869][475]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.05.28-07.36.59:869][475]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.28-07.36.59:869][475]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.28-07.36.59:869][475]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.28-07.36.59:869][475]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.28-07.36.59:869][475]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.28-07.36.59:869][475]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.28-07.36.59:869][475]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.28-07.36.59:869][475]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.28-07.36.59:869][475]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.28-07.36.59:870][475]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.28-07.36.59:870][475]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.28-07.36.59:873][475]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.28-07.36.59:961][475]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.05.28-07.36.59:961][475]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.28-07.36.59:961][475]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.28-07.36.59:961][475]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.28-07.36.59:962][475]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.05.28-07.36.59:962][475]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.05.28-07.36.59:966][475]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.05.28-07.36.59:966][475]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.05.28-07.36.59:966][475]LogInit: FAudioDevice initialized with ID 9.
+[2026.05.28-07.36.59:966][475]LogAudio: Display: Audio Device (ID: 9) registered with world 'DEWKWAR'.
+[2026.05.28-07.36.59:966][475]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.05.28-07.36.59:972][475]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.05.28-07.36.59:973][475]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.05.28-09.36.59
+[2026.05.28-07.36.59:973][475]LogWorld: Bringing up level for play took: 0.001103
+[2026.05.28-07.36.59:976][475]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.05.28-07.36.59:982][475]PIE: Server logged in
+[2026.05.28-07.36.59:985][475]PIE: Play in editor total start time 0,167 seconds.
+[2026.05.28-07.37.00:057][476]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.28-07.37.01:198][586]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.05.28-07.37.02:455][720]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.28-07.37.02:623][738]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.28-07.37.02:786][755]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.28-07.37.02:947][771]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.28-07.37.03:087][786]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.28-07.37.03:241][802]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.28-07.37.03:807][862]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.28-07.37.03:980][879]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.28-07.37.04:145][896]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.28-07.37.04:308][913]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.28-07.37.04:461][929]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.28-07.37.04:613][945]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.28-07.37.13:429][862]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.28-07.37.13:591][879]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.28-07.37.13:750][896]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.28-07.37.13:903][912]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.28-07.37.14:058][928]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.28-07.37.14:228][946]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.28-07.37.14:382][962]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.28-07.37.14:541][979]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.28-07.37.14:697][996]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.28-07.37.14:819][  9]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.05.28-07.37.15:489][ 81]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.28-07.37.15:652][ 98]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.28-07.37.15:830][117]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.28-07.37.15:983][133]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.28-07.37.16:125][148]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.05.28-07.37.16:920][231]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.28-07.37.17:085][249]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.28-07.37.17:252][267]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.28-07.37.17:390][281]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.28-07.37.17:558][299]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.05.28-07.37.22:510][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.28-07.37.22:510][803]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.05.28-07.37.22:510][803]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-07.37.22:510][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-07.37.22:512][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.28-07.37.22:519][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-07.37.22:553][803]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.28-07.37.22:554][803]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.05.28-07.37.22:554][803]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.05.28-07.37.22:557][803]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.05.28-07.37.22:564][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.28-07.37.22:567][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.05.28-07.37.22:755][804]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.05.28-07.37.24:812][944]LogSlate: Window 'Message Log' being destroyed
+[2026.05.28-07.37.24:820][944]LogSlate: Window 'Message Log' being destroyed
+[2026.05.28-07.38.37:830][677]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Controller.IMC_Controller
+[2026.05.28-07.38.52:196][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1302.224121
+[2026.05.28-07.38.52:363][350]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-07.38.52:363][350]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1302.383423, Update Interval: 350.875580
+[2026.05.28-07.44.13:233][357]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.05.28-07.44.13:246][357]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.05.28-07.44.13:258][357]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.05.28-07.44.13:291][358]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.05.28-07.44.30:539][652]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_SpamBar
+[2026.05.28-07.44.30:550][652]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.05.28-07.44.42:030][496]LogContentBrowser: Attempting asset rename: WBP_SpamBar -> WBP_SpamUI
+[2026.05.28-07.44.42:165][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.28-07.44.42:165][496]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_SpamUI] ([2] browsable assets)...
+[2026.05.28-07.44.42:169][496]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_SpamUI.WBP_SpamUI]
+[2026.05.28-07.44.42:169][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_SpamUI]
+[2026.05.28-07.44.42:169][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_SpamUI" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_SpamUI.uasset" SILENT=true
+[2026.05.28-07.44.42:181][496]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_SpamUI
+[2026.05.28-07.44.42:181][496]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SpamUIEF7CCC4146A90A153CF629A944557FB1.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_SpamUI.uasset'
+[2026.05.28-07.44.42:192][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.660 ms (total: 1.07 sec)
+[2026.05.28-07.44.42:293][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.05.28-07.44.42:335][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.05.28-07.44.42:373][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.05.28-07.44.42:418][496]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.28-07.44.42:418][496]LogContentValidation: Enabled validators:
+[2026.05.28-07.44.42:418][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.28-07.44.42:418][496]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.28-07.44.42:418][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.28-07.44.42:418][496]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.28-07.44.42:418][496]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.28-07.44.42:418][496]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.28-07.44.42:418][496]AssetCheck: /Game/UI_UX/WBP_SpamUI Validating asset
+[2026.05.28-07.44.42:465][496]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.28-07.44.44:700][690]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI_UX/WBP_SpamUI.WBP_SpamUI
+[2026.05.28-07.44.44:700][690]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.05.28-07.44.44:711][690]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.05.28-07.45.12:089][849]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1682.111572
+[2026.05.28-07.45.12:247][868]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-07.45.12:247][868]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1682.261719, Update Interval: 304.953156
+[2026.05.28-07.47.07:134][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.05.28-07.47.07:137][908]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.064
+[2026.05.28-07.47.07:138][908]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_SpamUI] ([2] browsable assets)...
+[2026.05.28-07.47.07:140][908]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_SpamUI.WBP_SpamUI]
+[2026.05.28-07.47.07:140][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_SpamUI]
+[2026.05.28-07.47.07:140][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_SpamUI" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/UI_UX/WBP_SpamUI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.05.28-07.47.07:154][908]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_UX/WBP_SpamUI_Auto1
+[2026.05.28-07.47.07:154][908]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SpamUI_Auto130B636364D02E90365BD4D9C12F35C58.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/UI_UX/WBP_SpamUI_Auto1.uasset'
+[2026.05.28-07.47.07:156][908]LogFileHelpers: Auto-saving content packages took 0.019
+[2026.05.28-07.47.13:128][613]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-07.47.13:128][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-07.47.13:139][613]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-07.47.13:139][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-07.47.13:213][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2026.05.28-07.47.18:859][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.05.28-07.47.19:037][ 38]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.05.28-07.47.19:059][ 38]LogSlate: Took 0.021075 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.05.28-07.47.20:239][ 38]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.28-07.47.20:345][ 38]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/UI_UX/WBP_SpamUI.WBP_SpamUI
+	Asset Type: WidgetBlueprint
+[2026.05.28-07.47.20:865][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.05.28-07.47.20:906][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.05.28-07.47.20:944][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.05.28-07.47.57:131][ 26]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD_Game/Spam_Bar/WBP_SPam.WBP_SPam
+[2026.05.28-07.47.57:131][ 26]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.05.28-07.47.57:139][ 26]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.05.28-07.51.14:343][109]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2044.362427
+[2026.05.28-07.51.14:509][124]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-07.51.14:509][124]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2044.517944, Update Interval: 302.129578
+[2026.05.28-07.52.44:519][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.05.28-07.52.44:533][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.28-07.52.44:598][605]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/Spam_Bar/WBP_SPam] ([2] browsable assets)...
+[2026.05.28-07.52.44:602][605]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/Spam_Bar/WBP_SPam.WBP_SPam]
+[2026.05.28-07.52.44:602][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/Spam_Bar/WBP_SPam]
+[2026.05.28-07.52.44:602][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/Spam_Bar/WBP_SPam" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset" SILENT=true
+[2026.05.28-07.52.44:640][605]LogSavePackage: Moving output files for package: /Game/HUD_Game/Spam_Bar/WBP_SPam
+[2026.05.28-07.52.44:641][605]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SPam6A8DD689487AD9FE20021DA10892C8DD.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset'
+[2026.05.28-07.52.44:654][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.206 ms (total: 1.20 sec)
+[2026.05.28-07.52.44:714][605]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.28-07.52.44:714][605]LogContentValidation: Enabled validators:
+[2026.05.28-07.52.44:714][605]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.28-07.52.44:714][605]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.28-07.52.44:714][605]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.28-07.52.44:714][605]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.28-07.52.44:714][605]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.28-07.52.44:714][605]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.28-07.52.44:715][605]AssetCheck: /Game/HUD_Game/Spam_Bar/WBP_SPam Validating asset
+[2026.05.28-07.52.44:794][605]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.28-07.54.11:249][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.05.28-07.54.15:059][143]LogSlate: Window 'Save Content' being destroyed
+[2026.05.28-07.56.54:083][329]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2384.099121
+[2026.05.28-07.56.55:083][332]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-07.56.55:083][332]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2384.766113, Update Interval: 337.367462
+[2026.05.28-07.57.07:516][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.05.28-07.57.07:518][369]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.038
+[2026.05.28-07.57.07:519][369]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux] ([2] browsable assets)...
+[2026.05.28-07.57.07:519][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux]
+[2026.05.28-07.57.07:576][369]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux_Auto2
+[2026.05.28-07.57.07:577][369]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_Pierre_Pradal_Ciseaux_Auto22E4D100A448B4BA25D232B83BBBC9AE0.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux_Auto2.uasset'
+[2026.05.28-07.57.07:579][369]LogFileHelpers: Auto-saving content packages took 0.062
+[2026.05.28-07.59.00:588][302]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.05.28-08.00.18:874][279]LogStreaming: Display: FlushAsyncLoading(531): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.28-08.01.23:707][837]LogStreaming: Display: FlushAsyncLoading(532): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.28-08.03.15:124][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2765.133301
+[2026.05.28-08.03.15:284][517]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.28-08.03.15:284][517]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2765.284424, Update Interval: 358.692596
+[2026.05.28-08.04.24:327][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.05.28-08.04.24:516][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.28-08.04.24:578][836]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/Spam_Bar/WBP_SPam] ([2] browsable assets)...
+[2026.05.28-08.04.24:581][836]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/Spam_Bar/WBP_SPam.WBP_SPam]
+[2026.05.28-08.04.24:581][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/Spam_Bar/WBP_SPam]
+[2026.05.28-08.04.24:582][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/Spam_Bar/WBP_SPam" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset" SILENT=true
+[2026.05.28-08.04.24:624][836]LogSavePackage: Moving output files for package: /Game/HUD_Game/Spam_Bar/WBP_SPam
+[2026.05.28-08.04.24:625][836]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SPam8D94E06146F010F2C3864B9B1C7A35EE.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset'
+[2026.05.28-08.04.24:637][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.205 ms (total: 1.32 sec)
+[2026.05.28-08.04.24:708][836]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.28-08.04.24:708][836]LogContentValidation: Enabled validators:
+[2026.05.28-08.04.24:709][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.28-08.04.24:709][836]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.28-08.04.24:709][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.28-08.04.24:709][836]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.28-08.04.24:709][836]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.28-08.04.24:709][836]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.28-08.04.24:709][836]AssetCheck: /Game/HUD_Game/Spam_Bar/WBP_SPam Validating asset
+[2026.05.28-08.07.08:381][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.05.28-08.07.08:383][664]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.041
+[2026.05.28-08.07.08:384][664]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/Spam_Bar/WBP_SPam] ([2] browsable assets)...
+[2026.05.28-08.07.08:387][664]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/Spam_Bar/WBP_SPam.WBP_SPam]
+[2026.05.28-08.07.08:388][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/Spam_Bar/WBP_SPam]
+[2026.05.28-08.07.08:429][664]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD_Game/Spam_Bar/WBP_SPam_Auto3
+[2026.05.28-08.07.08:429][664]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SPam_Auto3C514834A4209A7FA666DC9BE5BFBC419.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/HUD_Game/Spam_Bar/WBP_SPam_Auto3.uasset'
+[2026.05.28-08.07.08:433][664]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux] ([2] browsable assets)...
+[2026.05.28-08.07.08:433][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux]
+[2026.05.28-08.07.08:489][664]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux_Auto3
+[2026.05.28-08.07.08:490][664]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_Pierre_Pradal_Ciseaux_Auto3F508F0984800295EAD8884AD92F6D5A0.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux_Auto3.uasset'
+[2026.05.28-08.07.08:491][664]LogFileHelpers: Auto-saving content packages took 0.108
+[2026.05.28-08.08.21:363][504]LogStreaming: Display: FlushAsyncLoading(533): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.28-08.08.21:479][504]LogInterchangeEngine: [Pending] Importing
+[2026.05.28-08.08.21:479][504]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/mec dos.png]
+[2026.05.28-08.08.21:481][504]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.05.28-08.08.21:481][504]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/mec regarde.png]
+[2026.05.28-08.08.21:483][504]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.05.28-08.08.21:483][504]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/gomme.png]
+[2026.05.28-08.08.21:484][504]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.05.28-08.08.21:486][504]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.05.28-08.08.21:487][504]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.05.28-08.08.21:488][504]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.05.28-08.08.21:489][504]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.05.28-08.08.21:490][504]LogInterchangeEngine: [Pending] Importing -  (9)
+[2026.05.28-08.08.21:491][504]LogInterchangeEngine: [Pending] Importing -  (10)
+[2026.05.28-08.08.21:492][504]LogInterchangeEngine: [Pending] Importing -  (11)
+[2026.05.28-08.08.21:493][504]LogInterchangeEngine: [Pending] Importing -  (12)
+[2026.05.28-08.08.22:071][506]LogStreaming: Display: FlushAsyncLoading(578): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.28-08.08.22:086][507]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.05.28-08.08.22:088][507]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.05.28-08.08.22:089][507]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.05.28-08.08.22:375][507]LogTexture: Display: Building textures: /Game/ASSETS/Elements/mec_dos.mec_dos (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.05.28-08.08.22:377][508]LogTexture: Display: Building textures: /Game/ASSETS/Elements/mec_regarde.mec_regarde (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.05.28-08.08.22:379][508]LogTexture: Display: Building textures: /Game/ASSETS/Elements/gomme.gomme (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.05.28-08.08.22:734][508]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/mec dos.png]
+[2026.05.28-08.08.22:734][508]LogInterchangeEngine: [Pending] Importing -  (11)
+[2026.05.28-08.08.22:734][508]LogInterchangeEngine: [Pending] Importing -  (11)
+[2026.05.28-08.08.22:734][508]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/BY.png]
+[2026.05.28-08.08.22:735][508]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/mec regarde.png]
+[2026.05.28-08.08.22:735][508]LogInterchangeEngine: [Pending] Importing -  (10)
+[2026.05.28-08.08.22:735][508]LogInterchangeEngine: [Pending] Importing -  (10)
+[2026.05.28-08.08.22:735][508]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/BB.png]
+[2026.05.28-08.08.22:737][508]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/gomme.png]
+[2026.05.28-08.08.22:737][508]LogInterchangeEngine: [Pending] Importing -  (9)
+[2026.05.28-08.08.22:737][508]LogInterchangeEngine: [Pending] Importing -  (9)
+[2026.05.28-08.08.22:737][508]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/BX.png]
+[2026.05.28-08.08.23:705][511]LogStreaming: Display: FlushAsyncLoading(581): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.28-08.08.23:719][512]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.05.28-08.08.23:719][512]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.05.28-08.08.23:720][512]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.05.28-08.08.24:043][512]LogTexture: Display: Building textures: /Game/ASSETS/Elements/BY.BY (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.05.28-08.08.24:046][512]LogTexture: Display: Building textures: /Game/ASSETS/Elements/BB.BB (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.05.28-08.08.24:061][512]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.05.28-08.08.24:066][513]LogTexture: Display: Building textures: /Game/ASSETS/Elements/BX.BX (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.05.28-08.08.24:432][513]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/BY.png]
+[2026.05.28-08.08.24:432][513]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.05.28-08.08.24:432][513]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.05.28-08.08.24:432][513]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/BA.png]
+[2026.05.28-08.08.24:433][513]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/BB.png]
+[2026.05.28-08.08.24:433][513]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.05.28-08.08.24:433][513]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.05.28-08.08.24:433][513]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/crayon.png]
+[2026.05.28-08.08.24:434][513]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/BX.png]
+[2026.05.28-08.08.24:434][513]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.05.28-08.08.24:434][513]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.05.28-08.08.24:434][513]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/trou gomme 2.png]
+[2026.05.28-08.08.25:371][516]LogStreaming: Display: FlushAsyncLoading(584): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.28-08.08.25:373][517]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.05.28-08.08.25:383][517]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.05.28-08.08.25:383][517]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.05.28-08.08.25:711][517]LogTexture: Display: Building textures: /Game/ASSETS/Elements/BA.BA (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.05.28-08.08.25:712][518]LogTexture: Display: Building textures: /Game/ASSETS/Elements/trou_gomme_2.trou_gomme_2 (BGRA8, 297x267 x1x1x1) (Required Memory Estimate: 3.722515 MB), EncodeSpeed: Fast
+[2026.05.28-08.08.25:713][518]LogTexture: Display: Building textures: /Game/ASSETS/Elements/crayon.crayon (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.05.28-08.08.26:065][518]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/BA.png]
+[2026.05.28-08.08.26:065][518]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.05.28-08.08.26:065][518]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.05.28-08.08.26:065][518]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/trou gomme 1.png]
+[2026.05.28-08.08.26:066][518]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/crayon.png]
+[2026.05.28-08.08.26:066][518]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.05.28-08.08.26:066][518]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.05.28-08.08.26:066][518]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/meuf regarde.png]
+[2026.05.28-08.08.26:067][518]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/trou gomme 2.png]
+[2026.05.28-08.08.26:067][518]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.05.28-08.08.26:067][518]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.05.28-08.08.26:067][518]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/meuf dos.png]
+[2026.05.28-08.08.27:038][521]LogStreaming: Display: FlushAsyncLoading(587): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.28-08.08.27:041][522]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.05.28-08.08.27:053][522]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.05.28-08.08.27:053][522]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.05.28-08.08.27:373][522]LogTexture: Display: Building textures: /Game/ASSETS/Elements/trou_gomme_1.trou_gomme_1 (BGRA8, 187x223 x1x1x1) (Required Memory Estimate: 2.431683 MB), EncodeSpeed: Fast
+[2026.05.28-08.08.27:378][523]LogTexture: Display: Building textures: /Game/ASSETS/Elements/meuf_regarde.meuf_regarde (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.05.28-08.08.27:380][523]LogTexture: Display: Building textures: /Game/ASSETS/Elements/meuf_dos.meuf_dos (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.05.28-08.08.27:734][523]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/trou gomme 1.png]
+[2026.05.28-08.08.27:734][523]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.05.28-08.08.27:735][523]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/meuf regarde.png]
+[2026.05.28-08.08.27:735][523]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.05.28-08.08.27:736][523]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/meuf dos.png]
+[2026.05.28-08.08.27:834][523]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.05.28-08.08.27:834][523]LogInterchangeEngine: [Success] Import Done
