@@ -2688,3 +2688,996 @@ Make sure '/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux.WBP_Pierre_Pradal_Ciseaux_C'
 [2026.06.03-09.28.27:427][932]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/plt mood.png]
 [2026.06.03-09.28.27:460][932]LogInterchangeEngine: [Pending] Importing - Operation completed.
 [2026.06.03-09.28.27:460][932]LogInterchangeEngine: [Success] Import Done
+[2026.06.03-09.29.30:043][405]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.03-09.29.30:055][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.03-09.29.30:055][405]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.03-09.29.30:060][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004334s)
+[2026.06.03-09.29.30:060][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.004402s)
+[2026.06.03-09.29.30:103][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.06.03-09.29.30:107][405]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.03-09.29.30:110][405]LogPlayLevel: PIE: World Init took: (0.002692s)
+[2026.06.03-09.29.30:111][405]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.06.03-09.29.30:111][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.03-09.29.30:111][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.03-09.29.30:111][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.03-09.29.30:111][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.03-09.29.30:111][405]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.03-09.29.30:111][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.03-09.29.30:111][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.03-09.29.30:111][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.03-09.29.30:111][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.03-09.29.30:111][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.03-09.29.30:111][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.03-09.29.30:115][405]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.03-09.29.30:203][405]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.03-09.29.30:204][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.03-09.29.30:204][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.03-09.29.30:204][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.03-09.29.30:204][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.06.03-09.29.30:206][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.06.03-09.29.30:209][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.06.03-09.29.30:209][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.06.03-09.29.30:209][405]LogInit: FAudioDevice initialized with ID 7.
+[2026.06.03-09.29.30:209][405]LogAudio: Display: Audio Device (ID: 7) registered with world 'DEWKWAR'.
+[2026.06.03-09.29.30:210][405]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.06.03-09.29.30:271][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.03-09.29.30:271][405]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.03-09.29.30:272][405]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.03-11.29.30
+[2026.06.03-09.29.30:273][405]LogWorld: Bringing up level for play took: 0.001588
+[2026.06.03-09.29.30:277][405]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.06.03-09.29.30:287][405]PIE: Server logged in
+[2026.06.03-09.29.30:290][405]PIE: Play in editor total start time 0,235 seconds.
+[2026.06.03-09.29.30:407][406]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.03-09.29.32:056][479]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.03-09.29.33:492][548]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.34:217][583]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.35:369][638]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.29.36:542][694]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.37:017][715]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.37:569][741]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.38:067][765]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 0
+[2026.06.03-09.29.38:067][765]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a Win
+[2026.06.03-09.29.38:088][766]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.29.38:762][798]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.39:204][819]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.39:483][832]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.29.42:565][980]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.29.42:587][981]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.42:588][981]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.42:629][983]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.42:629][983]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.42:629][983]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.29.42:755][989]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.43:577][ 28]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 1
+[2026.06.03-09.29.43:577][ 28]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a Win
+[2026.06.03-09.29.44:052][ 51]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.29.44:074][ 52]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.44:075][ 52]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.44:116][ 54]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.44:117][ 54]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.44:117][ 54]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.29.44:158][ 56]LogBlueprintUserMessages: [WBP_Hub_C_0] No remove
+[2026.06.03-09.29.44:158][ 56]LogBlueprintUserMessages: [WBP_Hub_C_0] 0
+[2026.06.03-09.29.44:358][ 65]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.44:465][ 70]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.286071
+[2026.06.03-09.29.44:465][ 70]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.44:465][ 70]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.44:816][ 87]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.317347
+[2026.06.03-09.29.44:816][ 87]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.44:816][ 87]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.45:224][107]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.48471
+[2026.06.03-09.29.45:224][107]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.45:224][107]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.45:580][124]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.299677
+[2026.06.03-09.29.45:580][124]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.45:580][124]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.45:902][140]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.233409
+[2026.06.03-09.29.45:902][140]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.45:902][140]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.46:134][151]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.406485
+[2026.06.03-09.29.46:134][151]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.46:134][151]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.46:490][168]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.303375
+[2026.06.03-09.29.46:491][168]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.46:491][168]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.46:959][191]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.451256
+[2026.06.03-09.29.46:959][191]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.46:959][191]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.47:373][210]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.272539
+[2026.06.03-09.29.47:373][210]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.47:373][210]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.47:870][234]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.29.47:871][234]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.444407
+[2026.06.03-09.29.47:871][234]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.47:871][234]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.47:894][235]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.29.47:894][235]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.47:894][235]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.47:917][236]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.47:917][236]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.29.47:981][239]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.48:278][253]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.48:278][253]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.29.48:279][253]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.314682
+[2026.06.03-09.29.48:279][253]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.48:279][253]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.48:300][254]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.29.48:300][254]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.48:300][254]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.29.48:348][256]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.48:482][262]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.29.48:506][263]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.269738
+[2026.06.03-09.29.48:506][263]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.48:506][263]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.48:528][264]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.48:595][267]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.48:596][267]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 2
+[2026.06.03-09.29.48:596][267]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a lose
+[2026.06.03-09.29.48:700][272]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.29.48:784][276]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.48:889][281]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.48:889][281]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.29.48:889][281]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.46249
+[2026.06.03-09.29.48:889][281]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.48:889][281]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.48:934][283]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.29.49:124][292]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.327116
+[2026.06.03-09.29.49:124][292]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.49:124][292]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.49:582][313]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.4665
+[2026.06.03-09.29.49:582][313]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.49:582][313]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.49:773][322]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.03-09.29.49:962][331]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.29.49:963][331]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.338194
+[2026.06.03-09.29.49:963][331]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.49:963][331]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.50:132][339]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.29.50:132][339]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.01
+[2026.06.03-09.29.50:132][339]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.50:177][341]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.221873
+[2026.06.03-09.29.50:177][341]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.50:177][341]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.50:264][345]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.03-09.29.50:352][349]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.29.50:352][349]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.50:398][351]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.29.50:487][355]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.05
+[2026.06.03-09.29.50:487][355]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.50:531][357]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.05
+[2026.06.03-09.29.50:621][361]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.26212
+[2026.06.03-09.29.50:621][361]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.50:621][361]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.50:643][362]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.035
+[2026.06.03-09.29.50:643][362]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.035
+[2026.06.03-09.29.50:643][362]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.50:771][368]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.06
+[2026.06.03-09.29.50:771][368]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.06
+[2026.06.03-09.29.50:771][368]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.50:879][373]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.085
+[2026.06.03-09.29.50:879][373]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.50:901][374]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.085
+[2026.06.03-09.29.51:028][380]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.11
+[2026.06.03-09.29.51:051][381]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.11
+[2026.06.03-09.29.51:051][381]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.51:075][382]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.284808
+[2026.06.03-09.29.51:075][382]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.51:075][382]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.51:141][385]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.095
+[2026.06.03-09.29.51:184][387]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.095
+[2026.06.03-09.29.51:185][387]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.51:295][392]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.12
+[2026.06.03-09.29.51:337][394]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.12
+[2026.06.03-09.29.51:337][394]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.51:405][397]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.218128
+[2026.06.03-09.29.51:405][397]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.51:405][397]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.51:426][398]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.105
+[2026.06.03-09.29.51:510][402]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.105
+[2026.06.03-09.29.51:510][402]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.51:532][403]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.13
+[2026.06.03-09.29.51:640][408]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.13
+[2026.06.03-09.29.51:640][408]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.51:662][409]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.155
+[2026.06.03-09.29.51:663][409]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.350417
+[2026.06.03-09.29.51:663][409]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.51:663][409]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.51:771][414]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.115
+[2026.06.03-09.29.51:771][414]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.51:792][415]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.14
+[2026.06.03-09.29.51:920][421]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.165
+[2026.06.03-09.29.51:960][423]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.14
+[2026.06.03-09.29.51:960][423]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.52:046][427]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.19
+[2026.06.03-09.29.52:089][429]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.165
+[2026.06.03-09.29.52:089][429]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.52:156][432]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.361742
+[2026.06.03-09.29.52:156][432]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.52:156][432]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.52:196][434]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.175
+[2026.06.03-09.29.52:263][437]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.15
+[2026.06.03-09.29.52:263][437]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.52:309][439]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.2
+[2026.06.03-09.29.52:420][444]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.175
+[2026.06.03-09.29.52:420][444]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.52:441][445]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.225
+[2026.06.03-09.29.52:485][447]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.31406
+[2026.06.03-09.29.52:485][447]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.52:485][447]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.52:589][452]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.21
+[2026.06.03-09.29.52:694][457]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.235
+[2026.06.03-09.29.52:716][458]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.16
+[2026.06.03-09.29.52:716][458]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.52:802][462]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.311634
+[2026.06.03-09.29.52:802][462]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.52:802][462]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.52:823][463]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.22
+[2026.06.03-09.29.52:908][467]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.145
+[2026.06.03-09.29.52:908][467]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.52:949][469]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.245
+[2026.06.03-09.29.53:032][473]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.287921
+[2026.06.03-09.29.53:032][473]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.53:032][473]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.53:073][475]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.13
+[2026.06.03-09.29.53:073][475]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.53:096][476]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.23
+[2026.06.03-09.29.53:118][477]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 2
+[2026.06.03-09.29.53:119][477]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a Win
+[2026.06.03-09.29.53:119][477]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Win
+[2026.06.03-09.29.53:119][477]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Score +1
+[2026.06.03-09.29.53:119][477]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] J1 Score +1
+[2026.06.03-09.29.53:202][481]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.255
+[2026.06.03-09.29.53:247][483]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.273959
+[2026.06.03-09.29.53:247][483]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.53:247][483]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.53:268][484]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.115
+[2026.06.03-09.29.53:334][487]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.24
+[2026.06.03-09.29.53:404][490]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.14
+[2026.06.03-09.29.53:450][492]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.265
+[2026.06.03-09.29.53:491][494]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.294778
+[2026.06.03-09.29.53:492][494]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.53:492][494]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.53:578][498]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.25
+[2026.06.03-09.29.53:599][499]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.125
+[2026.06.03-09.29.53:706][504]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.275
+[2026.06.03-09.29.53:768][507]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.15
+[2026.06.03-09.29.53:833][510]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.3
+[2026.06.03-09.29.53:879][512]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.460961
+[2026.06.03-09.29.53:879][512]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.53:879][512]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.53:940][515]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.135
+[2026.06.03-09.29.53:961][516]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.285
+[2026.06.03-09.29.54:111][523]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.16
+[2026.06.03-09.29.54:111][523]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.31
+[2026.06.03-09.29.54:216][528]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.21073
+[2026.06.03-09.29.54:216][528]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.54:216][528]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.54:238][529]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.295
+[2026.06.03-09.29.54:284][531]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.145
+[2026.06.03-09.29.54:369][535]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.32
+[2026.06.03-09.29.54:460][539]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.17
+[2026.06.03-09.29.54:502][541]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.345
+[2026.06.03-09.29.54:503][541]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.35081
+[2026.06.03-09.29.54:503][541]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.54:503][541]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.54:593][545]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.155
+[2026.06.03-09.29.54:617][546]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.33
+[2026.06.03-09.29.54:746][552]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.355
+[2026.06.03-09.29.54:766][553]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.18
+[2026.06.03-09.29.54:873][558]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.38
+[2026.06.03-09.29.54:895][559]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.378881
+[2026.06.03-09.29.54:895][559]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.54:895][559]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.54:917][560]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.165
+[2026.06.03-09.29.55:006][564]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.365
+[2026.06.03-09.29.55:131][570]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.38562
+[2026.06.03-09.29.55:131][570]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.55:131][570]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.55:235][575]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.35
+[2026.06.03-09.29.55:257][576]LogBlueprintUserMessages: [WBP_Hub_C_0] No remove
+[2026.06.03-09.29.55:257][576]LogBlueprintUserMessages: [WBP_Hub_C_0] 1
+[2026.06.03-09.29.55:409][583]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.290493
+[2026.06.03-09.29.55:409][583]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.55:409][583]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.55:535][589]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.335
+[2026.06.03-09.29.55:666][595]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.36
+[2026.06.03-09.29.55:707][597]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.55:707][597]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.11
+[2026.06.03-09.29.55:814][602]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.385
+[2026.06.03-09.29.55:879][605]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.55:879][605]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.135
+[2026.06.03-09.29.55:880][605]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.383331
+[2026.06.03-09.29.55:880][605]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.55:880][605]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.55:921][607]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.37
+[2026.06.03-09.29.56:071][614]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.395
+[2026.06.03-09.29.56:094][615]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.56:094][615]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.12
+[2026.06.03-09.29.56:162][618]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.334321
+[2026.06.03-09.29.56:162][618]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.56:162][618]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.56:204][620]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.38
+[2026.06.03-09.29.56:227][621]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.56:227][621]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.105
+[2026.06.03-09.29.56:334][626]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.405
+[2026.06.03-09.29.56:400][629]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.56:400][629]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.13
+[2026.06.03-09.29.56:468][632]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.43
+[2026.06.03-09.29.56:553][636]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.56:553][636]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.155
+[2026.06.03-09.29.56:619][639]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.455
+[2026.06.03-09.29.56:620][639]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.225654
+[2026.06.03-09.29.56:620][639]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.56:620][639]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.56:749][645]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.44
+[2026.06.03-09.29.56:833][649]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.56:833][649]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.14
+[2026.06.03-09.29.56:877][651]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.465
+[2026.06.03-09.29.57:063][660]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.379595
+[2026.06.03-09.29.57:063][660]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.57:063][660]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.57:363][674]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.314518
+[2026.06.03-09.29.57:363][674]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.57:363][674]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.57:642][687]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.432871
+[2026.06.03-09.29.57:642][687]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.57:643][687]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.58:060][707]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.264968
+[2026.06.03-09.29.58:060][707]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.58:060][707]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.58:553][730]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.234819
+[2026.06.03-09.29.58:553][730]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.58:553][730]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.58:659][735]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.58:660][735]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.29.58:996][751]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.491659
+[2026.06.03-09.29.58:996][751]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.58:996][751]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.59:163][759]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.59:163][759]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.29.59:425][771]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.352568
+[2026.06.03-09.29.59:425][771]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.59:425][771]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.59:447][772]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.59:447][772]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.29.59:532][776]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.21
+[2026.06.03-09.29.59:745][786]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.235
+[2026.06.03-09.29.59:809][789]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.29.59:809][789]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.05
+[2026.06.03-09.29.59:931][795]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.413919
+[2026.06.03-09.29.59:931][795]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.59:932][795]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.29.59:953][796]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.22
+[2026.06.03-09.30.00:059][801]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.00:059][801]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.035
+[2026.06.03-09.30.00:082][802]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.245
+[2026.06.03-09.30.00:167][806]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.499725
+[2026.06.03-09.30.00:167][806]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.00:167][806]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.00:209][808]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.23
+[2026.06.03-09.30.00:360][815]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.255
+[2026.06.03-09.30.00:454][819]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.212085
+[2026.06.03-09.30.00:454][819]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.00:454][819]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.00:495][821]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.24
+[2026.06.03-09.30.00:621][827]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.265
+[2026.06.03-09.30.00:749][833]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.29
+[2026.06.03-09.30.00:854][838]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.4189
+[2026.06.03-09.30.00:854][838]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.00:854][838]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.00:875][839]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.275
+[2026.06.03-09.30.00:998][845]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.3
+[2026.06.03-09.30.01:103][850]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.325
+[2026.06.03-09.30.01:125][851]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.44471
+[2026.06.03-09.30.01:125][851]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.01:126][851]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.01:227][856]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.31
+[2026.06.03-09.30.01:272][858]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 3
+[2026.06.03-09.30.01:272][858]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a Tie !
+[2026.06.03-09.30.01:375][863]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.335
+[2026.06.03-09.30.01:397][864]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.410871
+[2026.06.03-09.30.01:398][864]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.01:398][864]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.01:502][869]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.32
+[2026.06.03-09.30.01:638][875]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.345
+[2026.06.03-09.30.01:704][878]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.285678
+[2026.06.03-09.30.01:704][878]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.01:704][878]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.01:746][880]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.33
+[2026.06.03-09.30.01:871][886]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.355
+[2026.06.03-09.30.01:994][892]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.38
+[2026.06.03-09.30.02:081][896]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.244716
+[2026.06.03-09.30.02:082][896]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.02:082][896]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.02:123][898]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.365
+[2026.06.03-09.30.02:476][915]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.391076
+[2026.06.03-09.30.02:476][915]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.02:476][915]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.02:855][933]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.433485
+[2026.06.03-09.30.02:855][933]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.02:855][933]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.03:105][945]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.354683
+[2026.06.03-09.30.03:105][945]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.03:105][945]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.03:379][958]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.40958
+[2026.06.03-09.30.03:379][958]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.03:379][958]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.03:444][961]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.03:486][963]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.03:634][970]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.03:723][974]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.361898
+[2026.06.03-09.30.03:723][974]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.03:723][974]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.03:747][975]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.03:852][980]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.03:939][984]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.04:062][990]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.04:147][994]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.04:213][997]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.284405
+[2026.06.03-09.30.04:213][997]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.04:213][997]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.04:278][  0]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.04:278][  0]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.04:345][  3]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.04:475][  9]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.04:475][  9]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.04:519][ 11]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.04:653][ 17]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.04:676][ 18]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.04:677][ 18]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.301178
+[2026.06.03-09.30.04:677][ 18]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.04:677][ 18]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.04:721][ 20]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.04:853][ 26]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.04:899][ 28]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.05:088][ 37]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.426518
+[2026.06.03-09.30.05:089][ 37]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.05:089][ 37]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.05:111][ 38]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.05:218][ 43]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.05:263][ 45]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.05:329][ 48]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.242454
+[2026.06.03-09.30.05:329][ 48]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.05:329][ 48]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.05:465][ 54]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.05:594][ 60]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.442686
+[2026.06.03-09.30.05:594][ 60]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.05:594][ 60]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.05:617][ 61]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.05:617][ 61]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.05:663][ 63]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.05:793][ 69]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.05:836][ 71]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.05:861][ 72]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.05:972][ 77]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.342021
+[2026.06.03-09.30.05:972][ 77]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.05:972][ 77]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.05:994][ 78]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.06:077][ 82]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.06:234][ 89]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.06:234][ 89]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.06:258][ 90]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.496329
+[2026.06.03-09.30.06:258][ 90]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.06:258][ 90]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.06:304][ 92]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.06:419][ 97]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.06:527][102]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.06:656][108]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.06:722][111]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.06:745][112]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.483035
+[2026.06.03-09.30.06:745][112]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.06:745][112]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.06:809][115]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 2
+[2026.06.03-09.30.06:809][115]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a Win
+[2026.06.03-09.30.06:893][119]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.06:893][119]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.06:956][122]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.07:002][124]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.247581
+[2026.06.03-09.30.07:002][124]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.07:002][124]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.07:113][129]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.07:113][129]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.07:156][131]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.07:309][138]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.07:332][139]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.07:332][139]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.411228
+[2026.06.03-09.30.07:333][139]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.07:333][139]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.07:399][142]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.07:528][148]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.07:549][149]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.07:614][152]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.07:748][158]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.07:750][158]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.449425
+[2026.06.03-09.30.07:750][158]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.07:750][158]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.07:813][161]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.07:941][167]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.08:006][170]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.08:115][175]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.3751
+[2026.06.03-09.30.08:115][175]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.08:115][175]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.08:159][177]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.08:182][178]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.08:248][181]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.08:379][187]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.08:448][190]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.08:537][194]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.384201
+[2026.06.03-09.30.08:537][194]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.08:537][194]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.08:579][196]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.08:641][199]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.08:774][205]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.08:859][209]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.08:985][215]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.09:008][216]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.329917
+[2026.06.03-09.30.09:008][216]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.09:008][216]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.09:050][218]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.09:180][224]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.09:269][228]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.09:358][232]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.375045
+[2026.06.03-09.30.09:358][232]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.09:358][232]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.09:401][234]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.09:468][237]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.09:579][242]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.09:683][247]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.09:683][247]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.415018
+[2026.06.03-09.30.09:684][247]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.09:684][247]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.09:792][252]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.09:877][256]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.10:028][263]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.10:072][265]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.45642
+[2026.06.03-09.30.10:072][265]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.10:072][265]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.10:112][267]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.10:330][277]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.10:464][283]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.10:465][283]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.463717
+[2026.06.03-09.30.10:465][283]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.10:465][283]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.10:530][286]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.10:660][292]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.10:705][294]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.10:751][296]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.10:773][297]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.238151
+[2026.06.03-09.30.10:773][297]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.10:773][297]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.10:899][303]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.10:921][304]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.10:987][307]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.11:010][308]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.355187
+[2026.06.03-09.30.11:010][308]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.11:010][308]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.11:117][313]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.11:139][314]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.11:203][317]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.11:293][321]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.347542
+[2026.06.03-09.30.11:293][321]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.11:293][321]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.11:363][324]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.11:363][324]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.11:434][327]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.11:564][333]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.11:565][333]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.467718
+[2026.06.03-09.30.11:565][333]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.11:565][333]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.11:630][336]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.11:695][339]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.11:805][344]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.11:827][345]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 1
+[2026.06.03-09.30.11:827][345]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a lose
+[2026.06.03-09.30.11:894][348]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.11:979][352]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.283636
+[2026.06.03-09.30.11:979][352]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.11:979][352]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.12:042][355]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.12:042][355]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.12:151][360]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.12:242][364]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.12:353][369]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.12:442][373]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.442714
+[2026.06.03-09.30.12:442][373]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.12:442][373]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.12:696][385]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.268282
+[2026.06.03-09.30.12:696][385]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.12:696][385]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.13:035][401]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.13:123][405]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.13:124][405]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.31883
+[2026.06.03-09.30.13:124][405]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.13:124][405]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.13:187][408]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.13:428][419]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.428175
+[2026.06.03-09.30.13:429][419]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.13:429][419]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.13:918][442]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.445589
+[2026.06.03-09.30.13:919][442]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.13:919][442]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.14:417][466]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.392349
+[2026.06.03-09.30.14:417][466]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.14:417][466]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.14:501][470]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.14:524][471]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.14:653][477]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.335813
+[2026.06.03-09.30.14:653][477]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.14:654][477]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.14:975][492]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.4395
+[2026.06.03-09.30.14:975][492]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.14:975][492]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.15:221][504]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.15:414][513]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.366384
+[2026.06.03-09.30.15:414][513]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.15:414][513]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.15:843][533]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.379449
+[2026.06.03-09.30.15:843][533]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.15:843][533]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.15:904][536]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.16:334][557]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.486578
+[2026.06.03-09.30.16:334][557]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.16:334][557]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.16:355][558]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 2
+[2026.06.03-09.30.16:355][558]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a Win
+[2026.06.03-09.30.16:649][572]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.16:815][580]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.303183
+[2026.06.03-09.30.16:815][580]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.16:815][580]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.17:293][603]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.443373
+[2026.06.03-09.30.17:293][603]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.17:293][603]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.17:357][606]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.17:683][621]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.285861
+[2026.06.03-09.30.17:683][621]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.17:683][621]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.17:941][633]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.18:125][642]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.483181
+[2026.06.03-09.30.18:125][642]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.18:125][642]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.18:413][656]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.18:414][656]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.477001
+[2026.06.03-09.30.18:414][656]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.18:414][656]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.18:688][669]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.439244
+[2026.06.03-09.30.18:689][669]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.18:689][669]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.18:855][677]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.19:012][684]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.462508
+[2026.06.03-09.30.19:012][684]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.19:012][684]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.19:302][698]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.19:412][703]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.364232
+[2026.06.03-09.30.19:412][703]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.19:412][703]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.19:708][717]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.23263
+[2026.06.03-09.30.19:708][717]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.19:708][717]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.20:130][737]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.317255
+[2026.06.03-09.30.20:130][737]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.20:130][737]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.20:363][748]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 0
+[2026.06.03-09.30.20:363][748]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a Tie !
+[2026.06.03-09.30.20:432][751]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.440443
+[2026.06.03-09.30.20:432][751]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.20:432][751]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.20:645][761]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.20:710][764]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.364818
+[2026.06.03-09.30.20:710][764]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.20:710][764]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.20:986][777]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.385034
+[2026.06.03-09.30.20:986][777]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.20:986][777]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.21:115][783]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.21:115][783]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.30.21:290][791]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.21:466][799]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.204926
+[2026.06.03-09.30.21:466][799]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.21:466][799]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.21:868][818]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.403949
+[2026.06.03-09.30.21:869][818]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.21:869][818]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.22:319][839]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.373919
+[2026.06.03-09.30.22:319][839]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.22:319][839]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.22:402][843]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.22:402][843]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.30.22:700][857]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.209183
+[2026.06.03-09.30.22:700][857]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.22:700][857]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.22:932][868]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.245173
+[2026.06.03-09.30.22:932][868]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.22:932][868]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.23:141][878]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.23:163][879]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.451073
+[2026.06.03-09.30.23:163][879]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.23:163][879]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.23:204][881]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.03-09.30.23:533][896]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.23:555][897]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.479318
+[2026.06.03-09.30.23:555][897]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.23:555][897]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.23:598][899]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Feuille
+[2026.06.03-09.30.23:856][911]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.03-09.30.23:880][912]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.24445
+[2026.06.03-09.30.23:880][912]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.23:880][912]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.23:880][912]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 0
+[2026.06.03-09.30.23:880][912]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a Win
+[2026.06.03-09.30.23:880][912]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Win
+[2026.06.03-09.30.23:880][912]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Score +1
+[2026.06.03-09.30.23:880][912]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] J1 Score +1
+[2026.06.03-09.30.24:004][918]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.30.24:251][930]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.335008
+[2026.06.03-09.30.24:251][930]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.24:251][930]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.24:618][947]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.341636
+[2026.06.03-09.30.24:618][947]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.24:618][947]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.24:869][959]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.200027
+[2026.06.03-09.30.24:869][959]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.24:869][959]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.25:124][971]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.486294
+[2026.06.03-09.30.25:124][971]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.25:124][971]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.25:583][993]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.351708
+[2026.06.03-09.30.25:583][993]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.25:583][993]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.25:942][ 10]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.332838
+[2026.06.03-09.30.25:942][ 10]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.25:942][ 10]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.26:336][ 29]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.306278
+[2026.06.03-09.30.26:336][ 29]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.26:336][ 29]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.26:661][ 44]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.265627
+[2026.06.03-09.30.26:661][ 44]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.26:662][ 44]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.27:065][ 63]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.266478
+[2026.06.03-09.30.27:065][ 63]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.27:065][ 63]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.27:375][ 78]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.402274
+[2026.06.03-09.30.27:375][ 78]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.27:375][ 78]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.27:731][ 95]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.326804
+[2026.06.03-09.30.27:731][ 95]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.27:731][ 95]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.27:794][ 98]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.30.27:862][101]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.03-09.30.27:968][106]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.05
+[2026.06.03-09.30.28:057][110]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.30.28:076][111]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.075
+[2026.06.03-09.30.28:098][112]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.415604
+[2026.06.03-09.30.28:098][112]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.28:098][112]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.28:183][116]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.06
+[2026.06.03-09.30.28:309][122]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.085
+[2026.06.03-09.30.28:309][122]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.01
+[2026.06.03-09.30.28:353][124]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.445643
+[2026.06.03-09.30.28:353][124]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.28:353][124]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.28:501][131]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.07
+[2026.06.03-09.30.28:501][131]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.03-09.30.28:611][136]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.095
+[2026.06.03-09.30.28:611][136]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.258467
+[2026.06.03-09.30.28:611][136]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.28:611][136]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.28:718][141]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.08
+[2026.06.03-09.30.28:718][141]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.03-09.30.28:825][146]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.105
+[2026.06.03-09.30.28:912][150]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.30.28:933][151]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.13
+[2026.06.03-09.30.29:019][155]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.443895
+[2026.06.03-09.30.29:019][155]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.29:019][155]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.29:042][156]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.115
+[2026.06.03-09.30.29:147][161]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.14
+[2026.06.03-09.30.29:148][161]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.01
+[2026.06.03-09.30.29:270][167]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.165
+[2026.06.03-09.30.29:315][169]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.035
+[2026.06.03-09.30.29:338][170]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.225901
+[2026.06.03-09.30.29:338][170]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.29:338][170]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.29:380][172]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.15
+[2026.06.03-09.30.29:486][177]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.02
+[2026.06.03-09.30.29:529][179]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.175
+[2026.06.03-09.30.29:630][184]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.2
+[2026.06.03-09.30.29:674][186]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.045
+[2026.06.03-09.30.29:739][189]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.225
+[2026.06.03-09.30.29:782][191]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.339265
+[2026.06.03-09.30.29:782][191]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.29:782][191]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.29:826][193]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.21
+[2026.06.03-09.30.29:826][193]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.03
+[2026.06.03-09.30.29:951][199]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.235
+[2026.06.03-09.30.30:019][202]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.055
+[2026.06.03-09.30.30:042][203]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.26
+[2026.06.03-09.30.30:144][208]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.285
+[2026.06.03-09.30.30:166][209]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.43896
+[2026.06.03-09.30.30:166][209]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.30:166][209]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.30:463][223]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.275735
+[2026.06.03-09.30.30:463][223]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.30:463][223]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.30:903][244]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.284542
+[2026.06.03-09.30.30:903][244]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.30:903][244]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.31:157][256]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.03-09.30.31:220][259]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.19
+[2026.06.03-09.30.31:263][261]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.03-09.30.31:286][262]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.357411
+[2026.06.03-09.30.31:286][262]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.31:286][262]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.31:372][266]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.175
+[2026.06.03-09.30.31:393][267]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.01
+[2026.06.03-09.30.31:479][271]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.2
+[2026.06.03-09.30.31:502][272]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.035
+[2026.06.03-09.30.31:587][276]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.06
+[2026.06.03-09.30.31:649][279]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.295795
+[2026.06.03-09.30.31:649][279]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.31:649][279]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.31:670][280]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.185
+[2026.06.03-09.30.31:712][282]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.045
+[2026.06.03-09.30.31:817][287]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.21
+[2026.06.03-09.30.31:840][288]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.07
+[2026.06.03-09.30.31:887][290]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.246382
+[2026.06.03-09.30.31:887][290]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.31:887][290]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.31:951][293]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.055
+[2026.06.03-09.30.32:059][298]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.08
+[2026.06.03-09.30.32:162][303]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.195
+[2026.06.03-09.30.32:162][303]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.407144
+[2026.06.03-09.30.32:163][303]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.32:163][303]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.32:186][304]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.065
+[2026.06.03-09.30.32:288][309]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.09
+[2026.06.03-09.30.32:329][311]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.18
+[2026.06.03-09.30.32:411][315]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.115
+[2026.06.03-09.30.32:473][318]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.205
+[2026.06.03-09.30.32:538][321]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.14
+[2026.06.03-09.30.32:624][325]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.23
+[2026.06.03-09.30.32:625][325]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.333726
+[2026.06.03-09.30.32:625][325]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.32:625][325]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.32:645][326]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.125
+[2026.06.03-09.30.32:731][330]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.215
+[2026.06.03-09.30.32:773][332]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.15
+[2026.06.03-09.30.32:860][336]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.175
+[2026.06.03-09.30.32:903][338]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.368636
+[2026.06.03-09.30.32:903][338]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.32:903][338]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.32:984][342]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.16
+[2026.06.03-09.30.33:048][345]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.2
+[2026.06.03-09.30.33:091][347]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.185
+[2026.06.03-09.30.33:175][351]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.225
+[2026.06.03-09.30.33:220][353]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.21
+[2026.06.03-09.30.33:243][354]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.443153
+[2026.06.03-09.30.33:244][354]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.33:244][354]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.33:307][357]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.21
+[2026.06.03-09.30.33:350][359]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.195
+[2026.06.03-09.30.33:457][364]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.22
+[2026.06.03-09.30.33:498][366]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.453764
+[2026.06.03-09.30.33:498][366]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.33:499][366]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.33:584][370]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.195
+[2026.06.03-09.30.33:606][371]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.205
+[2026.06.03-09.30.33:728][377]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.23
+[2026.06.03-09.30.33:751][378]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.22
+[2026.06.03-09.30.33:751][378]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.276659
+[2026.06.03-09.30.33:753][378]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.33:753][378]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.33:858][383]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.215
+[2026.06.03-09.30.33:963][388]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.24
+[2026.06.03-09.30.34:069][393]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.205
+[2026.06.03-09.30.34:092][394]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.265
+[2026.06.03-09.30.34:154][397]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.445259
+[2026.06.03-09.30.34:154][397]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.34:154][397]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.34:216][400]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.25
+[2026.06.03-09.30.34:651][420]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.261544
+[2026.06.03-09.30.34:651][420]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.34:651][420]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.03-09.30.34:703][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.03-09.30.34:703][420]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.03-09.30.34:703][420]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.03-09.30.34:712][420]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-09.30.34:712][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-09.30.34:714][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.03-09.30.34:725][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-09.30.34:762][420]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.03-09.30.34:762][420]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.06.03-09.30.34:762][420]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.06.03-09.30.34:765][420]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.06.03-09.30.34:775][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2026.06.03-09.30.34:964][421]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.06.03-09.30.35:811][464]LogSlate: Window 'Message Log' being destroyed
+[2026.06.03-09.30.35:824][464]LogSlate: Window 'Message Log' being destroyed
+[2026.06.03-09.30.48:215][839]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1694.322266
+[2026.06.03-09.30.48:390][859]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.03-09.30.48:390][859]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1694.488037, Update Interval: 302.667938
+[2026.06.03-09.31.27:347][318]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI_UX/WPB_Settings.WPB_Settings
+[2026.06.03-09.31.27:347][318]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.06.03-09.31.27:354][318]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.06.03-09.31.32:215][634]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.06.03-09.32.03:597][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.06.03-09.35.14:896][274]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-09.35.14:896][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-09.35.14:911][274]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-09.35.14:911][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-09.35.15:035][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.06.03-09.35.26:566][113]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD_Game/Spam_Bar/WBP_SPam.WBP_SPam
+[2026.06.03-09.35.26:566][113]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.06.03-09.35.26:583][113]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.06.03-09.36.44:380][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2050.489746
+[2026.06.03-09.36.44:534][110]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.03-09.36.44:534][110]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2050.627441, Update Interval: 322.231506
+[2026.06.03-09.39.24:368][ 21]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-09.39.24:368][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-09.39.24:384][ 21]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-09.39.24:385][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-09.39.24:522][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.06.03-09.42.57:574][182]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2423.688232
+[2026.06.03-09.42.57:742][195]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.03-09.42.57:742][195]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2423.841064, Update Interval: 346.475403
+[2026.06.03-09.43.14:428][442]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.06.03-09.49.15:171][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2801.288574
+[2026.06.03-09.49.15:351][760]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.03-09.49.15:351][760]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2801.453369, Update Interval: 353.418976
+[2026.06.03-09.49.41:009][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.06.03-09.49.45:910][116]LogSlate: Window 'Save Content' being destroyed
+[2026.06.03-09.49.45:926][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-09.49.45:986][116]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/Spam_Bar/WBP_SPam] ([2] browsable assets)...
+[2026.06.03-09.49.45:989][116]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/Spam_Bar/WBP_SPam.WBP_SPam]
+[2026.06.03-09.49.45:989][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/Spam_Bar/WBP_SPam]
+[2026.06.03-09.49.45:989][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/Spam_Bar/WBP_SPam" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset" SILENT=true
+[2026.06.03-09.49.46:040][116]LogSavePackage: Moving output files for package: /Game/HUD_Game/Spam_Bar/WBP_SPam
+[2026.06.03-09.49.46:041][116]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SPam8F8877F047557170A85CA481F7D9227B.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset'
+[2026.06.03-09.49.46:043][116]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WPB_Settings] ([2] browsable assets)...
+[2026.06.03-09.49.46:051][116]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WPB_Settings.WPB_Settings]
+[2026.06.03-09.49.46:051][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WPB_Settings]
+[2026.06.03-09.49.46:051][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WPB_Settings" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WPB_Settings.uasset" SILENT=true
+[2026.06.03-09.49.46:075][116]LogSavePackage: Moving output files for package: /Game/UI_UX/WPB_Settings
+[2026.06.03-09.49.46:076][116]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WPB_Settings27BCA9824BB3D5AC75BE268111F76467.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WPB_Settings.uasset'
+[2026.06.03-09.49.46:078][116]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/plt_mood] ([1] browsable assets)...
+[2026.06.03-09.49.46:083][116]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/plt_mood.plt_mood]
+[2026.06.03-09.49.46:083][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/plt_mood]
+[2026.06.03-09.49.46:083][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/plt_mood" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/plt_mood.uasset" SILENT=true
+[2026.06.03-09.49.46:104][116]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/plt_mood
+[2026.06.03-09.49.46:104][116]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/plt_mood3E714C8744B8B6DD69363B8C3DD54A6B.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/plt_mood.uasset'
+[2026.06.03-09.49.46:109][116]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/sarbacane_j1] ([1] browsable assets)...
+[2026.06.03-09.49.46:111][116]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/sarbacane_j1.sarbacane_j1]
+[2026.06.03-09.49.46:111][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/sarbacane_j1]
+[2026.06.03-09.49.46:111][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/sarbacane_j1" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/sarbacane_j1.uasset" SILENT=true
+[2026.06.03-09.49.46:131][116]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/sarbacane_j1
+[2026.06.03-09.49.46:131][116]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/sarbacane_j1ADD794254109A97026D7CA97BE527EA8.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/sarbacane_j1.uasset'
+[2026.06.03-09.49.46:134][116]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/sarbacane_j2] ([1] browsable assets)...
+[2026.06.03-09.49.46:137][116]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/sarbacane_j2.sarbacane_j2]
+[2026.06.03-09.49.46:137][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/sarbacane_j2]
+[2026.06.03-09.49.46:137][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/sarbacane_j2" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/sarbacane_j2.uasset" SILENT=true
+[2026.06.03-09.49.46:156][116]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/sarbacane_j2
+[2026.06.03-09.49.46:157][116]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/sarbacane_j2C4AFCBCF4461F1C3B82DC98D59080709.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/sarbacane_j2.uasset'
+[2026.06.03-09.49.46:159][116]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/sarbacane_mood] ([1] browsable assets)...
+[2026.06.03-09.49.46:161][116]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/sarbacane_mood.sarbacane_mood]
+[2026.06.03-09.49.46:161][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/sarbacane_mood]
+[2026.06.03-09.49.46:161][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/sarbacane_mood" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/sarbacane_mood.uasset" SILENT=true
+[2026.06.03-09.49.46:183][116]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/sarbacane_mood
+[2026.06.03-09.49.46:183][116]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/sarbacane_moodD6141B6D454B95DB212437BA3A849AD1.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/sarbacane_mood.uasset'
+[2026.06.03-09.49.46:199][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 273.432 ms (total: 1.65 sec)
+[2026.06.03-09.49.46:262][116]LogContentValidation: Display: Starting to validate 6 assets
+[2026.06.03-09.49.46:262][116]LogContentValidation: Enabled validators:
+[2026.06.03-09.49.46:262][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.03-09.49.46:263][116]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.03-09.49.46:263][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.03-09.49.46:263][116]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.03-09.49.46:263][116]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.03-09.49.46:263][116]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.03-09.49.46:264][116]AssetCheck: /Game/HUD_Game/Spam_Bar/WBP_SPam Validating asset
+[2026.06.03-09.49.46:265][116]AssetCheck: /Game/UI_UX/WPB_Settings Validating asset
+[2026.06.03-09.49.46:265][116]AssetCheck: /Game/ASSETS/Elements/plt_mood Validating asset
+[2026.06.03-09.49.46:265][116]AssetCheck: /Game/ASSETS/Elements/sarbacane_j1 Validating asset
+[2026.06.03-09.49.46:265][116]AssetCheck: /Game/ASSETS/Elements/sarbacane_j2 Validating asset
+[2026.06.03-09.49.46:265][116]AssetCheck: /Game/ASSETS/Elements/sarbacane_mood Validating asset
+[2026.06.03-09.49.46:288][116]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.03-09.49.48:239][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
