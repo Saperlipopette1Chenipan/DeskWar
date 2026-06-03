@@ -3681,3 +3681,24 @@ Make sure '/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux.WBP_Pierre_Pradal_Ciseaux_C'
 [2026.06.03-09.49.46:265][116]AssetCheck: /Game/ASSETS/Elements/sarbacane_mood Validating asset
 [2026.06.03-09.49.46:288][116]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/SourceControl/UncontrolledChangelists.json
 [2026.06.03-09.49.48:239][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.06.03-09.53.42:230][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.06.03-09.53.42:272][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-09.53.42:326][858]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/Spam_Bar/WBP_SPam] ([2] browsable assets)...
+[2026.06.03-09.53.42:331][858]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/Spam_Bar/WBP_SPam.WBP_SPam]
+[2026.06.03-09.53.42:331][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/Spam_Bar/WBP_SPam]
+[2026.06.03-09.53.42:331][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/Spam_Bar/WBP_SPam" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset" SILENT=true
+[2026.06.03-09.53.42:387][858]LogSavePackage: Moving output files for package: /Game/HUD_Game/Spam_Bar/WBP_SPam
+[2026.06.03-09.53.42:388][858]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_SPamFFB0AE0B4B0F569E4FD16E91420CFAC6.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/Spam_Bar/WBP_SPam.uasset'
+[2026.06.03-09.53.42:403][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.829 ms (total: 1.78 sec)
+[2026.06.03-09.53.42:460][858]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.03-09.53.42:460][858]LogContentValidation: Enabled validators:
+[2026.06.03-09.53.42:460][858]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.03-09.53.42:460][858]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.03-09.53.42:460][858]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.03-09.53.42:460][858]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.03-09.53.42:460][858]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.03-09.53.42:460][858]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.03-09.53.42:461][858]AssetCheck: /Game/HUD_Game/Spam_Bar/WBP_SPam Validating asset
+[2026.06.03-09.55.52:552][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3198.688965
+[2026.06.03-09.55.52:797][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.03-09.55.52:797][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3198.913086, Update Interval: 331.855835
