@@ -1499,3 +1499,413 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.04-09.51.38:224][348]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.06.04-09.51.38:225][348]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.06.04-09.51.38:225][348]AssetCheck: /Game/UI_UX/WBP_WinP1 Validating asset
+[2026.06.04-09.55.30:890][554]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1321.161133
+[2026.06.04-09.55.31:063][568]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.04-09.55.31:063][568]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1321.319458, Update Interval: 334.789276
+[2026.06.04-09.55.41:932][345]LogStreaming: Display: FlushAsyncLoading(541): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-09.55.42:316][345]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI_UX/WPB_Settings.WPB_Settings
+[2026.06.04-09.55.42:317][345]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.06.04-09.55.42:333][345]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: ================================================
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Total job queries 722, among them cache hits 98 (13.57%), DDC hits 535 (74.10%), Duplicates 69 (9.56%)
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Tracking 555 distinct input hashes that result in 400 distinct outputs (72.07%)
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: RAM used: 4,40 MiB of 1,60 GiB budget. Usage: 0.27%
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Shaders Compiled: 20
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Average time worker was idle: 96.55 s
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 1.32 s
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Job execution time: average 1.45 s, max 2.88 s
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Job life time (pending + execution): average 1.58 s, max 3.35
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Shader code size: total 190,824 KiB, numShaders 22, average 8,674 KiB, min 2,25 KiB, max 14,062 KiB
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.98 s
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Average processing rate: 1.54 jobs/sec
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Total thread time: 24,892 s
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Total thread preprocess time: 13,887 s
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Percentage time preprocessing: 55.79%
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Effective parallelization: 1.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.479532
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 2.15 sec, max 2.43 sec, min 1.92 sec)
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.50 sec, max 1.57 sec, min 1.44 sec)
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2026.06.04-09.57.35:149][195]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.30 sec, max 1.30 sec, min 1.30 sec)
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.92 sec, max 1.11 sec, min 0.81 sec)
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 25.92% of total time (compiled    3 times, average 2.15 sec, max 2.43 sec, min 1.92 sec)
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.90% of total time (compiled    7 times, average 0.92 sec, max 1.11 sec, min 0.81 sec)
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.11% of total time (compiled    3 times, average 1.50 sec, max 1.57 sec, min 1.44 sec)
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.62% of total time (compiled    4 times, average 0.66 sec, max 0.79 sec, min 0.57 sec)
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 5.75% of total time (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display: === Material stats ===
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display: Materials Translated:    142
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display: Material Translation Only: 0.06 s (45%)
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display: Material Cache Hits: 32 (23%)
+[2026.06.04-09.57.35:150][195]LogShaderCompilers: Display: ================================================
+[2026.06.04-09.57.39:849][577]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ASSETS/HuD/MP_Background_Movement_Video_Mat.MP_Background_Movement_Video_Mat
+[2026.06.04-09.57.39:869][577]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.06.04-09.57.39:880][577]LogStreaming: Display: FlushAsyncLoading(542): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-09.57.40:707][577]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.06.04-09.57.40:707][577]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.06.04-09.57.40:708][577]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.06.04-09.57.40:708][577]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.04-09.57.40:708][577]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.04-09.57.40:708][577]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.04-09.57.40:708][577]MaterialEditorStats: Shader Count: 0
+[2026.06.04-09.57.40:708][577]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.04-09.57.40:857][580]MaterialEditorStats: Default UI Pixel Shader: 46 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.06.04-09.57.40:857][580]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.06.04-09.57.40:857][580]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.06.04-09.57.40:857][580]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.04-09.57.40:857][580]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.06.04-09.57.40:857][580]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.06.04-09.57.40:857][580]MaterialEditorStats: Shader Count: 2
+[2026.06.04-09.57.40:857][580]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.04-09.58.16:545][464]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-09.58.16:545][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-09.58.16:662][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.06.04-09.58.25:961][301]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/ASSETS/HuD/backgroundMM.backgroundMM
+[2026.06.04-09.58.39:443][611]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/ASSETS/HuD/MP_Background_Movement.MP_Background_Movement
+[2026.06.04-09.58.47:336][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-09.58.47:407][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ASSETS/HuD/MP_Background_Movement] ([1] browsable assets)...
+[2026.06.04-09.58.47:407][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/HuD/MP_Background_Movement]
+[2026.06.04-09.58.47:407][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/HuD/MP_Background_Movement" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/HuD/MP_Background_Movement.uasset" SILENT=true
+[2026.06.04-09.58.47:419][420]LogSavePackage: Moving output files for package: /Game/ASSETS/HuD/MP_Background_Movement
+[2026.06.04-09.58.47:420][420]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/MP_Background_MovementB3A447464AE462D971FDCDBC5D79A171.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/HuD/MP_Background_Movement.uasset'
+[2026.06.04-09.58.47:434][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.144 ms (total: 591.175 ms)
+[2026.06.04-09.58.47:502][420]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-09.58.47:502][420]LogContentValidation: Enabled validators:
+[2026.06.04-09.58.47:502][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-09.58.47:502][420]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-09.58.47:502][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-09.58.47:502][420]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-09.58.47:502][420]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-09.58.47:502][420]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-09.58.47:502][420]AssetCheck: /Game/ASSETS/HuD/MP_Background_Movement Validating asset
+[2026.06.04-09.59.06:302][115]LogSlate: Window 'Color Picker' being destroyed
+[2026.06.04-09.59.23:579][516]LogSlate: Window 'Color Picker' being destroyed
+[2026.06.04-09.59.43:512][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.06.04-09.59.43:708][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-09.59.43:770][ 17]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WPB_Settings] ([2] browsable assets)...
+[2026.06.04-09.59.43:776][ 17]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WPB_Settings.WPB_Settings]
+[2026.06.04-09.59.43:776][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WPB_Settings]
+[2026.06.04-09.59.43:776][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WPB_Settings" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WPB_Settings.uasset" SILENT=true
+[2026.06.04-09.59.43:798][ 17]LogSavePackage: Moving output files for package: /Game/UI_UX/WPB_Settings
+[2026.06.04-09.59.43:799][ 17]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WPB_SettingsFE1BEBCE47D2ED312F4324A1476199F2.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WPB_Settings.uasset'
+[2026.06.04-09.59.43:812][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.429 ms (total: 694.605 ms)
+[2026.06.04-09.59.43:887][ 17]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-09.59.43:887][ 17]LogContentValidation: Enabled validators:
+[2026.06.04-09.59.43:887][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-09.59.43:888][ 17]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-09.59.43:888][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-09.59.43:888][ 17]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-09.59.43:888][ 17]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-09.59.43:888][ 17]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-09.59.43:889][ 17]AssetCheck: /Game/UI_UX/WPB_Settings Validating asset
+[2026.06.04-09.59.46:336][152]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.04-09.59.46:348][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-09.59.46:355][152]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.06.04-09.59.46:355][152]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.06.04-09.59.46:355][152]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.04-09.59.46:359][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003865s)
+[2026.06.04-09.59.46:359][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.003944s)
+[2026.06.04-09.59.46:398][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.06.04-09.59.46:401][152]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.04-09.59.46:402][152]LogPlayLevel: PIE: World Init took: (0.002609s)
+[2026.06.04-09.59.46:405][152]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.06.04-09.59.46:405][152]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-09.59.46:405][152]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-09.59.46:405][152]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-09.59.46:405][152]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-09.59.46:405][152]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-09.59.46:405][152]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-09.59.46:405][152]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-09.59.46:405][152]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-09.59.46:405][152]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-09.59.46:405][152]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-09.59.46:405][152]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-09.59.46:408][152]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-09.59.46:509][152]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-09.59.46:509][152]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-09.59.46:509][152]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-09.59.46:509][152]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-09.59.46:509][152]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.06.04-09.59.46:510][152]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.06.04-09.59.46:514][152]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.06.04-09.59.46:514][152]LogInit: FAudioDevice initialized with ID 2.
+[2026.06.04-09.59.46:514][152]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.06.04-09.59.46:514][152]LogAudio: Display: Audio Device (ID: 2) registered with world 'DEWKWAR'.
+[2026.06.04-09.59.46:514][152]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.06.04-09.59.46:566][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-09.59.46:566][152]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-09.59.46:583][152]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.04-09.59.46:584][152]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.04-11.59.46
+[2026.06.04-09.59.46:584][152]LogWorld: Bringing up level for play took: 0.001266
+[2026.06.04-09.59.46:587][152]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.06.04-09.59.46:603][152]PIE: Server logged in
+[2026.06.04-09.59.46:608][152]PIE: Play in editor total start time 0,26 seconds.
+[2026.06.04-09.59.46:648][153]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1914"
+[2026.06.04-09.59.46:648][153]LogCsvProfiler: Display: Metadata set : systemresolution.resy="992"
+[2026.06.04-09.59.46:736][153]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.04-10.00.12:040][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-10.00.12:040][163]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.04-10.00.12:041][163]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.04-10.00.12:047][163]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-10.00.12:048][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-10.00.12:049][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-10.00.12:059][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-10.00.12:098][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.04-10.00.12:098][163]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.06.04-10.00.12:099][163]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.06.04-10.00.12:101][163]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.06.04-10.00.12:110][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.06.04-10.00.12:264][164]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.06.04-10.00.30:491][443]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.04-10.00.30:505][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-10.00.30:505][443]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.04-10.00.30:511][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004259s)
+[2026.06.04-10.00.30:511][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.004314s)
+[2026.06.04-10.00.30:550][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.06.04-10.00.30:554][443]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.04-10.00.30:556][443]LogPlayLevel: PIE: World Init took: (0.002436s)
+[2026.06.04-10.00.30:558][443]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.06.04-10.00.30:558][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-10.00.30:558][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-10.00.30:558][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-10.00.30:558][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-10.00.30:558][443]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-10.00.30:558][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-10.00.30:558][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-10.00.30:558][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-10.00.30:558][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-10.00.30:558][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-10.00.30:558][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-10.00.30:561][443]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-10.00.30:644][443]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-10.00.30:644][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-10.00.30:644][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-10.00.30:644][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-10.00.30:644][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.06.04-10.00.30:644][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.06.04-10.00.30:648][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.06.04-10.00.30:648][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.06.04-10.00.30:648][443]LogInit: FAudioDevice initialized with ID 3.
+[2026.06.04-10.00.30:648][443]LogAudio: Display: Audio Device (ID: 3) registered with world 'DEWKWAR'.
+[2026.06.04-10.00.30:648][443]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.06.04-10.00.30:689][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-10.00.30:689][443]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.04-10.00.30:691][443]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.04-12.00.30
+[2026.06.04-10.00.30:691][443]LogWorld: Bringing up level for play took: 0.001605
+[2026.06.04-10.00.30:695][443]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.06.04-10.00.30:707][443]PIE: Server logged in
+[2026.06.04-10.00.30:712][443]PIE: Play in editor total start time 0,206 seconds.
+[2026.06.04-10.00.30:818][444]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.04-10.00.32:356][554]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.04-10.00.35:615][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-10.00.36:383][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-10.00.37:252][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-10.00.37:252][916]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.04-10.00.37:252][916]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.04-10.00.37:261][916]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-10.00.37:261][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-10.00.37:262][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-10.00.37:272][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-10.00.37:314][916]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.06.04-10.00.37:314][916]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.06.04-10.00.37:317][916]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.06.04-10.00.37:329][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.06.04-10.00.37:548][917]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.06.04-10.00.39:346][ 29]LogSlate: Window 'Message Log' being destroyed
+[2026.06.04-10.00.39:358][ 29]LogSlate: Window 'Message Log' being destroyed
+[2026.06.04-10.00.40:096][ 84]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.04-10.00.40:109][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-10.00.40:109][ 84]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.04-10.00.40:113][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004154s)
+[2026.06.04-10.00.40:113][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.004227s)
+[2026.06.04-10.00.40:157][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.06.04-10.00.40:158][ 84]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.04-10.00.40:161][ 84]LogPlayLevel: PIE: World Init took: (0.003016s)
+[2026.06.04-10.00.40:162][ 84]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.06.04-10.00.40:162][ 84]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-10.00.40:162][ 84]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-10.00.40:162][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-10.00.40:162][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-10.00.40:162][ 84]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-10.00.40:162][ 84]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-10.00.40:162][ 84]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-10.00.40:162][ 84]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-10.00.40:162][ 84]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-10.00.40:162][ 84]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-10.00.40:162][ 84]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-10.00.40:165][ 84]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-10.00.40:261][ 84]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-10.00.40:261][ 84]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-10.00.40:261][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-10.00.40:261][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-10.00.40:262][ 84]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.06.04-10.00.40:262][ 84]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.06.04-10.00.40:266][ 84]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.06.04-10.00.40:267][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.06.04-10.00.40:267][ 84]LogInit: FAudioDevice initialized with ID 4.
+[2026.06.04-10.00.40:267][ 84]LogAudio: Display: Audio Device (ID: 4) registered with world 'DEWKWAR'.
+[2026.06.04-10.00.40:267][ 84]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.06.04-10.00.40:335][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-10.00.40:335][ 84]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.04-10.00.40:336][ 84]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.04-12.00.40
+[2026.06.04-10.00.40:337][ 84]LogWorld: Bringing up level for play took: 0.001346
+[2026.06.04-10.00.40:341][ 84]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.06.04-10.00.40:352][ 84]PIE: Server logged in
+[2026.06.04-10.00.40:356][ 84]PIE: Play in editor total start time 0,248 seconds.
+[2026.06.04-10.00.40:468][ 85]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.04-10.00.43:892][322]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.04-10.00.49:888][764]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] TIE
+[2026.06.04-10.00.54:714][126]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Win
+[2026.06.04-10.00.54:715][126]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Score +1
+[2026.06.04-10.00.54:715][126]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] J1 Score +1
+[2026.06.04-10.00.54:715][126]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.04-10.00.54:716][126]LogScript: Warning: Accessed None trying to read (real) property CallFunc_get_HubScore_ui_HubUI in not an UClass
+	WBP_Hub_Loading_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.WBP_MainMenu_C_0.WidgetTree_0.WBP_Pierre_Pradal_Ciseaux_C_0.WidgetTree_0.WBP_Hub_Loading_C_0
+	Function /Game/UI_UX/WBP_Hub_Loading.WBP_Hub_Loading_C:ExecuteUbergraph_WBP_Hub_Loading:0045
+[2026.06.04-10.00.54:716][126]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_get_HubScore_ui_HubUI in not an UClass". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph WBP Hub Loading Blueprint:  WBP_Hub_Loading
+[2026.06.04-10.00.55:411][181]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] TIE
+[2026.06.04-10.00.57:704][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-10.00.57:704][360]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.04-10.00.58:195][398]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.458306
+[2026.06.04-10.00.58:195][398]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.04-10.00.58:195][398]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.04-10.00.58:533][424]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.479299
+[2026.06.04-10.00.58:533][424]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.04-10.00.58:533][424]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.04-10.00.59:011][460]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.461345
+[2026.06.04-10.00.59:011][460]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.04-10.00.59:011][460]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.04-10.00.59:308][482]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.36989
+[2026.06.04-10.00.59:308][482]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.04-10.00.59:308][482]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.04-10.00.59:698][513]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.47029
+[2026.06.04-10.00.59:698][513]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.04-10.00.59:698][513]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.04-10.00.59:986][534]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.311002
+[2026.06.04-10.00.59:986][534]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.04-10.00.59:986][534]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.04-10.01.00:221][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-10.01.00:221][547]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.04-10.01.00:221][547]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.04-10.01.00:228][547]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-10.01.00:228][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-10.01.00:230][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-10.01.00:239][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-10.01.00:280][547]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.06.04-10.01.00:280][547]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.06.04-10.01.00:282][547]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.06.04-10.01.00:295][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.06.04-10.01.00:513][548]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.06.04-10.01.01:964][638]LogSlate: Window 'Message Log' being destroyed
+[2026.06.04-10.01.01:975][638]LogSlate: Window 'Message Log' being destroyed
+[2026.06.04-10.01.23:432][357]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1673.701294
+[2026.06.04-10.01.23:773][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.04-10.01.23:773][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1674.028931, Update Interval: 314.398010
+[2026.06.04-10.01.30:062][896]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.04-10.01.30:076][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-10.01.30:076][896]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.04-10.01.30:081][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004927s)
+[2026.06.04-10.01.30:081][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.004988s)
+[2026.06.04-10.01.30:119][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.06.04-10.01.30:121][896]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.04-10.01.30:123][896]LogPlayLevel: PIE: World Init took: (0.002440s)
+[2026.06.04-10.01.30:125][896]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.06.04-10.01.30:125][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-10.01.30:125][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-10.01.30:125][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-10.01.30:125][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-10.01.30:125][896]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-10.01.30:125][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-10.01.30:125][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-10.01.30:125][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-10.01.30:125][896]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-10.01.30:125][896]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-10.01.30:125][896]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-10.01.30:127][896]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-10.01.30:214][896]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-10.01.30:215][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-10.01.30:215][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-10.01.30:215][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-10.01.30:215][896]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.06.04-10.01.30:215][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.06.04-10.01.30:219][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.06.04-10.01.30:219][896]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.06.04-10.01.30:219][896]LogInit: FAudioDevice initialized with ID 5.
+[2026.06.04-10.01.30:219][896]LogAudio: Display: Audio Device (ID: 5) registered with world 'DEWKWAR'.
+[2026.06.04-10.01.30:219][896]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.06.04-10.01.30:284][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-10.01.30:284][896]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.04-10.01.30:286][896]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.04-12.01.30
+[2026.06.04-10.01.30:286][896]LogWorld: Bringing up level for play took: 0.001580
+[2026.06.04-10.01.30:290][896]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.06.04-10.01.30:300][896]PIE: Server logged in
+[2026.06.04-10.01.30:306][896]PIE: Play in editor total start time 0,23 seconds.
+[2026.06.04-10.01.30:401][897]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.04-10.01.33:818][156]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.04-10.01.36:990][399]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Win
+[2026.06.04-10.01.36:991][399]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Score +1
+[2026.06.04-10.01.36:991][399]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] J1 Score +1
+[2026.06.04-10.01.36:991][399]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.04-10.01.36:991][399]LogScript: Warning: Accessed None trying to read (real) property CallFunc_get_HubScore_ui_HubUI in not an UClass
+	WBP_Hub_Loading_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_MainMenu_C_0.WidgetTree_0.WBP_Pierre_Pradal_Ciseaux_C_0.WidgetTree_0.WBP_Hub_Loading_C_0
+	Function /Game/UI_UX/WBP_Hub_Loading.WBP_Hub_Loading_C:ExecuteUbergraph_WBP_Hub_Loading:0045
+[2026.06.04-10.01.36:991][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_get_HubScore_ui_HubUI in not an UClass". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph WBP Hub Loading Blueprint:  WBP_Hub_Loading
+[2026.06.04-10.01.39:811][613]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] TIE
+[2026.06.04-10.01.39:985][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-10.01.39:985][626]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.04-10.01.41:909][774]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Win
+[2026.06.04-10.01.41:909][774]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Score +1
+[2026.06.04-10.01.41:909][774]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] J1 Score +1
+[2026.06.04-10.01.41:909][774]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.04-10.01.41:910][774]LogScript: Warning: Accessed None trying to read (real) property CallFunc_get_HubScore_ui_HubUI in not an UClass
+	WBP_Hub_Loading_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_MainMenu_C_0.WidgetTree_0.WBP_Pierre_Pradal_Ciseaux_C_0.WidgetTree_0.WBP_Hub_Loading_C_0.WidgetTree_0.WBP_Pierre_Pradal_Ciseaux_C_0.WidgetTree_0.WBP_Hub_Loading_C_0
+	Function /Game/UI_UX/WBP_Hub_Loading.WBP_Hub_Loading_C:ExecuteUbergraph_WBP_Hub_Loading:0045
+[2026.06.04-10.01.41:910][774]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_get_HubScore_ui_HubUI in not an UClass". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph WBP Hub Loading Blueprint:  WBP_Hub_Loading
+[2026.06.04-10.01.44:902][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-10.01.44:902][  8]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.04-10.01.45:979][ 91]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] TIE
+[2026.06.04-10.01.49:209][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-10.01.49:209][336]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.04-10.01.49:210][336]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.04-10.01.49:218][336]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-10.01.49:218][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-10.01.49:220][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-10.01.49:231][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-10.01.49:277][336]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.06.04-10.01.49:277][336]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.06.04-10.01.49:280][336]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.06.04-10.01.49:291][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.06.04-10.01.49:515][337]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.06.04-10.01.50:585][400]LogSlate: Window 'Message Log' being destroyed
+[2026.06.04-10.01.50:594][400]LogSlate: Window 'Message Log' being destroyed
