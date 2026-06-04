@@ -2225,3 +2225,85 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.04-11.34.23:176][506]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
 [2026.06.04-11.34.26:231][693]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
 [2026.06.04-11.34.26:231][693]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.35.23:160][ 86]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-11.35.23:160][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-11.35.23:173][ 86]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-11.35.23:174][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-11.35.23:298][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.06.04-11.35.24:817][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.06.04-11.35.25:905][234]LogSlate: Window 'Save Content' being destroyed
+[2026.06.04-11.35.25:922][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-11.35.25:980][234]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.04-11.35.25:986][234]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_MainMenu.WBP_MainMenu]
+[2026.06.04-11.35.25:986][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_MainMenu]
+[2026.06.04-11.35.25:986][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_MainMenu" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_MainMenu.uasset" SILENT=true
+[2026.06.04-11.35.26:029][234]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_MainMenu
+[2026.06.04-11.35.26:030][234]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_MainMenuA8E35D41450ED509B623A2B5B89911FF.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_MainMenu.uasset'
+[2026.06.04-11.35.26:044][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.795 ms (total: 2.53 sec)
+[2026.06.04-11.35.26:112][234]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-11.35.26:113][234]LogContentValidation: Enabled validators:
+[2026.06.04-11.35.26:113][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-11.35.26:113][234]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-11.35.26:113][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-11.35.26:113][234]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-11.35.26:113][234]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-11.35.26:113][234]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-11.35.26:114][234]AssetCheck: /Game/UI_UX/WBP_MainMenu Validating asset
+[2026.06.04-11.35.34:078][955]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-11.35.34:078][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-11.35.34:092][955]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-11.35.34:093][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-11.35.34:201][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.06.04-11.35.35:407][ 82]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-11.35.35:407][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-11.35.35:419][ 82]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-11.35.35:419][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-11.35.35:509][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.06.04-11.35.38:441][323]LogStreaming: Display: FlushAsyncLoading(559): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-11.35.38:452][323]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI_UX/WBP_WinP1.WBP_WinP1
+[2026.06.04-11.35.38:453][323]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.06.04-11.35.38:472][323]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.06.04-11.35.42:989][629]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.35.42:989][629]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.35.46:173][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.06.04-11.35.46:405][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-11.35.46:480][853]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_WinP1] ([2] browsable assets)...
+[2026.06.04-11.35.46:485][853]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_WinP1.WBP_WinP1]
+[2026.06.04-11.35.46:485][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_WinP1]
+[2026.06.04-11.35.46:485][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_WinP1" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_WinP1.uasset" SILENT=true
+[2026.06.04-11.35.46:501][853]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_WinP1
+[2026.06.04-11.35.46:502][853]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_WinP1443BA74142081DFEFE0266A41F5CC4B6.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_WinP1.uasset'
+[2026.06.04-11.35.46:514][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.758 ms (total: 2.64 sec)
+[2026.06.04-11.35.46:578][853]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-11.35.46:578][853]LogContentValidation: Enabled validators:
+[2026.06.04-11.35.46:579][853]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-11.35.46:579][853]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-11.35.46:579][853]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-11.35.46:579][853]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-11.35.46:579][853]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-11.35.46:579][853]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-11.35.46:579][853]AssetCheck: /Game/UI_UX/WBP_WinP1 Validating asset
+[2026.06.04-11.35.49:539][ 67]LogStreaming: Display: FlushAsyncLoading(560): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.04-11.35.49:551][ 67]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI_UX/WBP_WinP2.WBP_WinP2
+[2026.06.04-11.35.49:551][ 67]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.06.04-11.35.49:560][ 67]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.06.04-11.35.53:150][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.35.53:150][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.35.56:434][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.06.04-11.35.56:669][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-11.35.56:729][522]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_WinP2] ([2] browsable assets)...
+[2026.06.04-11.35.56:734][522]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_WinP2.WBP_WinP2]
+[2026.06.04-11.35.56:735][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_WinP2]
+[2026.06.04-11.35.56:735][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_WinP2" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_WinP2.uasset" SILENT=true
+[2026.06.04-11.35.56:753][522]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_WinP2
+[2026.06.04-11.35.56:754][522]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_WinP25F2869764B9F9C197BFC46956029F49C.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_WinP2.uasset'
+[2026.06.04-11.35.56:767][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.660 ms (total: 2.74 sec)
+[2026.06.04-11.35.56:850][522]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-11.35.56:850][522]LogContentValidation: Enabled validators:
+[2026.06.04-11.35.56:850][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-11.35.56:850][522]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-11.35.56:850][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-11.35.56:850][522]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-11.35.56:850][522]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-11.35.56:850][522]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-11.35.56:851][522]AssetCheck: /Game/UI_UX/WBP_WinP2 Validating asset
