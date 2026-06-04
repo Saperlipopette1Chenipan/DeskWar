@@ -2099,3 +2099,129 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.04-11.27.14:262][506]LogPlayLevel: Display: Destroying online subsystem :Context_11
 [2026.06.04-11.27.15:545][574]LogSlate: Window 'Message Log' being destroyed
 [2026.06.04-11.27.15:558][574]LogSlate: Window 'Message Log' being destroyed
+[2026.06.04-11.28.27:570][628]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1352.483765
+[2026.06.04-11.28.27:739][640]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.04-11.28.27:739][640]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1352.640137, Update Interval: 316.027710
+[2026.06.04-11.29.10:085][529]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.06.04-11.29.10:087][529]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.06.04-11.30.46:670][ 47]LogSlate: Window 'Color Picker' being destroyed
+[2026.06.04-11.30.47:750][107]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.152:64703, Sequence=0
+[2026.06.04-11.30.47:750][107]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.152:64703, Sequence=0
+[2026.06.04-11.30.51:302][320]LogSlate: Window 'Color Picker' being destroyed
+[2026.06.04-11.30.56:986][627]LogSlate: Window 'Color Picker' being destroyed
+[2026.06.04-11.31.08:061][277]LogSlate: Window 'Color Picker' being destroyed
+[2026.06.04-11.31.17:191][810]LogSlate: Window 'Color Picker' being destroyed
+[2026.06.04-11.31.25:306][234]LogSlate: Window 'Color Picker' being destroyed
+[2026.06.04-11.31.31:624][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.06.04-11.31.31:838][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-11.31.31:898][633]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux] ([2] browsable assets)...
+[2026.06.04-11.31.31:909][633]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux.WBP_Pierre_Pradal_Ciseaux]
+[2026.06.04-11.31.31:909][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux]
+[2026.06.04-11.31.31:909][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/WBP_Pierre_Pradal_Ciseaux.uasset" SILENT=true
+[2026.06.04-11.31.32:077][633]LogSavePackage: Moving output files for package: /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux
+[2026.06.04-11.31.32:078][633]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_Pierre_Pradal_CiseauxE62C354F42658C2ADCF0AA844CCE3129.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/WBP_Pierre_Pradal_Ciseaux.uasset'
+[2026.06.04-11.31.32:093][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 255.435 ms (total: 2.30 sec)
+[2026.06.04-11.31.32:166][633]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-11.31.32:166][633]LogContentValidation: Enabled validators:
+[2026.06.04-11.31.32:166][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-11.31.32:166][633]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-11.31.32:166][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-11.31.32:166][633]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-11.31.32:166][633]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-11.31.32:166][633]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-11.31.32:170][633]AssetCheck: /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux Validating asset
+[2026.06.04-11.31.32:813][662]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.04-11.31.32:825][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.04-11.31.32:826][662]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.04-11.31.32:832][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005641s)
+[2026.06.04-11.31.32:832][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.005706s)
+[2026.06.04-11.31.32:877][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.06.04-11.31.32:879][662]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.04-11.31.32:883][662]LogPlayLevel: PIE: World Init took: (0.003859s)
+[2026.06.04-11.31.32:884][662]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.06.04-11.31.32:884][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.04-11.31.32:884][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.04-11.31.32:884][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.04-11.31.32:884][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.04-11.31.32:884][662]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.04-11.31.32:885][662]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.04-11.31.32:885][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.04-11.31.32:885][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.04-11.31.32:885][662]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.04-11.31.32:885][662]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.04-11.31.32:885][662]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.04-11.31.32:888][662]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.04-11.31.32:972][662]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.04-11.31.32:973][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.04-11.31.32:973][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.04-11.31.32:973][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.04-11.31.32:973][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.06.04-11.31.32:973][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.06.04-11.31.32:977][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.06.04-11.31.32:977][662]LogInit: FAudioDevice initialized with ID 8.
+[2026.06.04-11.31.32:977][662]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.06.04-11.31.32:977][662]LogAudio: Display: Audio Device (ID: 8) registered with world 'DEWKWAR'.
+[2026.06.04-11.31.32:977][662]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.06.04-11.31.33:034][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-11.31.33:035][662]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.04-11.31.33:037][662]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.04-13.31.33
+[2026.06.04-11.31.33:037][662]LogWorld: Bringing up level for play took: 0.001644
+[2026.06.04-11.31.33:041][662]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.06.04-11.31.33:052][662]PIE: Server logged in
+[2026.06.04-11.31.33:056][662]PIE: Play in editor total start time 0,23 seconds.
+[2026.06.04-11.31.33:174][663]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.04-11.31.34:925][734]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.04-11.31.40:920][998]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] TIE
+[2026.06.04-11.31.45:737][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.04-11.31.45:737][209]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.04-11.31.45:737][209]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.04-11.31.45:745][209]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.04-11.31.45:745][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-11.31.45:747][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.04-11.31.45:756][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.04-11.31.45:797][209]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.04-11.31.45:797][209]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.06.04-11.31.45:797][209]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.06.04-11.31.45:799][209]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.06.04-11.31.45:811][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.06.04-11.31.45:976][210]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.06.04-11.31.47:342][284]LogSlate: Window 'Message Log' being destroyed
+[2026.06.04-11.31.47:353][284]LogSlate: Window 'Message Log' being destroyed
+[2026.06.04-11.33.54:767][518]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.33.54:767][518]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.33.59:835][834]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.33.59:835][834]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.34.02:890][ 11]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.34.02:890][ 11]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.34.07:392][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.06.04-11.34.07:415][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.04-11.34.07:479][391]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WPB_Settings] ([2] browsable assets)...
+[2026.06.04-11.34.07:485][391]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WPB_Settings.WPB_Settings]
+[2026.06.04-11.34.07:485][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WPB_Settings]
+[2026.06.04-11.34.07:485][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WPB_Settings" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WPB_Settings.uasset" SILENT=true
+[2026.06.04-11.34.07:510][391]LogSavePackage: Moving output files for package: /Game/UI_UX/WPB_Settings
+[2026.06.04-11.34.07:511][391]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WPB_SettingsD72A95CE411FDEF5815A6280DA08EE78.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WPB_Settings.uasset'
+[2026.06.04-11.34.07:525][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.193 ms (total: 2.41 sec)
+[2026.06.04-11.34.07:578][391]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.04-11.34.07:578][391]LogContentValidation: Enabled validators:
+[2026.06.04-11.34.07:578][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.04-11.34.07:578][391]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.04-11.34.07:578][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.04-11.34.07:578][391]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.04-11.34.07:578][391]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.04-11.34.07:578][391]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.04-11.34.07:579][391]AssetCheck: /Game/UI_UX/WPB_Settings Validating asset
+[2026.06.04-11.34.09:108][540]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1694.024658
+[2026.06.04-11.34.09:252][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.04-11.34.09:252][555]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1694.160034, Update Interval: 356.259033
+[2026.06.04-11.34.16:340][ 80]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI_UX/WBP_MainMenu.WBP_MainMenu
+[2026.06.04-11.34.16:340][ 80]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.06.04-11.34.16:348][ 80]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.06.04-11.34.19:716][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.34.19:716][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.34.23:176][506]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.34.23:176][506]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.34.26:231][693]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
+[2026.06.04-11.34.26:231][693]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data C:\Users\matteo.battani\Downloads\childos/ChildosArabicDEMO-Light.otf
