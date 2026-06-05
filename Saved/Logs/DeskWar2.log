@@ -1881,3 +1881,110 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.05-08.35.16:992][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 332.807709
 [2026.06.05-08.35.17:144][136]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.06.05-08.35.17:144][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 332.950012, Update Interval: 330.711395
+[2026.06.05-08.40.45:243][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2026.06.05-08.40.46:544][591]LogSlate: Window 'Save Content' being destroyed
+[2026.06.05-08.40.46:563][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.05-08.40.46:628][591]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux] ([2] browsable assets)...
+[2026.06.05-08.40.46:628][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux]
+[2026.06.05-08.40.46:628][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/WBP_Pierre_Pradal_Ciseaux.uasset" SILENT=true
+[2026.06.05-08.40.46:789][591]LogSavePackage: Moving output files for package: /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux
+[2026.06.05-08.40.46:790][591]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_Pierre_Pradal_CiseauxE6F77787405A75510BF5D0A5BDE662D0.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/WBP_Pierre_Pradal_Ciseaux.uasset'
+[2026.06.05-08.40.46:805][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 243.188 ms
+[2026.06.05-08.40.46:861][591]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.05-08.40.46:861][591]LogContentValidation: Enabled validators:
+[2026.06.05-08.40.46:861][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.05-08.40.46:861][591]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.05-08.40.46:861][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.05-08.40.46:861][591]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.05-08.40.46:861][591]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.05-08.40.46:861][591]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.05-08.40.46:865][591]AssetCheck: /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux Validating asset
+[2026.06.05-08.40.51:275][916]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 667.089966
+[2026.06.05-08.40.51:472][931]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-08.40.51:472][931]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 667.274780, Update Interval: 309.483307
+[2026.06.05-08.43.30:480][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.06.05-08.43.30:483][ 22]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.049
+[2026.06.05-08.43.30:484][ 22]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux] ([2] browsable assets)...
+[2026.06.05-08.43.30:492][ 22]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux.WBP_Pierre_Pradal_Ciseaux]
+[2026.06.05-08.43.30:492][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux]
+[2026.06.05-08.43.30:652][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux_Auto1
+[2026.06.05-08.43.30:653][ 22]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_Pierre_Pradal_Ciseaux_Auto11A3158F447521D93BD9D2C8441789A39.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux_Auto1.uasset'
+[2026.06.05-08.43.30:655][ 22]LogFileHelpers: Auto-saving content packages took 0.172
+[2026.06.05-08.46.08:367][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 984.181885
+[2026.06.05-08.46.08:548][686]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-08.46.08:548][686]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 984.353577, Update Interval: 345.314484
+[2026.06.05-08.52.09:597][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1345.416016
+[2026.06.05-08.52.09:774][306]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-08.52.09:775][306]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1345.579834, Update Interval: 343.668335
+[2026.06.05-08.53.30:855][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2026.06.05-08.53.30:858][672]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.079
+[2026.06.05-08.53.30:859][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux] ([2] browsable assets)...
+[2026.06.05-08.53.30:859][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux]
+[2026.06.05-08.53.31:091][672]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux_Auto2
+[2026.06.05-08.53.31:093][672]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_Pierre_Pradal_Ciseaux_Auto2BDEAB8054405C78DE1D689A0BE2C7534.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux_Auto2.uasset'
+[2026.06.05-08.53.31:095][672]LogFileHelpers: Auto-saving content packages took 0.237
+[2026.06.05-08.58.02:540][119]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.06.05-08.58.02:541][119]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.06.05-08.58.02:647][120]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.06.05-08.58.02:657][120]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.06.05-08.58.02:754][121]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.06.05-08.58.02:758][121]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.06.05-08.58.02:852][122]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.06.05-08.58.02:970][123]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.06.05-08.58.02:974][123]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.06.05-08.58.03:069][124]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.06.05-08.58.08:844][495]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.81:63700, Sequence=0
+[2026.06.05-08.58.08:845][495]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.81:63700, Sequence=0
+[2026.06.05-08.58.09:754][555]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.232:62602, Sequence=0
+[2026.06.05-08.58.09:754][555]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.232:62602, Sequence=0
+[2026.06.05-08.58.12:342][732]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1708.160889
+[2026.06.05-08.58.12:546][746]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-08.58.12:546][746]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1708.349976, Update Interval: 357.634216
+[2026.06.05-09.02.02:745][362]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.60.232:62602, Sequence=0
+[2026.06.05-09.03.27:003][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.06.05-09.03.27:221][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.05-09.03.27:299][  1]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux] ([2] browsable assets)...
+[2026.06.05-09.03.27:305][  1]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux.WBP_Pierre_Pradal_Ciseaux]
+[2026.06.05-09.03.27:305][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux]
+[2026.06.05-09.03.27:305][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/WBP_Pierre_Pradal_Ciseaux.uasset" SILENT=true
+[2026.06.05-09.03.27:496][  1]LogSavePackage: Moving output files for package: /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux
+[2026.06.05-09.03.27:497][  1]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_Pierre_Pradal_CiseauxF5A26F3B4633B779EF94A5A0E82D539F.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/HUD_Game/WBP_Pierre_Pradal_Ciseaux.uasset'
+[2026.06.05-09.03.27:515][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 294.524 ms (total: 537.712 ms)
+[2026.06.05-09.03.27:583][  1]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.05-09.03.27:583][  1]LogContentValidation: Enabled validators:
+[2026.06.05-09.03.27:583][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.05-09.03.27:583][  1]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.05-09.03.27:583][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.05-09.03.27:583][  1]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.05-09.03.27:583][  1]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.05-09.03.27:583][  1]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.05-09.03.27:586][  1]AssetCheck: /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux Validating asset
+[2026.06.05-09.04.13:473][359]LogStreaming: Display: FlushAsyncLoading(525): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.05-09.04.13:617][359]LogInterchangeEngine: [Pending] Importing
+[2026.06.05-09.04.13:617][359]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/explode.png]
+[2026.06.05-09.04.14:199][361]LogStreaming: Display: FlushAsyncLoading(559): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.05-09.04.14:217][362]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.06.05-09.04.14:499][363]LogTexture: Display: Building textures: /Game/ASSETS/Elements/explode.explode (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.06.05-09.04.14:848][363]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/explode.png]
+[2026.06.05-09.04.14:861][363]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.06.05-09.04.14:861][363]LogInterchangeEngine: [Success] Import Done
+[2026.06.05-09.04.29:956][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.06.05-09.04.31:327][447]LogSlate: Window 'Save Content' being destroyed
+[2026.06.05-09.04.31:343][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.05-09.04.31:399][447]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/explode] ([1] browsable assets)...
+[2026.06.05-09.04.31:404][447]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/explode.explode]
+[2026.06.05-09.04.31:404][447]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/explode]
+[2026.06.05-09.04.31:404][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/explode" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/explode.uasset" SILENT=true
+[2026.06.05-09.04.31:429][447]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/explode
+[2026.06.05-09.04.31:429][447]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/explodeD5023AF049224FFF3ED777B594400036.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/explode.uasset'
+[2026.06.05-09.04.31:451][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.495 ms (total: 646.208 ms)
+[2026.06.05-09.04.31:514][447]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.05-09.04.31:514][447]LogContentValidation: Enabled validators:
+[2026.06.05-09.04.31:514][447]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.05-09.04.31:514][447]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.05-09.04.31:514][447]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.05-09.04.31:514][447]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.05-09.04.31:514][447]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.05-09.04.31:514][447]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.05-09.04.31:514][447]AssetCheck: /Game/ASSETS/Elements/explode Validating asset
+[2026.06.05-09.04.31:551][447]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/SourceControl/UncontrolledChangelists.json
