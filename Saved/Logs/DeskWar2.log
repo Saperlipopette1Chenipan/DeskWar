@@ -4282,3 +4282,1592 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.08-07.53.15:859][905]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 6/8 of stale message segements from Sender=10.7.61.50:53553, Sequence=0
 [2026.06.08-07.53.15:859][905]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 7/8 of stale message segements from Sender=10.7.61.50:53553, Sequence=0
 [2026.06.08-07.53.15:859][905]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 6/8 of stale message segements from Sender=10.7.61.50:53553, Sequence=0
+[2026.06.08-07.56.48:865][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3573.985596
+[2026.06.08-07.56.49:062][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-07.56.49:062][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3574.168945, Update Interval: 328.666046
+[2026.06.08-07.58.50:445][726]LogDerivedDataCache: C:/Users/matteo.battani/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.08-08.02.48:545][756]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3933.657471
+[2026.06.08-08.02.48:743][771]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-08.02.48:743][771]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3933.838867, Update Interval: 345.973694
+[2026.06.08-08.02.55:114][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2026.06.08-08.02.55:151][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.02.55:219][224]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.02.55:230][224]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.02.55:230][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.02.55:230][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.02.55:290][224]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.02.55:291][224]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC76477B20484D7EF3329AA8A7760A4B27.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.02.55:316][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.078 ms (total: 2.98 sec)
+[2026.06.08-08.02.55:407][224]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.02.55:407][224]LogContentValidation: Enabled validators:
+[2026.06.08-08.02.55:407][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.02.55:407][224]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.02.55:407][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.02.55:407][224]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.02.55:407][224]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.02.55:407][224]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.02.55:409][224]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.05.36:282][956]LogSlate: Took 0.009613 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.06.08-08.07.05:533][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.06.08-08.07.05:538][100]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.184
+[2026.06.08-08.07.05:540][100]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.07.05:544][100]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.07.05:544][100]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.07.05:604][100]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_UX/WBP_LoadingScreenPFC_Auto2
+[2026.06.08-08.07.05:605][100]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC_Auto2E2772CC74B7D789086D19F954DEEBDBF.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/UI_UX/WBP_LoadingScreenPFC_Auto2.uasset'
+[2026.06.08-08.07.05:607][100]LogFileHelpers: Auto-saving content packages took 0.069
+[2026.06.08-08.08.38:925][440]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.08-08.09.11:032][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4316.137207
+[2026.06.08-08.09.11:219][478]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-08.09.11:219][478]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4316.310059, Update Interval: 305.392609
+[2026.06.08-08.09.25:922][363]LogStreaming: Display: FlushAsyncLoading(571): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.08-08.09.40:354][ 30]LogStreaming: Display: FlushAsyncLoading(572): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.08-08.09.47:369][366]LogStreaming: Display: FlushAsyncLoading(573): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.08-08.09.53:457][654]LogStreaming: Display: FlushAsyncLoading(574): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.08-08.10.01:383][ 10]LogStreaming: Display: FlushAsyncLoading(575): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.08-08.10.12:220][606]LogStreaming: Display: FlushAsyncLoading(576): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.08-08.10.26:280][325]LogStreaming: Display: FlushAsyncLoading(577): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.08-08.10.31:139][529]LogStreaming: Display: FlushAsyncLoading(578): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.08-08.10.36:848][776]LogStreaming: Display: FlushAsyncLoading(579): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.08-08.10.45:377][159]LogStreaming: Display: FlushAsyncLoading(580): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.08-08.10.51:097][404]LogStreaming: Display: FlushAsyncLoading(581): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.08-08.11.09:529][519]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.11.09:529][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.11.09:548][519]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.11.09:548][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.11.09:714][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2026.06.08-08.11.10:326][555]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.11.10:327][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.11.10:345][555]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.11.10:345][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.11.10:446][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.06.08-08.11.13:876][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.06.08-08.11.15:682][781]LogSlate: Window 'Save Content' being destroyed
+[2026.06.08-08.11.15:697][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.11.15:765][781]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.11.15:770][781]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.11.15:771][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.11.15:771][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.11.15:834][781]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.11.15:835][781]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC0ECBAA144803B01E441976B832C0C072.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.11.15:848][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.970 ms (total: 3.13 sec)
+[2026.06.08-08.11.15:914][781]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.11.15:914][781]LogContentValidation: Enabled validators:
+[2026.06.08-08.11.15:914][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.11.15:914][781]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.11.15:914][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.11.15:914][781]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.11.15:914][781]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.11.15:914][781]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.11.15:916][781]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.11.15:942][781]LogAutomationController: Ignoring very large delta of 2.11 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.06.08-08.11.31:394][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.11.31:394][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.11.31:394][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.12.50:865][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.06.08-08.12.50:896][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.12.50:946][142]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.12.50:958][142]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.12.50:958][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.12.50:958][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.12.51:024][142]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.12.51:025][142]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC2A717B684A8C9CFFB558AB98D08373A5.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.12.51:037][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.080 ms (total: 3.27 sec)
+[2026.06.08-08.12.51:088][142]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.12.51:088][142]LogContentValidation: Enabled validators:
+[2026.06.08-08.12.51:088][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.12.51:088][142]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.12.51:088][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.12.51:088][142]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.12.51:088][142]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.12.51:088][142]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.12.51:090][142]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.14.56:050][655]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4661.170898
+[2026.06.08-08.14.56:207][670]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-08.14.56:207][670]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4661.317383, Update Interval: 308.009277
+[2026.06.08-08.15.55:152][916]LogEditorTransaction: Undo Add Node
+[2026.06.08-08.17.30:994][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.06.08-08.17.30:998][685]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.098
+[2026.06.08-08.17.30:999][685]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.17.31:004][685]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.17.31:004][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.17.31:075][685]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_UX/WBP_LoadingScreenPFC_Auto3
+[2026.06.08-08.17.31:076][685]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC_Auto3B4D49B9F470D8005200DEC8405875243.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/UI_UX/WBP_LoadingScreenPFC_Auto3.uasset'
+[2026.06.08-08.17.31:078][685]LogFileHelpers: Auto-saving content packages took 0.080
+[2026.06.08-08.18.06:217][160]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.06:217][160]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.07:720][300]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.07:720][300]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.07:720][300]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.07:722][300]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.18.12:488][739]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.17:517][260]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.17:518][260]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.18.18:387][353]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.18.18:387][353]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.18.18:387][353]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.18.20:178][541]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.18.20:729][600]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.20:730][600]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.18.20:730][600]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.18.21:240][655]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.21:240][655]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.21:240][655]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.23:294][789]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.18.24:335][890]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.24:336][890]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.24:336][890]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.24:740][929]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.18.25:071][960]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.18.25:071][960]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.20.58:352][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5023.500000
+[2026.06.08-08.20.58:525][217]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-08.20.58:525][217]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5023.660645, Update Interval: 356.376221
+[2026.06.08-08.22.17:405][882]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:406][882]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:545][893]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:546][893]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:551][893]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:551][893]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:612][898]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:612][898]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:617][898]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:617][898]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:617][898]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:617][898]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:630][899]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:631][899]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:631][899]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:641][900]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:647][900]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:647][900]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:654][901]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:661][901]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:662][901]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:662][901]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:704][904]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:704][904]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:741][907]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:744][907]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:745][907]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:749][907]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:755][908]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:755][908]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:755][908]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:822][913]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:822][913]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:823][913]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:832][913]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:840][913]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:840][913]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:840][913]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:840][913]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:844][913]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:846][913]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:846][913]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:847][913]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:853][914]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:863][914]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:863][914]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:863][914]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:863][914]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:870][914]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:870][914]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:873][915]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:880][915]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:880][915]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:883][915]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:887][916]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:895][916]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:897][916]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:897][916]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:912][917]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:912][917]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:912][917]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:914][918]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:914][918]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:921][918]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:921][918]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:921][918]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:956][921]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:969][922]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:969][922]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:970][922]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:973][922]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:977][922]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:978][922]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:980][922]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.17:980][922]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.18:006][924]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.18:006][924]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.18:041][927]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.18:041][927]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.18:053][928]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.18:053][928]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.18:054][928]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.18:081][930]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.19:611][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.19:611][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.28:083][600]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.32:094][914]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.32:098][914]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.22.41:218][483]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.23.15:127][725]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.23.15:132][725]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.23.15:133][725]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.23.15:200][729]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.23.15:200][729]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.23.24:650][278]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.23.36:122][974]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.23.36:622][  6]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.23.36:623][  6]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.23.39:361][169]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.23.39:361][169]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.23.39:363][169]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.23.40:349][228]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.23.41:570][313]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.23.42:698][407]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:55600, Sequence=0
+[2026.06.08-08.23.45:182][635]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.23.45:182][635]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.24.02:344][982]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:50513, Sequence=0
+[2026.06.08-08.26.10:386][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2026.06.08-08.26.10:431][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.26.10:492][889]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.26.10:497][889]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.26.10:497][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.26.10:497][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.26.10:569][889]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.26.10:570][889]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC7315D2BB41E38C838EAE89A7ED3190EA.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.26.10:583][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.219 ms (total: 3.42 sec)
+[2026.06.08-08.26.10:639][889]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.26.10:639][889]LogContentValidation: Enabled validators:
+[2026.06.08-08.26.10:639][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.26.10:639][889]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.26.10:639][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.26.10:639][889]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.26.10:639][889]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.26.10:639][889]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.26.10:641][889]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.27.38:352][941]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5423.513184
+[2026.06.08-08.27.38:549][956]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-08.27.38:549][956]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5423.696777, Update Interval: 303.649414
+[2026.06.08-08.28.54:988][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.06.08-08.28.54:992][189]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.052
+[2026.06.08-08.28.54:994][189]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.28.54:999][189]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.28.54:999][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.28.55:076][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_UX/WBP_LoadingScreenPFC_Auto4
+[2026.06.08-08.28.55:076][189]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC_Auto42202EE274888CC16CD4899B4C3ADEED1.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/UI_UX/WBP_LoadingScreenPFC_Auto4.uasset'
+[2026.06.08-08.28.55:077][189]LogFileHelpers: Auto-saving content packages took 0.084
+[2026.06.08-08.30.21:433][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.06.08-08.30.21:484][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.30.21:566][ 57]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.30.21:570][ 57]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.30.21:570][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.30.21:570][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.30.21:649][ 57]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.30.21:650][ 57]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC0706EB844C9EA9EFE7501480631D114F.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.30.21:665][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.064 ms (total: 3.60 sec)
+[2026.06.08-08.30.21:740][ 57]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.30.21:740][ 57]LogContentValidation: Enabled validators:
+[2026.06.08-08.30.21:740][ 57]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.30.21:740][ 57]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.30.21:740][ 57]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.30.21:740][ 57]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.30.21:740][ 57]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.30.21:740][ 57]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.30.21:742][ 57]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.30.56:974][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2026.06.08-08.30.57:000][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.30.57:072][295]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.30.57:078][295]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.30.57:078][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.30.57:078][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.30.57:154][295]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.30.57:155][295]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFCCBCB0D634F92C1F41EC96ABE6487DE5D.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.30.57:169][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.580 ms (total: 3.77 sec)
+[2026.06.08-08.30.57:241][295]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.30.57:241][295]LogContentValidation: Enabled validators:
+[2026.06.08-08.30.57:241][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.30.57:241][295]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.30.57:241][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.30.57:241][295]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.30.57:241][295]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.30.57:241][295]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.30.57:242][295]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.33.31:441][514]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5776.584473
+[2026.06.08-08.33.31:631][526]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-08.33.31:631][526]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5776.760254, Update Interval: 315.117645
+[2026.06.08-08.33.40:171][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2026.06.08-08.33.40:227][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.33.40:303][ 66]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.33.40:309][ 66]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.33.40:309][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.33.40:309][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.33.40:397][ 66]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.33.40:398][ 66]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC227CAC8B4A28F6784669758DCD4CB489.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.33.40:417][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.272 ms (total: 3.96 sec)
+[2026.06.08-08.33.40:501][ 66]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.33.40:501][ 66]LogContentValidation: Enabled validators:
+[2026.06.08-08.33.40:501][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.33.40:501][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.33.40:501][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.33.40:501][ 66]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.33.40:501][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.33.40:501][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.33.40:504][ 66]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.33.44:565][298]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-08.33.44:579][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-08.33.44:579][298]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.33.44:584][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004173s)
+[2026.06.08-08.33.44:584][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.004238s)
+[2026.06.08-08.33.44:628][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.06.08-08.33.44:632][298]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-08.33.44:635][298]LogPlayLevel: PIE: World Init took: (0.002895s)
+[2026.06.08-08.33.44:636][298]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.06.08-08.33.44:636][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-08.33.44:636][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-08.33.44:636][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-08.33.44:636][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-08.33.44:636][298]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-08.33.44:636][298]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-08.33.44:637][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-08.33.44:637][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-08.33.44:637][298]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-08.33.44:637][298]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-08.33.44:637][298]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-08.33.44:642][298]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-08.33.44:746][298]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-08.33.44:747][298]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-08.33.44:747][298]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-08.33.44:747][298]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-08.33.44:748][298]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.06.08-08.33.44:748][298]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.06.08-08.33.44:751][298]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.06.08-08.33.44:751][298]LogInit: FAudioDevice initialized with ID 15.
+[2026.06.08-08.33.44:751][298]LogAudio: Display: Audio Device (ID: 15) registered with world 'DEWKWAR'.
+[2026.06.08-08.33.44:751][298]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.06.08-08.33.44:751][298]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.06.08-08.33.44:821][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.33.44:821][298]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-08.33.44:823][298]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-10.33.44
+[2026.06.08-08.33.44:824][298]LogWorld: Bringing up level for play took: 0.001557
+[2026.06.08-08.33.44:828][298]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.06.08-08.33.44:839][298]PIE: Server logged in
+[2026.06.08-08.33.44:843][298]PIE: Play in editor total start time 0,264 seconds.
+[2026.06.08-08.33.44:979][299]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-08.33.46:909][366]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.33.46:910][366]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-08.33.49:905][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.33.50:946][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.33.50:947][535]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.33.50:947][535]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-08.33.50:954][535]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.33.50:955][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.33.50:956][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-08.33.50:968][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.33.51:023][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.08-08.33.51:024][535]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.06.08-08.33.51:024][535]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.06.08-08.33.51:027][535]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.06.08-08.33.51:038][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2026.06.08-08.33.51:264][536]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.06.08-08.33.52:487][598]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.33.52:499][598]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.35.33:746][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.06.08-08.35.33:801][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.35.33:868][534]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.35.33:875][534]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.35.33:875][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.35.33:875][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.35.33:959][534]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.35.33:960][534]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFCED031F6242CD925E6B9EC2A71FFFE544.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.35.33:973][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.563 ms (total: 4.13 sec)
+[2026.06.08-08.35.34:035][534]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.35.34:035][534]LogContentValidation: Enabled validators:
+[2026.06.08-08.35.34:035][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.35.34:035][534]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.35.34:035][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.35.34:035][534]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.35.34:035][534]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.35.34:035][534]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.35.34:037][534]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.35.35:138][578]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-08.35.35:153][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-08.35.35:153][578]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.35.35:157][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003928s)
+[2026.06.08-08.35.35:157][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.004009s)
+[2026.06.08-08.35.35:204][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.06.08-08.35.35:210][578]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-08.35.35:213][578]LogPlayLevel: PIE: World Init took: (0.002527s)
+[2026.06.08-08.35.35:214][578]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.06.08-08.35.35:214][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-08.35.35:214][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-08.35.35:214][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-08.35.35:214][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-08.35.35:214][578]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-08.35.35:215][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-08.35.35:215][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-08.35.35:215][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-08.35.35:215][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-08.35.35:215][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-08.35.35:215][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-08.35.35:218][578]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-08.35.35:311][578]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-08.35.35:311][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-08.35.35:311][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-08.35.35:311][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-08.35.35:312][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.06.08-08.35.35:312][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.06.08-08.35.35:317][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.06.08-08.35.35:317][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.06.08-08.35.35:317][578]LogInit: FAudioDevice initialized with ID 16.
+[2026.06.08-08.35.35:317][578]LogAudio: Display: Audio Device (ID: 16) registered with world 'DEWKWAR'.
+[2026.06.08-08.35.35:317][578]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.06.08-08.35.35:386][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.35.35:386][578]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-08.35.35:387][578]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-10.35.35
+[2026.06.08-08.35.35:388][578]LogWorld: Bringing up level for play took: 0.001584
+[2026.06.08-08.35.35:392][578]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.06.08-08.35.35:405][578]PIE: Server logged in
+[2026.06.08-08.35.35:410][578]PIE: Play in editor total start time 0,257 seconds.
+[2026.06.08-08.35.35:554][579]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-08.35.37:223][633]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.08-08.35.37:223][633]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-08.35.40:201][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.35.40:678][763]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.200787
+[2026.06.08-08.35.40:678][763]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.35.40:678][763]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.35.41:157][781]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.386013
+[2026.06.08-08.35.41:157][781]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.35.41:157][781]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.35.41:507][794]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.442668
+[2026.06.08-08.35.41:507][794]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.35.41:507][794]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.35.41:826][806]LogBlueprintUserMessages: [WBP_SPam_C_0] 1.96
+[2026.06.08-08.35.41:911][809]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.477697
+[2026.06.08-08.35.41:911][809]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.35.41:911][809]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.35.42:854][845]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.35.45:809][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.35.45:809][953]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.35.45:809][953]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-08.35.45:817][953]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.35.45:817][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.35.45:818][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-08.35.45:833][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.35.45:891][953]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.08-08.35.45:893][953]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.06.08-08.35.45:893][953]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.06.08-08.35.45:896][953]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.06.08-08.35.45:908][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2026.06.08-08.35.46:131][954]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.06.08-08.35.47:591][ 21]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.35.47:603][ 21]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.36.02:464][834]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-08.36.02:478][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-08.36.02:479][834]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.36.02:483][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003662s)
+[2026.06.08-08.36.02:483][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.003719s)
+[2026.06.08-08.36.02:534][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.06.08-08.36.02:538][834]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-08.36.02:540][834]LogPlayLevel: PIE: World Init took: (0.002633s)
+[2026.06.08-08.36.02:542][834]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.06.08-08.36.02:542][834]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-08.36.02:542][834]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-08.36.02:542][834]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-08.36.02:542][834]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-08.36.02:542][834]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-08.36.02:542][834]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-08.36.02:542][834]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-08.36.02:542][834]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-08.36.02:542][834]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-08.36.02:542][834]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-08.36.02:542][834]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-08.36.02:545][834]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-08.36.02:639][834]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-08.36.02:639][834]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-08.36.02:639][834]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-08.36.02:639][834]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-08.36.02:640][834]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.06.08-08.36.02:640][834]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.06.08-08.36.02:644][834]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.06.08-08.36.02:644][834]LogInit: FAudioDevice initialized with ID 17.
+[2026.06.08-08.36.02:644][834]LogAudio: Display: Audio Device (ID: 17) registered with world 'DEWKWAR'.
+[2026.06.08-08.36.02:644][834]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.06.08-08.36.02:644][834]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.06.08-08.36.02:719][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.36.02:719][834]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-08.36.02:720][834]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-10.36.02
+[2026.06.08-08.36.02:721][834]LogWorld: Bringing up level for play took: 0.001470
+[2026.06.08-08.36.02:725][834]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.06.08-08.36.02:735][834]PIE: Server logged in
+[2026.06.08-08.36.02:740][834]PIE: Play in editor total start time 0,261 seconds.
+[2026.06.08-08.36.02:880][835]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-08.36.06:695][967]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.08-08.36.06:695][967]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-08.36.09:687][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.36.10:008][ 90]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.357366
+[2026.06.08-08.36.10:008][ 90]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.10:008][ 90]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.10:297][101]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.32891
+[2026.06.08-08.36.10:297][101]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.10:297][101]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.10:595][112]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.389181
+[2026.06.08-08.36.10:595][112]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.10:595][112]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.10:653][114]LogBlueprintUserMessages: [WBP_SPam_C_0] 1.42
+[2026.06.08-08.36.11:025][128]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.375503
+[2026.06.08-08.36.11:025][128]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.11:025][128]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.11:673][152]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.36.14:667][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.36.17:879][385]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.08-08.36.20:119][471]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.08-08.36.22:476][561]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Win
+[2026.06.08-08.36.22:476][561]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Score +1
+[2026.06.08-08.36.22:476][561]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] J1 Score +1 : 3.0
+[2026.06.08-08.36.22:476][561]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.08-08.36.22:661][568]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 0
+[2026.06.08-08.36.22:661][568]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a lose
+[2026.06.08-08.36.25:468][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.36.25:680][681]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.360195
+[2026.06.08-08.36.25:680][681]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.25:681][681]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.25:918][690]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.233106
+[2026.06.08-08.36.25:918][690]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.25:918][690]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.26:159][699]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.487182
+[2026.06.08-08.36.26:159][699]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.26:159][699]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.26:486][711]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.467434
+[2026.06.08-08.36.26:486][711]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.26:486][711]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.26:722][720]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.355544
+[2026.06.08-08.36.26:722][720]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.26:722][720]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.27:226][739]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.448839
+[2026.06.08-08.36.27:226][739]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.27:226][739]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.27:280][741]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.27:280][741]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.025
+[2026.06.08-08.36.27:358][744]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.27:358][744]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.05
+[2026.06.08-08.36.27:440][747]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.27:440][747]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.075
+[2026.06.08-08.36.27:498][749]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.27:498][749]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.1
+[2026.06.08-08.36.27:577][752]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.27:577][752]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.125
+[2026.06.08-08.36.27:663][755]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.27:663][755]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.15
+[2026.06.08-08.36.27:691][756]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.457958
+[2026.06.08-08.36.27:691][756]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.27:691][756]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.27:745][758]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.27:745][758]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.135
+[2026.06.08-08.36.27:825][761]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.27:825][761]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.16
+[2026.06.08-08.36.27:879][763]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.27:879][763]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.185
+[2026.06.08-08.36.27:988][767]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.27:988][767]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.21
+[2026.06.08-08.36.28:071][770]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.266469
+[2026.06.08-08.36.28:071][770]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.28:071][770]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.28:128][772]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.28:128][772]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.195
+[2026.06.08-08.36.28:216][775]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.28:216][775]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.22
+[2026.06.08-08.36.28:271][777]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.28:271][777]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.245
+[2026.06.08-08.36.28:353][780]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.28:353][780]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.27
+[2026.06.08-08.36.28:458][784]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.28:458][784]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.295
+[2026.06.08-08.36.28:544][787]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.28:544][787]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.32
+[2026.06.08-08.36.28:576][788]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.291546
+[2026.06.08-08.36.28:576][788]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.28:576][788]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.28:687][792]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.28:687][792]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.305
+[2026.06.08-08.36.28:753][794]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.28:753][794]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.33
+[2026.06.08-08.36.28:840][797]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.28:840][797]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.355
+[2026.06.08-08.36.28:921][800]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.28:921][800]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.38
+[2026.06.08-08.36.28:949][801]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.447887
+[2026.06.08-08.36.28:949][801]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.28:949][801]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.28:976][802]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.28:976][802]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.365
+[2026.06.08-08.36.29:054][805]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.29:055][805]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.39
+[2026.06.08-08.36.29:161][809]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.29:161][809]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.415
+[2026.06.08-08.36.29:220][811]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.29:220][811]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.44
+[2026.06.08-08.36.29:327][815]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.29:327][815]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.465
+[2026.06.08-08.36.29:327][815]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.284927
+[2026.06.08-08.36.29:328][815]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.29:328][815]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.29:385][817]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.29:385][817]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.45
+[2026.06.08-08.36.29:467][820]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.29:467][820]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.475
+[2026.06.08-08.36.29:523][822]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.29:523][822]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.5
+[2026.06.08-08.36.29:607][825]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.29:607][825]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.525
+[2026.06.08-08.36.29:687][828]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.29:687][828]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.55
+[2026.06.08-08.36.29:769][831]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.29:769][831]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.575
+[2026.06.08-08.36.29:823][833]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.477349
+[2026.06.08-08.36.29:823][833]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.29:823][833]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.29:849][834]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.29:849][834]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.56
+[2026.06.08-08.36.29:930][837]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.29:930][837]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.585
+[2026.06.08-08.36.30:011][840]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.30:011][840]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.61
+[2026.06.08-08.36.30:040][841]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.238298
+[2026.06.08-08.36.30:040][841]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.30:040][841]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.30:091][843]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.30:091][843]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.595
+[2026.06.08-08.36.30:170][846]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.30:170][846]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.62
+[2026.06.08-08.36.30:231][848]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.30:231][848]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.645
+[2026.06.08-08.36.30:318][851]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.30:318][851]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.67
+[2026.06.08-08.36.30:401][854]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.30:401][854]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.695
+[2026.06.08-08.36.30:482][857]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.30:482][857]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.72
+[2026.06.08-08.36.30:536][859]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.432002
+[2026.06.08-08.36.30:536][859]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.30:536][859]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.30:564][860]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.30:564][860]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.705
+[2026.06.08-08.36.30:615][862]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.30:615][862]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.73
+[2026.06.08-08.36.30:694][865]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.30:695][865]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.755
+[2026.06.08-08.36.30:786][868]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.30:786][868]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.78
+[2026.06.08-08.36.30:867][871]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.30:867][871]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.805
+[2026.06.08-08.36.30:999][876]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.30:999][876]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.83
+[2026.06.08-08.36.31:028][877]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.323545
+[2026.06.08-08.36.31:028][877]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.31:028][877]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.31:079][879]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.31:080][879]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.815
+[2026.06.08-08.36.31:184][883]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.31:184][883]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.84
+[2026.06.08-08.36.31:241][885]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.31:241][885]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.865
+[2026.06.08-08.36.31:241][885]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.457619
+[2026.06.08-08.36.31:241][885]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.31:241][885]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.31:406][891]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.31:406][891]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.85
+[2026.06.08-08.36.31:495][894]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.341179
+[2026.06.08-08.36.31:495][894]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.31:495][894]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.31:716][902]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.31:716][902]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.835
+[2026.06.08-08.36.31:876][908]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.31:876][908]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.86
+[2026.06.08-08.36.31:877][908]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.455879
+[2026.06.08-08.36.31:877][908]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.31:877][908]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.31:960][911]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.31:960][911]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.845
+[2026.06.08-08.36.32:013][913]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.32:013][913]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.87
+[2026.06.08-08.36.32:115][917]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.32:115][917]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.895
+[2026.06.08-08.36.32:144][918]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.280935
+[2026.06.08-08.36.32:144][918]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.32:144][918]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.32:192][920]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.32:192][920]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.88
+[2026.06.08-08.36.32:272][923]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.32:273][923]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.905
+[2026.06.08-08.36.32:331][925]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.32:332][925]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.93
+[2026.06.08-08.36.32:444][929]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.32:444][929]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.955
+[2026.06.08-08.36.32:506][931]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.32:506][931]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.98
+[2026.06.08-08.36.32:507][931]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.405103
+[2026.06.08-08.36.32:507][931]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.32:507][931]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.32:587][934]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.32:587][934]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.965
+[2026.06.08-08.36.32:641][936]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.32:641][936]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.99
+[2026.06.08-08.36.32:751][940]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.36.32:751][940]LogBlueprintUserMessages: [WBP_SPam_C_0] 1.015
+[2026.06.08-08.36.32:834][943]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.363372
+[2026.06.08-08.36.32:834][943]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.32:834][943]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.36.33:775][979]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.36.36:756][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.36.38:405][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.36.38:405][152]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.36.38:405][152]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-08.36.38:413][152]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.36.38:414][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.36.38:415][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-08.36.38:428][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.36.38:489][152]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.06.08-08.36.38:489][152]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.06.08-08.36.38:492][152]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.06.08-08.36.38:509][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2026.06.08-08.36.38:727][153]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.06.08-08.36.40:416][234]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.36.40:427][234]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.37.34:185][  7]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-08.37.34:198][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-08.37.34:198][  7]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.37.34:203][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005091s)
+[2026.06.08-08.37.34:203][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.005150s)
+[2026.06.08-08.37.34:279][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.06.08-08.37.34:283][  7]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-08.37.34:286][  7]LogPlayLevel: PIE: World Init took: (0.002479s)
+[2026.06.08-08.37.34:287][  7]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.06.08-08.37.34:287][  7]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-08.37.34:287][  7]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-08.37.34:287][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-08.37.34:287][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-08.37.34:287][  7]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-08.37.34:287][  7]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-08.37.34:287][  7]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-08.37.34:287][  7]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-08.37.34:287][  7]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-08.37.34:287][  7]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-08.37.34:287][  7]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-08.37.34:291][  7]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-08.37.34:390][  7]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-08.37.34:391][  7]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-08.37.34:391][  7]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-08.37.34:391][  7]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-08.37.34:391][  7]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.06.08-08.37.34:391][  7]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.06.08-08.37.34:396][  7]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.06.08-08.37.34:396][  7]LogInit: FAudioDevice initialized with ID 18.
+[2026.06.08-08.37.34:396][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.06.08-08.37.34:396][  7]LogAudio: Display: Audio Device (ID: 18) registered with world 'DEWKWAR'.
+[2026.06.08-08.37.34:396][  7]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.06.08-08.37.34:450][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.37.34:450][  7]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-08.37.34:452][  7]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-10.37.34
+[2026.06.08-08.37.34:452][  7]LogWorld: Bringing up level for play took: 0.001459
+[2026.06.08-08.37.34:457][  7]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.06.08-08.37.34:467][  7]PIE: Server logged in
+[2026.06.08-08.37.34:471][  7]PIE: Play in editor total start time 0,273 seconds.
+[2026.06.08-08.37.34:593][  8]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-08.37.36:299][ 70]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.08-08.37.36:299][ 70]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-08.37.39:273][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.37.39:644][207]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.435655
+[2026.06.08-08.37.39:645][207]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.39:645][207]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.39:948][219]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.283746
+[2026.06.08-08.37.39:948][219]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.39:948][219]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.40:018][222]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.96
+[2026.06.08-08.37.40:406][238]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.497958
+[2026.06.08-08.37.40:406][238]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.40:406][238]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.40:614][246]LogBlueprintUserMessages: [WBP_SPam_C_0] 1.445
+[2026.06.08-08.37.40:698][249]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.210602
+[2026.06.08-08.37.40:699][249]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.40:699][249]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.41:627][287]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.08-08.37.44:610][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.37.44:882][417]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.5
+[2026.06.08-08.37.45:053][424]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.337379
+[2026.06.08-08.37.45:053][424]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.45:054][424]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.45:078][425]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.985
+[2026.06.08-08.37.45:474][441]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.284826
+[2026.06.08-08.37.45:474][441]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.45:474][441]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.46:084][466]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.08-08.37.49:067][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.37.49:306][598]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.5
+[2026.06.08-08.37.49:306][598]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.328224
+[2026.06.08-08.37.49:306][598]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.49:306][598]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.49:497][606]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.985
+[2026.06.08-08.37.49:648][612]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.237629
+[2026.06.08-08.37.49:648][612]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.49:648][612]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.37.50:511][648]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.37.53:513][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.37.54:565][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.37.54:565][812]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.37.54:565][812]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-08.37.54:581][812]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.37.54:582][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.37.54:582][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-08.37.54:596][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.37.54:651][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.08-08.37.54:652][812]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.06.08-08.37.54:652][812]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.06.08-08.37.54:655][812]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.06.08-08.37.54:667][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2026.06.08-08.37.54:892][813]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.06.08-08.37.56:460][892]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.37.56:470][892]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.39.01:112][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.06.08-08.39.01:356][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.39.01:420][102]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.39.01:425][102]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.39.01:425][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.39.01:425][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.39.01:514][102]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.39.01:515][102]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC5FF35B24494F2C0B0C6C718ED213BDB4.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.39.01:530][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.650 ms (total: 4.31 sec)
+[2026.06.08-08.39.01:612][102]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.39.01:612][102]LogContentValidation: Enabled validators:
+[2026.06.08-08.39.01:612][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.39.01:612][102]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.39.01:612][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.39.01:612][102]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.39.01:612][102]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.39.01:612][102]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.39.01:614][102]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.39.02:417][141]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-08.39.02:432][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-08.39.02:432][141]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.39.02:437][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003664s)
+[2026.06.08-08.39.02:437][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.003729s)
+[2026.06.08-08.39.02:483][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2026.06.08-08.39.02:487][141]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-08.39.02:490][141]LogPlayLevel: PIE: World Init took: (0.002762s)
+[2026.06.08-08.39.02:491][141]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.06.08-08.39.02:491][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-08.39.02:491][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-08.39.02:491][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-08.39.02:491][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-08.39.02:491][141]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-08.39.02:491][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-08.39.02:491][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-08.39.02:491][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-08.39.02:491][141]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-08.39.02:491][141]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-08.39.02:491][141]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-08.39.02:494][141]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-08.39.02:585][141]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-08.39.02:586][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-08.39.02:586][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-08.39.02:586][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-08.39.02:587][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.06.08-08.39.02:587][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.06.08-08.39.02:590][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.06.08-08.39.02:590][141]LogInit: FAudioDevice initialized with ID 19.
+[2026.06.08-08.39.02:590][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.06.08-08.39.02:590][141]LogAudio: Display: Audio Device (ID: 19) registered with world 'DEWKWAR'.
+[2026.06.08-08.39.02:590][141]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.06.08-08.39.02:654][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.39.02:654][141]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-08.39.02:655][141]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-10.39.02
+[2026.06.08-08.39.02:656][141]LogWorld: Bringing up level for play took: 0.001745
+[2026.06.08-08.39.02:660][141]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.06.08-08.39.02:670][141]PIE: Server logged in
+[2026.06.08-08.39.02:673][141]PIE: Play in editor total start time 0,242 seconds.
+[2026.06.08-08.39.02:789][142]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-08.39.04:348][205]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.08-08.39.04:349][205]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-08.39.07:345][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.39.07:684][357]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.5
+[2026.06.08-08.39.07:685][357]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.336555
+[2026.06.08-08.39.07:685][357]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.39.07:685][357]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.39.07:848][364]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.485
+[2026.06.08-08.39.07:998][371]LogBlueprintUserMessages: [WBP_SPam_C_0] 1.01
+[2026.06.08-08.39.08:111][376]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.352815
+[2026.06.08-08.39.08:111][376]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.39.08:111][376]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.39.09:006][417]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.39.10:783][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.39.10:783][494]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.39.10:783][494]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-08.39.10:791][494]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.39.10:791][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.39.10:793][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-08.39.10:805][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.39.10:862][494]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.08-08.39.10:862][494]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.06.08-08.39.10:862][494]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.06.08-08.39.10:865][494]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.06.08-08.39.10:877][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.06.08-08.39.11:092][495]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.06.08-08.39.12:684][586]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.39.12:695][586]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.39.33:706][897]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6138.846680
+[2026.06.08-08.39.33:980][903]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-08.39.33:980][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6139.104980, Update Interval: 331.291840
+[2026.06.08-08.41.10:537][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.06.08-08.41.10:746][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.41.10:786][685]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.41.10:793][685]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.41.10:793][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.41.10:793][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.41.10:879][685]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.41.10:880][685]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFCE00EBC9E434427E9928088BBB8AD3980.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.41.10:893][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.263 ms (total: 4.46 sec)
+[2026.06.08-08.41.10:969][685]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.41.10:969][685]LogContentValidation: Enabled validators:
+[2026.06.08-08.41.10:969][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.41.10:969][685]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.41.10:969][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.41.10:969][685]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.41.10:969][685]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.41.10:969][685]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.41.10:971][685]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.41.11:695][716]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-08.41.11:708][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-08.41.11:709][716]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.41.11:713][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003925s)
+[2026.06.08-08.41.11:713][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.004009s)
+[2026.06.08-08.41.11:760][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.06.08-08.41.11:764][716]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-08.41.11:767][716]LogPlayLevel: PIE: World Init took: (0.002682s)
+[2026.06.08-08.41.11:769][716]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.06.08-08.41.11:769][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-08.41.11:769][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-08.41.11:769][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-08.41.11:769][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-08.41.11:769][716]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-08.41.11:769][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-08.41.11:769][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-08.41.11:769][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-08.41.11:769][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-08.41.11:769][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-08.41.11:769][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-08.41.11:773][716]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-08.41.11:863][716]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-08.41.11:863][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-08.41.11:863][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-08.41.11:863][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-08.41.11:864][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.06.08-08.41.11:864][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.06.08-08.41.11:868][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.06.08-08.41.11:868][716]LogInit: FAudioDevice initialized with ID 20.
+[2026.06.08-08.41.11:868][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.06.08-08.41.11:868][716]LogAudio: Display: Audio Device (ID: 20) registered with world 'DEWKWAR'.
+[2026.06.08-08.41.11:868][716]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.06.08-08.41.11:920][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.41.11:921][716]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-08.41.11:922][716]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-10.41.11
+[2026.06.08-08.41.11:922][716]LogWorld: Bringing up level for play took: 0.001531
+[2026.06.08-08.41.11:926][716]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.06.08-08.41.11:938][716]PIE: Server logged in
+[2026.06.08-08.41.11:941][716]PIE: Play in editor total start time 0,233 seconds.
+[2026.06.08-08.41.12:075][717]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-08.41.13:644][775]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.08-08.41.13:645][775]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-08.41.16:623][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.41.16:981][914]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.397824
+[2026.06.08-08.41.16:981][914]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.41.16:981][914]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.41.17:304][928]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.310132
+[2026.06.08-08.41.17:304][928]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.41.17:304][928]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.41.17:521][937]LogBlueprintUserMessages: [WBP_SPam_C_0] 1.42
+[2026.06.08-08.41.17:814][949]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.410038
+[2026.06.08-08.41.17:814][949]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.41.17:814][949]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.41.18:523][979]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.41.21:502][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.41.21:896][121]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.08-08.41.22:087][129]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.08-08.41.22:304][138]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.08-08.41.22:512][147]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.08-08.41.23:721][198]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.08-08.41.25:243][262]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Win
+[2026.06.08-08.41.25:243][262]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Score +1
+[2026.06.08-08.41.25:243][262]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] J1 Score +1 : 3.0
+[2026.06.08-08.41.25:244][262]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.08-08.41.28:233][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.41.28:513][401]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.272796
+[2026.06.08-08.41.28:513][401]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.41.28:513][401]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.41.28:755][411]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.246986
+[2026.06.08-08.41.28:755][411]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.41.28:755][411]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.41.28:853][415]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.0
+[2026.06.08-08.41.29:022][422]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.49837
+[2026.06.08-08.41.29:022][422]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.41.29:022][422]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.41.29:068][424]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.985
+[2026.06.08-08.41.29:375][437]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.332554
+[2026.06.08-08.41.29:375][437]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.41.29:375][437]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.41.29:495][442]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 3
+[2026.06.08-08.41.29:495][442]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a Tie !
+[2026.06.08-08.41.30:076][466]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.41.33:069][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.41.33:702][618]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.08-08.41.34:040][632]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.08-08.41.34:352][645]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.08-08.41.34:994][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.41.34:994][668]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.41.34:994][668]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-08.41.35:000][668]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.41.35:001][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.41.35:002][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-08.41.35:015][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.41.35:069][668]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.08-08.41.35:069][668]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.06.08-08.41.35:070][668]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.06.08-08.41.35:072][668]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.06.08-08.41.35:084][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2026.06.08-08.41.35:279][669]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.06.08-08.41.36:806][746]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.41.36:818][746]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.42.40:044][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.06.08-08.42.40:252][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.42.40:328][259]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.42.40:334][259]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.42.40:334][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.42.40:334][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.42.40:419][259]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.42.40:421][259]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFCE6567F6549B29D7F103BC0BBDB3F7B1D.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.42.40:441][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.638 ms (total: 4.64 sec)
+[2026.06.08-08.42.40:516][259]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.42.40:516][259]LogContentValidation: Enabled validators:
+[2026.06.08-08.42.40:516][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.42.40:516][259]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.42.40:516][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.42.40:516][259]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.42.40:516][259]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.42.40:516][259]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.42.40:518][259]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.42.41:155][283]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-08.42.41:169][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-08.42.41:170][283]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.42.41:174][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004077s)
+[2026.06.08-08.42.41:174][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.004133s)
+[2026.06.08-08.42.41:220][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2026.06.08-08.42.41:224][283]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-08.42.41:226][283]LogPlayLevel: PIE: World Init took: (0.002509s)
+[2026.06.08-08.42.41:228][283]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.06.08-08.42.41:228][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-08.42.41:228][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-08.42.41:228][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-08.42.41:228][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-08.42.41:228][283]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-08.42.41:228][283]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-08.42.41:228][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-08.42.41:228][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-08.42.41:228][283]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-08.42.41:228][283]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-08.42.41:228][283]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-08.42.41:231][283]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-08.42.41:326][283]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-08.42.41:327][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-08.42.41:327][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-08.42.41:327][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-08.42.41:328][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.06.08-08.42.41:328][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.06.08-08.42.41:332][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.06.08-08.42.41:332][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.06.08-08.42.41:332][283]LogInit: FAudioDevice initialized with ID 21.
+[2026.06.08-08.42.41:332][283]LogAudio: Display: Audio Device (ID: 21) registered with world 'DEWKWAR'.
+[2026.06.08-08.42.41:332][283]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.06.08-08.42.41:371][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.42.41:371][283]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-08.42.41:373][283]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-10.42.41
+[2026.06.08-08.42.41:373][283]LogWorld: Bringing up level for play took: 0.001466
+[2026.06.08-08.42.41:376][283]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.06.08-08.42.41:387][283]PIE: Server logged in
+[2026.06.08-08.42.41:390][283]PIE: Play in editor total start time 0,221 seconds.
+[2026.06.08-08.42.41:530][284]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-08.42.43:243][345]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.42.43:244][345]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-08.42.45:654][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.42.45:654][442]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.42.45:654][442]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-08.42.45:661][442]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.42.45:661][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.42.45:663][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-08.42.45:676][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.42.45:731][442]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.08-08.42.45:732][442]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.06.08-08.42.45:732][442]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.06.08-08.42.45:735][442]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.06.08-08.42.45:747][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.06.08-08.42.45:992][443]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.06.08-08.42.47:162][501]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.42.47:173][501]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.43.04:893][540]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.06.08-08.43.49:807][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.06.08-08.43.49:835][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.43.49:892][887]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.43.49:896][887]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.43.49:896][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.43.49:896][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.43.49:988][887]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.43.49:989][887]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC49CF6DB3482135A09940D3A542218FE8.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.43.50:002][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.070 ms (total: 4.81 sec)
+[2026.06.08-08.43.50:076][887]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.43.50:076][887]LogContentValidation: Enabled validators:
+[2026.06.08-08.43.50:076][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.43.50:076][887]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.43.50:076][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.43.50:076][887]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.43.50:076][887]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.43.50:076][887]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.43.50:078][887]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.43.50:989][965]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-08.43.51:003][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-08.43.51:003][965]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.43.51:007][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004284s)
+[2026.06.08-08.43.51:007][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.004335s)
+[2026.06.08-08.43.51:058][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.06.08-08.43.51:064][965]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-08.43.51:066][965]LogPlayLevel: PIE: World Init took: (0.002230s)
+[2026.06.08-08.43.51:068][965]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.06.08-08.43.51:068][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-08.43.51:068][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-08.43.51:068][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-08.43.51:068][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-08.43.51:068][965]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-08.43.51:068][965]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-08.43.51:068][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-08.43.51:068][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-08.43.51:068][965]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-08.43.51:068][965]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-08.43.51:068][965]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-08.43.51:070][965]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-08.43.51:155][965]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-08.43.51:155][965]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-08.43.51:155][965]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-08.43.51:155][965]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-08.43.51:155][965]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.06.08-08.43.51:155][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.06.08-08.43.51:160][965]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.06.08-08.43.51:160][965]LogInit: FAudioDevice initialized with ID 22.
+[2026.06.08-08.43.51:160][965]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.06.08-08.43.51:160][965]LogAudio: Display: Audio Device (ID: 22) registered with world 'DEWKWAR'.
+[2026.06.08-08.43.51:160][965]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.06.08-08.43.51:219][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.43.51:219][965]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-08.43.51:221][965]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-10.43.51
+[2026.06.08-08.43.51:221][965]LogWorld: Bringing up level for play took: 0.001330
+[2026.06.08-08.43.51:225][965]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.06.08-08.43.51:234][965]PIE: Server logged in
+[2026.06.08-08.43.51:237][965]PIE: Play in editor total start time 0,235 seconds.
+[2026.06.08-08.43.51:344][966]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-08.43.52:793][ 42]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.43.52:794][ 42]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-08.43.54:570][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.43.54:570][146]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.43.54:570][146]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-08.43.54:578][146]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.43.54:578][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.43.54:580][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-08.43.54:596][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.43.54:656][146]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.08-08.43.54:658][146]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.06.08-08.43.54:658][146]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.06.08-08.43.54:660][146]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.06.08-08.43.54:671][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.06.08-08.43.54:879][147]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.06.08-08.43.56:086][242]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.43.56:114][242]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.44.23:430][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.06.08-08.44.23:458][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.44.23:519][832]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.44.23:524][832]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.44.23:524][832]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.44.23:524][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.44.23:613][832]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.44.23:614][832]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC6510984A4E018E256B291EAEEE9E113B.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.44.23:626][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.907 ms (total: 4.98 sec)
+[2026.06.08-08.44.23:685][832]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.44.23:685][832]LogContentValidation: Enabled validators:
+[2026.06.08-08.44.23:685][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.44.23:685][832]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.44.23:685][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.44.23:685][832]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.44.23:685][832]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.44.23:685][832]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.44.23:688][832]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.44.24:799][924]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-08.44.24:813][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-08.44.24:814][924]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.44.24:817][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003540s)
+[2026.06.08-08.44.24:817][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.003598s)
+[2026.06.08-08.44.24:869][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.06.08-08.44.24:874][924]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-08.44.24:876][924]LogPlayLevel: PIE: World Init took: (0.002566s)
+[2026.06.08-08.44.24:879][924]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.06.08-08.44.24:879][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-08.44.24:879][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-08.44.24:879][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-08.44.24:879][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-08.44.24:879][924]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-08.44.24:879][924]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-08.44.24:879][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-08.44.24:879][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-08.44.24:879][924]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-08.44.24:879][924]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-08.44.24:879][924]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-08.44.24:882][924]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-08.44.24:977][924]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-08.44.24:977][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-08.44.24:977][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-08.44.24:977][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-08.44.24:978][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.06.08-08.44.24:978][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.06.08-08.44.24:981][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.06.08-08.44.24:981][924]LogInit: FAudioDevice initialized with ID 23.
+[2026.06.08-08.44.24:981][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.06.08-08.44.24:981][924]LogAudio: Display: Audio Device (ID: 23) registered with world 'DEWKWAR'.
+[2026.06.08-08.44.24:981][924]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.06.08-08.44.25:019][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.44.25:020][924]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-08.44.25:021][924]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-10.44.25
+[2026.06.08-08.44.25:021][924]LogWorld: Bringing up level for play took: 0.001489
+[2026.06.08-08.44.25:025][924]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.06.08-08.44.25:035][924]PIE: Server logged in
+[2026.06.08-08.44.25:036][924]PIE: Play in editor total start time 0,224 seconds.
+[2026.06.08-08.44.25:141][925]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-08.44.26:464][990]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.08-08.44.26:465][990]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-08.44.29:444][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.44.29:685][184]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.388174
+[2026.06.08-08.44.29:686][184]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.44.29:686][184]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.44.30:053][206]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.264721
+[2026.06.08-08.44.30:053][206]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.44.30:053][206]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.44.30:540][236]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.25649
+[2026.06.08-08.44.30:540][236]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.44.30:540][236]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.44.30:882][257]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.354418
+[2026.06.08-08.44.30:882][257]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.44.30:882][257]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.44.30:913][259]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.46
+[2026.06.08-08.44.31:076][269]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.985
+[2026.06.08-08.44.31:245][279]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.285577
+[2026.06.08-08.44.31:245][279]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.44.31:245][279]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-08.44.32:078][330]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.44.35:062][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.44.36:278][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.44.36:278][578]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.44.36:278][578]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-08.44.36:285][578]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.44.36:285][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.44.36:286][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-08.44.36:298][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.44.36:357][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.08-08.44.36:357][578]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.06.08-08.44.36:357][578]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.06.08-08.44.36:360][578]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.06.08-08.44.36:375][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.06.08-08.44.36:588][579]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.06.08-08.44.37:830][675]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.44.37:841][675]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.44.53:691][171]LogEditorTransaction: Undo Changed Anchors
+[2026.06.08-08.45.37:591][845]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6502.728027
+[2026.06.08-08.45.37:775][863]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-08.45.37:775][863]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6502.901367, Update Interval: 336.878571
+[2026.06.08-08.46.15:962][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.06.08-08.46.15:989][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.46.16:055][584]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.46.16:059][584]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.46.16:059][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.46.16:059][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.46.16:147][584]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.46.16:148][584]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC5A8BB50B4399284E124BD891E98CB82C.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.46.16:161][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.661 ms (total: 5.15 sec)
+[2026.06.08-08.46.16:224][584]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.46.16:224][584]LogContentValidation: Enabled validators:
+[2026.06.08-08.46.16:224][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.46.16:224][584]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.46.16:224][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.46.16:224][584]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.46.16:224][584]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.46.16:224][584]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.46.16:226][584]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.46.40:609][ 26]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-08.46.40:623][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-08.46.40:623][ 26]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.46.40:627][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004068s)
+[2026.06.08-08.46.40:627][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.004133s)
+[2026.06.08-08.46.40:676][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.06.08-08.46.40:681][ 26]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-08.46.40:684][ 26]LogPlayLevel: PIE: World Init took: (0.002495s)
+[2026.06.08-08.46.40:685][ 26]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.06.08-08.46.40:685][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-08.46.40:685][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-08.46.40:685][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-08.46.40:685][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-08.46.40:685][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-08.46.40:686][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-08.46.40:686][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-08.46.40:686][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-08.46.40:686][ 26]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-08.46.40:686][ 26]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-08.46.40:686][ 26]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-08.46.40:689][ 26]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-08.46.40:775][ 26]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-08.46.40:776][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-08.46.40:776][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-08.46.40:776][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-08.46.40:777][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.06.08-08.46.40:777][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.06.08-08.46.40:781][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.06.08-08.46.40:781][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.06.08-08.46.40:781][ 26]LogInit: FAudioDevice initialized with ID 24.
+[2026.06.08-08.46.40:782][ 26]LogAudio: Display: Audio Device (ID: 24) registered with world 'DEWKWAR'.
+[2026.06.08-08.46.40:782][ 26]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.06.08-08.46.40:835][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.46.40:835][ 26]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-08.46.40:836][ 26]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-10.46.40
+[2026.06.08-08.46.40:837][ 26]LogWorld: Bringing up level for play took: 0.001578
+[2026.06.08-08.46.40:841][ 26]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.06.08-08.46.40:852][ 26]PIE: Server logged in
+[2026.06.08-08.46.40:853][ 26]PIE: Play in editor total start time 0,231 seconds.
+[2026.06.08-08.46.40:965][ 27]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-08.46.42:379][100]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.46.42:380][100]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-08.46.45:251][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.46.45:251][275]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.46.45:251][275]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-08.46.45:258][275]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.46.45:259][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.46.45:260][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-08.46.45:272][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.46.45:331][275]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.08-08.46.45:332][275]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.06.08-08.46.45:332][275]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.06.08-08.46.45:334][275]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.06.08-08.46.45:345][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.06.08-08.46.45:542][276]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.06.08-08.46.48:456][437]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.46.48:468][437]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.50.11:029][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.06.08-08.50.12:446][424]LogSlate: Window 'Save Content' being destroyed
+[2026.06.08-08.50.12:461][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.50.12:519][424]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.50.12:523][424]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.50.12:523][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.50.12:523][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.50.12:608][424]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.50.12:610][424]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC40030E874DBF6CE943CA09993C440B1C.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.50.12:625][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.911 ms (total: 5.32 sec)
+[2026.06.08-08.50.12:668][424]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.50.12:668][424]LogContentValidation: Enabled validators:
+[2026.06.08-08.50.12:668][424]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.50.12:668][424]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.50.12:668][424]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.50.12:668][424]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.50.12:668][424]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.50.12:668][424]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.50.12:670][424]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.50.14:334][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.06.08-08.51.46:087][174]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6871.247070
+[2026.06.08-08.51.46:257][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-08.51.46:257][183]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6871.397949, Update Interval: 352.930084
+[2026.06.08-08.52.08:090][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2026.06.08-08.52.08:122][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-08.52.08:171][296]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-08.52.08:177][296]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPFC.WBP_LoadingScreenPFC]
+[2026.06.08-08.52.08:177][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-08.52.08:177][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-08.52.08:272][296]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-08.52.08:273][296]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFC8AE2CC424979E3A90663BCA795CA68E5.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-08.52.08:287][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.485 ms (total: 5.48 sec)
+[2026.06.08-08.52.08:372][296]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-08.52.08:372][296]LogContentValidation: Enabled validators:
+[2026.06.08-08.52.08:372][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-08.52.08:372][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-08.52.08:372][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-08.52.08:372][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-08.52.08:372][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-08.52.08:372][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-08.52.08:374][296]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-08.52.09:684][369]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-08.52.09:702][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-08.52.09:703][369]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.52.09:709][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005231s)
+[2026.06.08-08.52.09:709][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.005306s)
+[2026.06.08-08.52.09:765][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2026.06.08-08.52.09:772][369]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-08.52.09:775][369]LogPlayLevel: PIE: World Init took: (0.003465s)
+[2026.06.08-08.52.09:777][369]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.06.08-08.52.09:777][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-08.52.09:777][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-08.52.09:777][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-08.52.09:777][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-08.52.09:777][369]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-08.52.09:777][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-08.52.09:777][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-08.52.09:777][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-08.52.09:777][369]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-08.52.09:777][369]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-08.52.09:777][369]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-08.52.09:781][369]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-08.52.09:888][369]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-08.52.09:889][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-08.52.09:889][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-08.52.09:889][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-08.52.09:890][369]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.06.08-08.52.09:890][369]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.06.08-08.52.09:894][369]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.06.08-08.52.09:894][369]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.06.08-08.52.09:894][369]LogInit: FAudioDevice initialized with ID 25.
+[2026.06.08-08.52.09:894][369]LogAudio: Display: Audio Device (ID: 25) registered with world 'DEWKWAR'.
+[2026.06.08-08.52.09:894][369]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.06.08-08.52.09:952][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.52.09:952][369]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-08.52.09:954][369]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-10.52.09
+[2026.06.08-08.52.09:954][369]LogWorld: Bringing up level for play took: 0.001637
+[2026.06.08-08.52.09:958][369]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.06.08-08.52.09:975][369]PIE: Server logged in
+[2026.06.08-08.52.09:982][369]PIE: Play in editor total start time 0,28 seconds.
+[2026.06.08-08.52.10:142][370]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-08.52.11:535][461]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.52.11:536][461]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-08.52.14:534][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.52.20:114][ 86]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Win
+[2026.06.08-08.52.20:114][ 86]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Score +1
+[2026.06.08-08.52.20:114][ 86]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] J1 Score +1 : 2.0
+[2026.06.08-08.52.20:115][ 86]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.52.22:532][258]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] TIE
+[2026.06.08-08.52.23:110][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.52.30:211][801]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Win
+[2026.06.08-08.52.30:212][801]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Score +1
+[2026.06.08-08.52.30:212][801]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] J1 Score +1 : 3.0
+[2026.06.08-08.52.30:212][801]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.52.31:110][863]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] TIE
+[2026.06.08-08.52.33:204][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.52.33:415][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.52.33:415][ 19]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.52.33:415][ 19]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-08.52.33:424][ 19]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.52.33:424][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.52.33:432][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-08.52.33:447][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.52.33:519][ 19]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.08-08.52.33:520][ 19]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.06.08-08.52.33:520][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2026.06.08-08.52.33:524][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2026.06.08-08.52.33:541][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2026.06.08-08.52.33:869][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.06.08-08.52.35:919][132]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.52.35:928][132]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.52.46:729][636]LogAutomationController: Ignoring very large delta of 2.21 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.06.08-08.52.57:257][343]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.140:49896, Sequence=0
+[2026.06.08-08.53.43:356][304]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-08.53.43:373][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-08.53.43:373][304]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.53.43:378][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005307s)
+[2026.06.08-08.53.43:378][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.005387s)
+[2026.06.08-08.53.43:458][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.06.08-08.53.43:463][304]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-08.53.43:466][304]LogPlayLevel: PIE: World Init took: (0.003212s)
+[2026.06.08-08.53.43:468][304]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.06.08-08.53.43:468][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-08.53.43:468][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-08.53.43:468][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-08.53.43:468][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-08.53.43:468][304]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-08.53.43:468][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-08.53.43:468][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-08.53.43:468][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-08.53.43:468][304]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-08.53.43:468][304]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-08.53.43:468][304]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-08.53.43:472][304]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-08.53.43:563][304]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-08.53.43:563][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-08.53.43:563][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-08.53.43:563][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-08.53.43:564][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2026.06.08-08.53.43:565][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2026.06.08-08.53.43:568][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.06.08-08.53.43:568][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2026.06.08-08.53.43:568][304]LogInit: FAudioDevice initialized with ID 26.
+[2026.06.08-08.53.43:568][304]LogAudio: Display: Audio Device (ID: 26) registered with world 'DEWKWAR'.
+[2026.06.08-08.53.43:568][304]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.06.08-08.53.43:633][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.53.43:633][304]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-08.53.43:634][304]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-10.53.43
+[2026.06.08-08.53.43:635][304]LogWorld: Bringing up level for play took: 0.001338
+[2026.06.08-08.53.43:639][304]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.06.08-08.53.43:655][304]PIE: Server logged in
+[2026.06.08-08.53.43:662][304]PIE: Play in editor total start time 0,289 seconds.
+[2026.06.08-08.53.43:782][305]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-08.53.45:095][387]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.53.45:096][387]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-08.53.48:084][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.53.56:083][148]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] TIE
+[2026.06.08-08.53.58:331][304]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Win
+[2026.06.08-08.53.58:332][304]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Score +1
+[2026.06.08-08.53.58:332][304]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] J1 Score +1 : 2.0
+[2026.06.08-08.53.58:332][304]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-08.54.00:231][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-08.54.00:231][430]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-08.54.00:231][430]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-08.54.00:239][430]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.54.00:239][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.54.00:241][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-08.54.00:254][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.54.00:322][430]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.08-08.54.00:322][430]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.06.08-08.54.00:322][430]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2026.06.08-08.54.00:325][430]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2026.06.08-08.54.00:341][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.06.08-08.54.00:628][431]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.06.08-08.54.01:763][494]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.54.01:775][494]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-08.54.08:484][847]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux.WBP_Pierre_Pradal_Ciseaux
+[2026.06.08-08.54.08:484][847]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_73
+[2026.06.08-08.54.08:493][847]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_74
+[2026.06.08-08.54.42:576][372]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.54.42:576][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.54.42:597][372]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-08.54.42:597][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-08.54.42:796][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
