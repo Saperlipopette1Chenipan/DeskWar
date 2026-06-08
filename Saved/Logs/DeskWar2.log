@@ -6555,3 +6555,484 @@ Make sure '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C' has been com
 [2026.06.08-09.41.31:014][729]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=10.7.61.162:60537, Sequence=0
 [2026.06.08-09.41.31:036][729]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=10.7.61.162:60537, Sequence=0
 [2026.06.08-09.41.31:036][729]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=10.7.61.162:60537, Sequence=0
+[2026.06.08-09.43.22:925][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9967.980469
+[2026.06.08-09.43.23:110][679]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-09.43.23:110][679]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9968.151367, Update Interval: 344.766998
+[2026.06.08-09.49.59:436][819]LogBlueprint: Warning: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] Could not find a variable named "J25" in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'.
+Make sure '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C' has been compiled for  Get J25
+[2026.06.08-09.49.59:437][819]LogBlueprint: Warning: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] Could not find a variable named "J23" in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'.
+Make sure '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C' has been compiled for  Get J23
+[2026.06.08-09.49.59:437][819]LogBlueprint: Warning: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] Could not find a variable named "J24" in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'.
+Make sure '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C' has been compiled for  Get J24
+[2026.06.08-09.49.59:437][819]LogBlueprint: Warning: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] Could not find a variable named "J22" in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'.
+Make sure '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C' has been compiled for  Get J22
+[2026.06.08-09.49.59:437][819]LogBlueprint: Warning: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] Could not find a variable named "J21" in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'.
+Make sure '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C' has been compiled for  Get J21
+[2026.06.08-09.49.59:437][819]LogBlueprint: Warning: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] Could not find a variable named "J20" in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'.
+Make sure '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C' has been compiled for  Get J20
+[2026.06.08-09.49.59:437][819]LogBlueprint: Warning: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] Could not find a variable named "J15" in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'.
+Make sure '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C' has been compiled for  Get J15
+[2026.06.08-09.49.59:437][819]LogBlueprint: Warning: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] Could not find a variable named "J14" in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'.
+Make sure '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C' has been compiled for  Get J14
+[2026.06.08-09.49.59:437][819]LogBlueprint: Warning: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] Could not find a variable named "J13" in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'.
+Make sure '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C' has been compiled for  Get J13
+[2026.06.08-09.49.59:437][819]LogBlueprint: Warning: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] Could not find a variable named "J12" in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'.
+Make sure '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C' has been compiled for  Get J12
+[2026.06.08-09.49.59:438][819]LogBlueprint: Warning: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] Could not find a variable named "J11" in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'.
+Make sure '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C' has been compiled for  Get J11
+[2026.06.08-09.49.59:438][819]LogBlueprint: Warning: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] Could not find a variable named "J10" in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'.
+Make sure '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C' has been compiled for  Get J10
+[2026.06.08-09.49.59:445][819]LogBlueprint: Error: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] The property associated with  J25  could not be found in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'
+[2026.06.08-09.49.59:446][819]LogBlueprint: Error: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] The property associated with  J10  could not be found in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'
+[2026.06.08-09.49.59:446][819]LogBlueprint: Error: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] The property associated with  J11  could not be found in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'
+[2026.06.08-09.49.59:446][819]LogBlueprint: Error: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] The property associated with  J12  could not be found in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'
+[2026.06.08-09.49.59:446][819]LogBlueprint: Error: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] The property associated with  J13  could not be found in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'
+[2026.06.08-09.49.59:447][819]LogBlueprint: Error: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] The property associated with  J14  could not be found in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'
+[2026.06.08-09.49.59:447][819]LogBlueprint: Error: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] The property associated with  J15  could not be found in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'
+[2026.06.08-09.49.59:447][819]LogBlueprint: Error: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] The property associated with  J20  could not be found in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'
+[2026.06.08-09.49.59:447][819]LogBlueprint: Error: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] The property associated with  J21  could not be found in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'
+[2026.06.08-09.49.59:447][819]LogBlueprint: Error: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] The property associated with  J22  could not be found in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'
+[2026.06.08-09.49.59:447][819]LogBlueprint: Error: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] The property associated with  J24  could not be found in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'
+[2026.06.08-09.49.59:448][819]LogBlueprint: Error: [AssetLog] C:\Users\matteo.battani\Documents\GitHub\DeskWar\Content\UI_UX\WBP_LoadingScreenPLT.uasset: [Compiler] The property associated with  J23  could not be found in '/Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT_C'
+[2026.06.08-09.49.59:598][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2026.06.08-09.49.59:663][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-09.49.59:742][819]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPLT] ([2] browsable assets)...
+[2026.06.08-09.49.59:747][819]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT]
+[2026.06.08-09.49.59:747][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPLT]
+[2026.06.08-09.49.59:747][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPLT" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPLT.uasset" SILENT=true
+[2026.06.08-09.49.59:828][819]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPLT
+[2026.06.08-09.49.59:828][819]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPLT0BB092D54DEAB84DF13A5CBB5E7652AD.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPLT.uasset'
+[2026.06.08-09.49.59:844][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.727 ms (total: 7.92 sec)
+[2026.06.08-09.49.59:908][819]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-09.49.59:908][819]LogContentValidation: Enabled validators:
+[2026.06.08-09.49.59:908][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-09.49.59:908][819]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-09.49.59:908][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-09.49.59:908][819]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-09.49.59:908][819]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-09.49.59:908][819]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-09.49.59:909][819]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPLT Validating asset
+[2026.06.08-09.50.01:884][897]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10366.999023
+[2026.06.08-09.50.02:068][906]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-09.50.02:068][906]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10367.162109, Update Interval: 337.039703
+[2026.06.08-09.52.42:883][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.06.08-09.52.42:889][812]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.109
+[2026.06.08-09.52.42:890][812]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPLT] ([2] browsable assets)...
+[2026.06.08-09.52.42:896][812]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT]
+[2026.06.08-09.52.42:896][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPLT]
+[2026.06.08-09.52.42:994][812]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_UX/WBP_LoadingScreenPLT_Auto7
+[2026.06.08-09.52.42:994][812]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPLT_Auto751C96F3146FA9FFA87C4D59180AFFC2E.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/UI_UX/WBP_LoadingScreenPLT_Auto7.uasset'
+[2026.06.08-09.52.42:995][812]LogFileHelpers: Auto-saving content packages took 0.105
+[2026.06.08-09.53.30:684][ 45]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:53388, Sequence=0
+[2026.06.08-09.53.30:685][ 45]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:53388, Sequence=0
+[2026.06.08-09.53.30:685][ 45]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:53388, Sequence=0
+[2026.06.08-09.53.30:701][ 46]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:53388, Sequence=0
+[2026.06.08-09.53.30:701][ 46]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.166:53388, Sequence=0
+[2026.06.08-09.54.28:539][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2026.06.08-09.54.28:768][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-09.54.28:850][907]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPLT] ([2] browsable assets)...
+[2026.06.08-09.54.28:854][907]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenPLT.WBP_LoadingScreenPLT]
+[2026.06.08-09.54.28:854][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPLT]
+[2026.06.08-09.54.28:854][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPLT" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPLT.uasset" SILENT=true
+[2026.06.08-09.54.28:965][907]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPLT
+[2026.06.08-09.54.28:966][907]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPLT0F9F21004C8E5EF9F6810B9EE4527A86.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPLT.uasset'
+[2026.06.08-09.54.28:982][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 214.063 ms (total: 8.13 sec)
+[2026.06.08-09.54.29:036][907]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-09.54.29:036][907]LogContentValidation: Enabled validators:
+[2026.06.08-09.54.29:036][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-09.54.29:036][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-09.54.29:036][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-09.54.29:037][907]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-09.54.29:037][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-09.54.29:037][907]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-09.54.29:038][907]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPLT Validating asset
+[2026.06.08-09.54.33:882][ 92]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-09.54.33:896][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-09.54.33:897][ 92]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-09.54.33:901][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004010s)
+[2026.06.08-09.54.33:901][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.004076s)
+[2026.06.08-09.54.33:992][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2026.06.08-09.54.33:998][ 92]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-09.54.34:001][ 92]LogPlayLevel: PIE: World Init took: (0.002781s)
+[2026.06.08-09.54.34:002][ 92]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2026.06.08-09.54.34:002][ 92]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-09.54.34:002][ 92]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-09.54.34:002][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-09.54.34:002][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-09.54.34:003][ 92]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-09.54.34:003][ 92]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-09.54.34:003][ 92]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-09.54.34:003][ 92]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-09.54.34:003][ 92]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-09.54.34:003][ 92]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-09.54.34:003][ 92]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-09.54.34:007][ 92]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-09.54.34:110][ 92]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-09.54.34:110][ 92]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-09.54.34:110][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-09.54.34:110][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-09.54.34:112][ 92]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2026.06.08-09.54.34:112][ 92]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2026.06.08-09.54.34:115][ 92]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2026.06.08-09.54.34:116][ 92]LogInit: FAudioDevice initialized with ID 31.
+[2026.06.08-09.54.34:116][ 92]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2026.06.08-09.54.34:116][ 92]LogAudio: Display: Audio Device (ID: 31) registered with world 'DEWKWAR'.
+[2026.06.08-09.54.34:116][ 92]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2026.06.08-09.54.34:173][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-09.54.34:174][ 92]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-09.54.34:175][ 92]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-11.54.34
+[2026.06.08-09.54.34:176][ 92]LogWorld: Bringing up level for play took: 0.001725
+[2026.06.08-09.54.34:180][ 92]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2026.06.08-09.54.34:194][ 92]PIE: Server logged in
+[2026.06.08-09.54.34:200][ 92]PIE: Play in editor total start time 0,304 seconds.
+[2026.06.08-09.54.34:324][ 93]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-09.54.35:799][131]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.08-09.54.35:800][131]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-09.54.38:778][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-09.54.39:093][237]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.371465
+[2026.06.08-09.54.39:093][237]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.39:093][237]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.39:384][244]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.297909
+[2026.06.08-09.54.39:384][244]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.39:384][244]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.39:675][253]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.423112
+[2026.06.08-09.54.39:675][253]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.39:675][253]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.40:193][270]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.207562
+[2026.06.08-09.54.40:194][270]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.40:194][270]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.40:504][280]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.343953
+[2026.06.08-09.54.40:504][280]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.40:504][280]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.40:817][290]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.37445
+[2026.06.08-09.54.40:817][290]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.40:817][290]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.41:061][298]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.227476
+[2026.06.08-09.54.41:061][298]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.41:061][298]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.41:348][307]LogBlueprintUserMessages: [WBP_SPam_C_0] 1.42
+[2026.06.08-09.54.41:512][312]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.345491
+[2026.06.08-09.54.41:512][312]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.41:512][312]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.54.42:357][339]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-09.54.45:329][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-09.54.50:384][597]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Win
+[2026.06.08-09.54.50:385][597]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Score +1
+[2026.06.08-09.54.50:385][597]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] J1 Score +1 : 3.0
+[2026.06.08-09.54.50:385][597]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-09.54.52:239][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-09.54.52:239][655]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-09.54.52:240][655]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-09.54.52:251][655]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-09.54.52:252][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-09.54.52:253][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-09.54.52:268][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-09.54.52:354][655]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.08-09.54.52:355][655]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2026.06.08-09.54.52:355][655]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2026.06.08-09.54.52:358][655]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2026.06.08-09.54.52:370][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2026.06.08-09.54.52:644][656]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2026.06.08-09.54.55:021][756]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-09.54.55:036][756]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-09.56.35:711][316]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-09.56.35:725][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-09.56.35:726][316]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-09.56.35:731][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004971s)
+[2026.06.08-09.56.35:731][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.005035s)
+[2026.06.08-09.56.35:795][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.06.08-09.56.35:801][316]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-09.56.35:804][316]LogPlayLevel: PIE: World Init took: (0.002678s)
+[2026.06.08-09.56.35:806][316]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2026.06.08-09.56.35:806][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-09.56.35:806][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-09.56.35:806][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-09.56.35:806][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-09.56.35:806][316]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-09.56.35:806][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-09.56.35:806][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-09.56.35:806][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-09.56.35:806][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-09.56.35:806][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-09.56.35:806][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-09.56.35:809][316]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-09.56.35:891][316]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-09.56.35:892][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-09.56.35:892][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-09.56.35:892][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-09.56.35:892][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2026.06.08-09.56.35:892][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2026.06.08-09.56.35:896][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2026.06.08-09.56.35:896][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2026.06.08-09.56.35:896][316]LogInit: FAudioDevice initialized with ID 32.
+[2026.06.08-09.56.35:896][316]LogAudio: Display: Audio Device (ID: 32) registered with world 'DEWKWAR'.
+[2026.06.08-09.56.35:896][316]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2026.06.08-09.56.35:951][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-09.56.35:951][316]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-09.56.35:953][316]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-11.56.35
+[2026.06.08-09.56.35:954][316]LogWorld: Bringing up level for play took: 0.001334
+[2026.06.08-09.56.35:957][316]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2026.06.08-09.56.35:972][316]PIE: Server logged in
+[2026.06.08-09.56.35:979][316]PIE: Play in editor total start time 0,254 seconds.
+[2026.06.08-09.56.36:087][317]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-09.56.37:238][390]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10762.301758
+[2026.06.08-09.56.37:409][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-09.56.37:409][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10762.454102, Update Interval: 310.215759
+[2026.06.08-09.56.41:172][668]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-09.56.41:173][668]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-09.56.44:167][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-09.56.52:172][432]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] TIE
+[2026.06.08-09.56.54:483][594]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Win
+[2026.06.08-09.56.54:484][594]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Score +1
+[2026.06.08-09.56.54:484][594]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] J1 Score +1 : 2.0
+[2026.06.08-09.56.54:484][594]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.08-09.56.57:477][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-09.56.57:919][828]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.440864
+[2026.06.08-09.56.57:919][828]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.56.57:919][828]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.56.58:346][858]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.293973
+[2026.06.08-09.56.58:346][858]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.56.58:346][858]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.56.58:672][881]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.276449
+[2026.06.08-09.56.58:672][881]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.56.58:673][881]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.56.59:017][905]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.394528
+[2026.06.08-09.56.59:017][905]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.56.59:017][905]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.56.59:235][920]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.359105
+[2026.06.08-09.56.59:235][920]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.56.59:235][920]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.56.59:564][942]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.236146
+[2026.06.08-09.56.59:564][942]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.56.59:564][942]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.56.59:956][968]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.406046
+[2026.06.08-09.56.59:957][968]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.56.59:957][968]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.57.00:103][978]LogBlueprintUserMessages: [WBP_SPam_C_0] 1.34
+[2026.06.08-09.57.00:189][984]LogBlueprintUserMessages: [WBP_SPam_C_0] 0.293423
+[2026.06.08-09.57.00:189][984]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.57.00:190][984]LogBlueprintUserMessages: [WBP_SPam_C_0] Hello
+[2026.06.08-09.57.01:106][ 46]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-09.57.04:102][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-09.57.05:853][366]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Pierre
+[2026.06.08-09.57.08:041][516]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Ciseaux
+[2026.06.08-09.57.12:101][794]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 0
+[2026.06.08-09.57.12:101][794]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a lose
+[2026.06.08-09.57.19:614][313]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 0
+[2026.06.08-09.57.19:614][313]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a lose
+[2026.06.08-09.57.26:638][796]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] 0
+[2026.06.08-09.57.26:638][796]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0]  it's a lose
+[2026.06.08-09.57.29:647][996]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Win
+[2026.06.08-09.57.29:647][996]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] J2 Score +1 : 1.0
+[2026.06.08-09.57.29:647][996]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-09.57.32:291][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-09.57.32:291][164]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-09.57.32:291][164]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-09.57.32:312][164]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-09.57.32:312][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-09.57.32:313][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-09.57.32:329][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-09.57.32:405][164]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2026.06.08-09.57.32:405][164]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=4
+[2026.06.08-09.57.32:408][164]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=2
+[2026.06.08-09.57.32:421][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2026.06.08-09.57.32:686][165]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2026.06.08-09.57.33:812][227]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-09.57.33:825][227]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-09.58.01:034][517]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:64791, Sequence=0
+[2026.06.08-09.58.01:034][517]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.7.61.144:64791, Sequence=0
+[2026.06.08-09.58.38:999][346]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD_Game/WBP_Pierre_Pradal_Ciseaux.WBP_Pierre_Pradal_Ciseaux
+[2026.06.08-09.58.39:000][346]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_103
+[2026.06.08-09.58.39:007][346]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_104
+[2026.06.08-09.58.41:103][462]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 8/9 of stale message segements from Sender=10.7.61.50:53553, Sequence=0
+[2026.06.08-09.58.41:103][462]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 8/9 of stale message segements from Sender=10.7.61.50:53553, Sequence=0
+[2026.06.08-09.58.41:103][462]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 8/9 of stale message segements from Sender=10.7.61.50:53553, Sequence=0
+[2026.06.08-09.58.41:103][462]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 8/9 of stale message segements from Sender=10.7.61.50:53553, Sequence=0
+[2026.06.08-09.58.41:103][462]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 8/9 of stale message segements from Sender=10.7.61.50:53553, Sequence=0
+[2026.06.08-09.58.41:103][462]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 8/9 of stale message segements from Sender=10.7.61.50:53553, Sequence=0
+[2026.06.08-09.58.50:448][104]LogDerivedDataCache: C:/Users/matteo.battani/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.08-09.59.51:633][607]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.08-09.59.51:648][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-09.59.51:649][607]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-09.59.51:655][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005884s)
+[2026.06.08-09.59.51:655][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/DEWKWAR.DEWKWAR to /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR (0.005968s)
+[2026.06.08-09.59.51:881][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2026.06.08-09.59.51:890][607]LogChaosDD: Creating Chaos Debug Draw Scene for world DEWKWAR
+[2026.06.08-09.59.51:892][607]LogPlayLevel: PIE: World Init took: (0.002792s)
+[2026.06.08-09.59.51:894][607]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2026.06.08-09.59.51:894][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-09.59.51:894][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-09.59.51:894][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-09.59.51:894][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-09.59.51:894][607]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-09.59.51:894][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-09.59.51:894][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-09.59.51:894][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-09.59.51:894][607]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-09.59.51:894][607]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-09.59.51:894][607]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-09.59.51:897][607]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-09.59.51:995][607]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs / écouteurs (Realtek Audio)
+[2026.06.08-09.59.51:995][607]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-09.59.51:995][607]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-09.59.51:995][607]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-09.59.51:996][607]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2026.06.08-09.59.51:996][607]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2026.06.08-09.59.51:999][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2026.06.08-09.59.52:000][607]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2026.06.08-09.59.52:000][607]LogInit: FAudioDevice initialized with ID 33.
+[2026.06.08-09.59.52:000][607]LogAudio: Display: Audio Device (ID: 33) registered with world 'DEWKWAR'.
+[2026.06.08-09.59.52:000][607]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2026.06.08-09.59.52:051][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-09.59.52:051][607]LogLoad: Game class is 'GMode_DEskwar_C'
+[2026.06.08-09.59.52:053][607]LogWorld: Bringing World /Game/Map/UEDPIE_0_DEWKWAR.DEWKWAR up for play (max tick rate 0) at 2026.06.08-11.59.52
+[2026.06.08-09.59.52:053][607]LogWorld: Bringing up level for play took: 0.001583
+[2026.06.08-09.59.52:057][607]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2026.06.08-09.59.52:072][607]PIE: Server logged in
+[2026.06.08-09.59.52:079][607]PIE: Play in editor total start time 0,431 seconds.
+[2026.06.08-09.59.52:168][608]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-09.59.53:309][677]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 1
+[2026.06.08-09.59.53:311][677]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2026.06.08-09.59.56:305][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-10.00.00:537][178]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Win
+[2026.06.08-10.00.00:538][178]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] Score +1
+[2026.06.08-10.00.00:538][178]LogBlueprintUserMessages: [WBP_Pierre_Pradal_Ciseaux_C_0] J1 Score +1 : 2.0
+[2026.06.08-10.00.00:538][178]LogBlueprintUserMessages: [WBP_Hub_Loading_C_0] 0
+[2026.06.08-10.00.01:852][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-10.00.01:852][264]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_DEWKWAR
+[2026.06.08-10.00.01:852][264]LogSlate: Window 'DeskWar2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.06.08-10.00.01:860][264]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-10.00.01:860][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-10.00.01:862][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-10.00.01:876][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-10.00.01:949][264]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.08-10.00.01:950][264]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2026.06.08-10.00.01:950][264]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=4
+[2026.06.08-10.00.01:953][264]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=2
+[2026.06.08-10.00.01:963][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2026.06.08-10.00.02:197][265]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2026.06.08-10.00.04:344][393]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-10.00.04:357][393]LogSlate: Window 'Message Log' being destroyed
+[2026.06.08-10.00.08:154][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.06.08-10.00.09:193][471]LogSlate: Window 'Save Content' being destroyed
+[2026.06.08-10.00.09:241][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-10.00.09:306][471]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPFC] ([2] browsable assets)...
+[2026.06.08-10.00.09:306][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPFC]
+[2026.06.08-10.00.09:306][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPFC" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset" SILENT=true
+[2026.06.08-10.00.09:453][471]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPFC
+[2026.06.08-10.00.09:454][471]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPFCFECE60B6409CACFCB01B0B881AABD9A8.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPFC.uasset'
+[2026.06.08-10.00.09:457][471]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenPLT] ([2] browsable assets)...
+[2026.06.08-10.00.09:457][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenPLT]
+[2026.06.08-10.00.09:457][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenPLT" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPLT.uasset" SILENT=true
+[2026.06.08-10.00.09:591][471]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenPLT
+[2026.06.08-10.00.09:592][471]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenPLT14DA274344EBE3E3D0DC57AB3DB099CD.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenPLT.uasset'
+[2026.06.08-10.00.09:612][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 371.684 ms (total: 8.50 sec)
+[2026.06.08-10.00.09:697][471]LogContentValidation: Display: Starting to validate 2 assets
+[2026.06.08-10.00.09:697][471]LogContentValidation: Enabled validators:
+[2026.06.08-10.00.09:697][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-10.00.09:697][471]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-10.00.09:697][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-10.00.09:697][471]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-10.00.09:697][471]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-10.00.09:697][471]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-10.00.09:699][471]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPFC Validating asset
+[2026.06.08-10.00.09:700][471]AssetCheck: /Game/UI_UX/WBP_LoadingScreenPLT Validating asset
+[2026.06.08-10.00.16:053][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.06.08-10.00.16:155][565]LogStall: Shutdown...
+[2026.06.08-10.00.16:155][565]LogStall: Shutdown complete.
+[2026.06.08-10.00.16:251][565]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-10.00.16:251][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-10.00.16:270][565]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-10.00.16:271][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-10.00.16:408][565]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-10.00.16:408][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-10.00.16:436][565]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-10.00.16:436][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-10.00.16:589][565]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-10.00.16:589][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-10.00.16:608][565]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-10.00.16:608][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-10.00.16:709][565]LogSlate: Window 'DeskWar2 - Unreal Editor' being destroyed
+[2026.06.08-10.00.18:162][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.06.08-10.00.18:220][565]LogAutomationController: Ignoring very large delta of 2.53 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.06.08-10.00.18:222][565]Cmd: QUIT_EDITOR
+[2026.06.08-10.00.18:222][566]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.06.08-10.00.18:236][566]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.06.08-10.00.18:237][566]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.06.08-10.00.18:237][566]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.06.08-10.00.18:240][566]LogWorld: UWorld::CleanupWorld for DEWKWAR, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-10.00.18:240][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-10.00.18:261][566]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.06.08-10.00.18:262][566]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.06.08-10.00.18:264][566]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.06.08-10.00.18:310][566]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-10.00.18:310][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-10.00.18:320][566]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-10.00.18:320][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-10.00.18:332][566]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.06.08-10.00.18:332][566]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.06.08-10.00.18:350][566]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.06.08-10.00.19:284][566]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.06.08-10.00.19:284][566]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.06.08-10.00.19:284][566]LogAudio: Display: Audio Device unregistered from world 'DEWKWAR'.
+[2026.06.08-10.00.19:284][566]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.06.08-10.00.19:284][566]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.06.08-10.00.19:287][566]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.06.08-10.00.19:314][566]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.06.08-10.00.19:315][566]LogAudio: Display: Audio Device Manager Shutdown
+[2026.06.08-10.00.19:316][566]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2026.06.08-10.00.19:322][566]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.06.08-10.00.19:323][566]LogExit: Preparing to exit.
+[2026.06.08-10.00.19:398][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.06.08-10.00.19:409][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:409][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:410][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:411][566]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:411][566]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.08-10.00.19:729][566]LogEditorDataStorage: Deinitializing
+[2026.06.08-10.00.19:940][566]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.06.08-10.00.20:145][566]LogExit: Editor shut down
+[2026.06.08-10.00.20:157][566]LogExit: Transaction tracking system shut down
+[2026.06.08-10.00.20:637][566]LogExit: Object subsystem successfully closed.
+[2026.06.08-10.00.20:704][566]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.06.08-10.00.22:518][566]LogMemoryProfiler: Shutdown
+[2026.06.08-10.00.22:518][566]LogNetworkingProfiler: Shutdown
+[2026.06.08-10.00.22:518][566]LoadingProfiler: Shutdown
+[2026.06.08-10.00.22:519][566]LogTimingProfiler: Shutdown
+[2026.06.08-10.00.22:521][566]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.06.08-10.00.22:522][566]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.06.08-10.00.22:987][566]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.06.08-10.00.22:987][566]LogNFORDenoise: NFORDenoise function shutting down
+[2026.06.08-10.00.23:011][566]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.06.08-10.00.23:011][566]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD16C5572-44EC-AF00-9408-F29CE56F50F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=068a9ba54b07fbda96b07fb70bd9efbd%7C778ef39350fc4f36a97b4a1c9984aa4b%7C5097b176-d4e7-4e0c-8c6e-3b9c1a7d73b2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.06.08-10.00.23:562][566]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.06.08-10.00.23:571][566]RenderDocPlugin: plugin has been unloaded.
+[2026.06.08-10.00.23:579][566]LogXGEController: Cleaning working directory: C:/Users/matteo.battani/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.06.08-10.00.23:586][566]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.06.08-10.00.23:586][566]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.06.08-10.00.23:586][566]LogPakFile: Destroying PakPlatformFile
+[2026.06.08-10.00.23:928][566]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.06.08-10.00.23:957][566]LogExit: Exiting.
+[2026.06.08-10.00.24:000][566]Log file closed, 06/08/26 12:00:24
