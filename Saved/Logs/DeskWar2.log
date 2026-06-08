@@ -1248,3 +1248,58 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.08-07.00.10:425][703]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/flecheH.png]
 [2026.06.08-07.00.10:452][703]LogInterchangeEngine: [Pending] Importing - Operation completed.
 [2026.06.08-07.00.10:452][703]LogInterchangeEngine: [Success] Import Done
+[2026.06.08-07.01.33:388][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.06.08-07.01.34:860][384]LogSlate: Window 'Save Content' being destroyed
+[2026.06.08-07.01.34:873][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-07.01.34:934][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/FlecheD] ([1] browsable assets)...
+[2026.06.08-07.01.34:937][384]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/FlecheD.FlecheD]
+[2026.06.08-07.01.34:937][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/FlecheD]
+[2026.06.08-07.01.34:937][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/FlecheD" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/FlecheD.uasset" SILENT=true
+[2026.06.08-07.01.34:960][384]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/FlecheD
+[2026.06.08-07.01.34:960][384]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/FlecheD64FF7F794532E6B9183BA6B545987264.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/FlecheD.uasset'
+[2026.06.08-07.01.34:963][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/espace] ([1] browsable assets)...
+[2026.06.08-07.01.34:966][384]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/espace.espace]
+[2026.06.08-07.01.34:966][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/espace]
+[2026.06.08-07.01.34:966][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/espace" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/espace.uasset" SILENT=true
+[2026.06.08-07.01.34:985][384]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/espace
+[2026.06.08-07.01.34:985][384]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/espace4533CBBF4480D0E5BA2F559A25857561.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/espace.uasset'
+[2026.06.08-07.01.34:987][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/flecheB] ([1] browsable assets)...
+[2026.06.08-07.01.34:990][384]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/flecheB.flecheB]
+[2026.06.08-07.01.34:990][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/flecheB]
+[2026.06.08-07.01.34:990][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/flecheB" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/flecheB.uasset" SILENT=true
+[2026.06.08-07.01.35:010][384]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/flecheB
+[2026.06.08-07.01.35:010][384]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/flecheB522578D1496034E511D6BAAA207BF67A.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/flecheB.uasset'
+[2026.06.08-07.01.35:012][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/flecheG] ([1] browsable assets)...
+[2026.06.08-07.01.35:014][384]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/flecheG.flecheG]
+[2026.06.08-07.01.35:014][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/flecheG]
+[2026.06.08-07.01.35:014][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/flecheG" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/flecheG.uasset" SILENT=true
+[2026.06.08-07.01.35:034][384]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/flecheG
+[2026.06.08-07.01.35:034][384]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/flecheG5910DA0F482C0CD46BB1BE90BE89A248.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/flecheG.uasset'
+[2026.06.08-07.01.35:036][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/flecheH] ([1] browsable assets)...
+[2026.06.08-07.01.35:038][384]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/flecheH.flecheH]
+[2026.06.08-07.01.35:038][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/flecheH]
+[2026.06.08-07.01.35:038][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/flecheH" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/flecheH.uasset" SILENT=true
+[2026.06.08-07.01.35:058][384]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/flecheH
+[2026.06.08-07.01.35:058][384]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/flecheHA45B7D8B446FC77EA81549AE8CE6F4AA.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/flecheH.uasset'
+[2026.06.08-07.01.35:059][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/flecheS] ([1] browsable assets)...
+[2026.06.08-07.01.35:062][384]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/flecheS.flecheS]
+[2026.06.08-07.01.35:062][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/flecheS]
+[2026.06.08-07.01.35:062][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/flecheS" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/flecheS.uasset" SILENT=true
+[2026.06.08-07.01.35:081][384]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/flecheS
+[2026.06.08-07.01.35:081][384]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/flecheSBCE758B34D5CDC2C3C74BDB66583D6E9.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/flecheS.uasset'
+[2026.06.08-07.01.35:093][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 219.985 ms
+[2026.06.08-07.01.35:155][384]LogContentValidation: Display: Starting to validate 6 assets
+[2026.06.08-07.01.35:155][384]LogContentValidation: Enabled validators:
+[2026.06.08-07.01.35:155][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-07.01.35:155][384]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-07.01.35:155][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-07.01.35:155][384]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-07.01.35:155][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-07.01.35:155][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-07.01.35:156][384]AssetCheck: /Game/ASSETS/Elements/FlecheD Validating asset
+[2026.06.08-07.01.35:156][384]AssetCheck: /Game/ASSETS/Elements/espace Validating asset
+[2026.06.08-07.01.35:156][384]AssetCheck: /Game/ASSETS/Elements/flecheB Validating asset
+[2026.06.08-07.01.35:156][384]AssetCheck: /Game/ASSETS/Elements/flecheG Validating asset
+[2026.06.08-07.01.35:156][384]AssetCheck: /Game/ASSETS/Elements/flecheH Validating asset
+[2026.06.08-07.01.35:156][384]AssetCheck: /Game/ASSETS/Elements/flecheS Validating asset
+[2026.06.08-07.01.35:182][384]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/SourceControl/UncontrolledChangelists.json
