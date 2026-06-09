@@ -2657,3 +2657,160 @@ Make sure '/Game/UI_UX/WBP_LoadingScreenSarbacane.WBP_LoadingScreenSarbacane_C' 
 [2026.06.09-08.18.45:438][938]AssetCheck: /Game/ASSETS/Elements/FH Validating asset
 [2026.06.09-08.18.45:439][938]AssetCheck: /Game/ASSETS/Elements/RT Validating asset
 [2026.06.09-08.18.45:475][938]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.09-08.20.30:921][913]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3655.090088
+[2026.06.09-08.20.31:086][932]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.09-08.20.31:086][932]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3655.246826, Update Interval: 301.680969
+[2026.06.09-08.21.29:109][529]LogDerivedDataCache: C:/Users/matteo.battani/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.09-08.26.14:466][756]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3998.622559
+[2026.06.09-08.26.14:625][774]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.09-08.26.14:625][774]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3998.771484, Update Interval: 323.985718
+[2026.06.09-08.32.02:136][121]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.06.09-08.32.02:137][121]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.06.09-08.32.35:653][691]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4379.853027
+[2026.06.09-08.32.35:844][699]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.09-08.32.35:844][699]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4380.026367, Update Interval: 314.247864
+[2026.06.09-08.33.21:164][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.06.09-08.33.21:166][760]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.046
+[2026.06.09-08.33.21:167][760]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenSarbacane] ([2] browsable assets)...
+[2026.06.09-08.33.21:172][760]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenSarbacane.WBP_LoadingScreenSarbacane]
+[2026.06.09-08.33.21:172][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenSarbacane]
+[2026.06.09-08.33.21:295][760]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_UX/WBP_LoadingScreenSarbacane_Auto5
+[2026.06.09-08.33.21:295][760]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenSarbacane_Auto54F28FF7840FFB7CE6ABFE08E21E167F5.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/UI_UX/WBP_LoadingScreenSarbacane_Auto5.uasset'
+[2026.06.09-08.33.21:298][760]LogFileHelpers: Auto-saving content packages took 0.131
+[2026.06.09-08.35.27:794][961]LogStreaming: Display: FlushAsyncLoading(587): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.09-08.35.27:802][961]LogInterchangeEngine: [Pending] Importing
+[2026.06.09-08.35.27:802][961]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/FDB.png]
+[2026.06.09-08.35.27:804][961]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.06.09-08.35.27:804][961]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/FHB.png]
+[2026.06.09-08.35.27:804][961]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.06.09-08.35.27:804][961]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/EspB.png]
+[2026.06.09-08.35.27:806][961]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.06.09-08.35.27:807][961]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.06.09-08.35.28:512][963]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.09-08.35.28:526][964]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.06.09-08.35.28:527][964]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.06.09-08.35.28:528][964]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.06.09-08.35.28:852][964]LogTexture: Display: Building textures: /Game/ASSETS/Elements/FDB.FDB (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.06.09-08.35.28:855][965]LogTexture: Display: Building textures: /Game/ASSETS/Elements/FHB.FHB (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.06.09-08.35.28:857][965]LogTexture: Display: Building textures: /Game/ASSETS/Elements/EspB.EspB (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.06.09-08.35.29:174][965]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/FDB.png]
+[2026.06.09-08.35.29:174][965]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.06.09-08.35.29:174][965]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.06.09-08.35.29:174][965]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/FGB.png]
+[2026.06.09-08.35.29:174][965]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/FHB.png]
+[2026.06.09-08.35.29:174][965]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.06.09-08.35.29:174][965]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.06.09-08.35.29:175][965]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matteo.battani/Downloads/FBB.png]
+[2026.06.09-08.35.29:175][965]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/EspB.png]
+[2026.06.09-08.35.29:175][965]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.06.09-08.35.30:136][968]LogStreaming: Display: FlushAsyncLoading(595): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.09-08.35.30:148][969]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.06.09-08.35.30:148][969]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.06.09-08.35.30:475][970]LogTexture: Display: Building textures: /Game/ASSETS/Elements/FGB.FGB (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.06.09-08.35.30:478][970]LogTexture: Display: Building textures: /Game/ASSETS/Elements/FBB.FBB (BGRA8, 1919x1079 x1x1x1) (Required Memory Estimate: 72.088436 MB), EncodeSpeed: Fast
+[2026.06.09-08.35.30:830][970]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/FGB.png]
+[2026.06.09-08.35.30:830][970]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.06.09-08.35.30:831][970]LogInterchangeEngine: Display: Interchange import completed [C:/Users/matteo.battani/Downloads/FBB.png]
+[2026.06.09-08.35.30:878][970]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.06.09-08.35.30:878][970]LogInterchangeEngine: [Success] Import Done
+[2026.06.09-08.36.33:311][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.06.09-08.36.33:337][803]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.09-08.36.33:400][803]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_LoadingScreenSarbacane] ([2] browsable assets)...
+[2026.06.09-08.36.33:405][803]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_LoadingScreenSarbacane.WBP_LoadingScreenSarbacane]
+[2026.06.09-08.36.33:405][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_LoadingScreenSarbacane]
+[2026.06.09-08.36.33:405][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_LoadingScreenSarbacane" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenSarbacane.uasset" SILENT=true
+[2026.06.09-08.36.33:527][803]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_LoadingScreenSarbacane
+[2026.06.09-08.36.33:528][803]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_LoadingScreenSarbacaneDDB0A83240941951C9CF6C98B13D735A.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_LoadingScreenSarbacane.uasset'
+[2026.06.09-08.36.33:541][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 204.393 ms (total: 2.57 sec)
+[2026.06.09-08.36.33:598][803]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.09-08.36.33:598][803]LogContentValidation: Enabled validators:
+[2026.06.09-08.36.33:598][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.09-08.36.33:598][803]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.09-08.36.33:598][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.09-08.36.33:598][803]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.09-08.36.33:598][803]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.09-08.36.33:598][803]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.09-08.36.33:601][803]AssetCheck: /Game/UI_UX/WBP_LoadingScreenSarbacane Validating asset
+[2026.06.09-08.38.38:176][ 77]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4742.435059
+[2026.06.09-08.38.38:350][ 95]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.09-08.38.38:350][ 95]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4742.597168, Update Interval: 318.177429
+[2026.06.09-08.43.21:446][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.06.09-08.43.21:450][197]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.049
+[2026.06.09-08.43.21:451][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/FDB] ([1] browsable assets)...
+[2026.06.09-08.43.21:454][197]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/FDB.FDB]
+[2026.06.09-08.43.21:454][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/FDB]
+[2026.06.09-08.43.21:470][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ASSETS/Elements/FDB_Auto6
+[2026.06.09-08.43.21:470][197]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/FDB_Auto6F4FF805E4CC4F2572460A99E4708F243.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/ASSETS/Elements/FDB_Auto6.uasset'
+[2026.06.09-08.43.21:472][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/FHB] ([1] browsable assets)...
+[2026.06.09-08.43.21:474][197]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/FHB.FHB]
+[2026.06.09-08.43.21:474][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/FHB]
+[2026.06.09-08.43.21:489][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ASSETS/Elements/FHB_Auto6
+[2026.06.09-08.43.21:489][197]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/FHB_Auto626AF4BEA4FC53448B4F825973AB25B81.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/ASSETS/Elements/FHB_Auto6.uasset'
+[2026.06.09-08.43.21:491][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/EspB] ([1] browsable assets)...
+[2026.06.09-08.43.21:493][197]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/EspB.EspB]
+[2026.06.09-08.43.21:493][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/EspB]
+[2026.06.09-08.43.21:509][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ASSETS/Elements/EspB_Auto6
+[2026.06.09-08.43.21:509][197]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/EspB_Auto605CDDD06469050BDB54EA3B09D856F4A.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/ASSETS/Elements/EspB_Auto6.uasset'
+[2026.06.09-08.43.21:511][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/FGB] ([1] browsable assets)...
+[2026.06.09-08.43.21:513][197]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/FGB.FGB]
+[2026.06.09-08.43.21:513][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/FGB]
+[2026.06.09-08.43.21:528][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ASSETS/Elements/FGB_Auto6
+[2026.06.09-08.43.21:528][197]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/FGB_Auto6E5023A79423725E42000ABA90916939C.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/ASSETS/Elements/FGB_Auto6.uasset'
+[2026.06.09-08.43.21:530][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Elements/FBB] ([1] browsable assets)...
+[2026.06.09-08.43.21:533][197]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/Elements/FBB.FBB]
+[2026.06.09-08.43.21:533][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/FBB]
+[2026.06.09-08.43.21:549][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ASSETS/Elements/FBB_Auto6
+[2026.06.09-08.43.21:549][197]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/FBB_Auto660CE9E9848B6AFF51A45768FBA668FAE.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/ASSETS/Elements/FBB_Auto6.uasset'
+[2026.06.09-08.43.21:550][197]LogFileHelpers: Auto-saving content packages took 0.101
+[2026.06.09-08.44.29:211][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5093.591309
+[2026.06.09-08.44.29:585][456]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.09-08.44.29:585][456]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5093.956055, Update Interval: 330.418396
+[2026.06.09-08.50.52:323][754]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5476.855469
+[2026.06.09-08.50.52:494][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.09-08.50.52:494][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5477.016602, Update Interval: 347.107147
+[2026.06.09-08.57.23:955][956]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5868.527344
+[2026.06.09-08.57.24:955][959]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.09-08.57.24:955][959]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5869.193359, Update Interval: 327.455658
+[2026.06.09-08.57.42:042][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.06.09-08.57.43:591][ 15]LogSlate: Window 'Save Content' being destroyed
+[2026.06.09-08.57.43:605][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.09-08.57.43:648][ 15]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ASSETS/Elements/EspB] ([1] browsable assets)...
+[2026.06.09-08.57.43:648][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/EspB]
+[2026.06.09-08.57.43:648][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/EspB" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/EspB.uasset" SILENT=true
+[2026.06.09-08.57.43:668][ 15]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/EspB
+[2026.06.09-08.57.43:668][ 15]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/EspB25BB08C44A77858BF3A8DCA581F26CC8.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/EspB.uasset'
+[2026.06.09-08.57.43:674][ 15]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ASSETS/Elements/FBB] ([1] browsable assets)...
+[2026.06.09-08.57.43:674][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/FBB]
+[2026.06.09-08.57.43:674][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/FBB" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/FBB.uasset" SILENT=true
+[2026.06.09-08.57.43:694][ 15]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/FBB
+[2026.06.09-08.57.43:695][ 15]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/FBB079106F741B732CD7ADBF1BD087067FB.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/FBB.uasset'
+[2026.06.09-08.57.43:697][ 15]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ASSETS/Elements/FDB] ([1] browsable assets)...
+[2026.06.09-08.57.43:697][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/FDB]
+[2026.06.09-08.57.43:697][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/FDB" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/FDB.uasset" SILENT=true
+[2026.06.09-08.57.43:716][ 15]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/FDB
+[2026.06.09-08.57.43:716][ 15]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/FDBFF4E85D54E0B1F9EC3DE86BAF829B1A5.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/FDB.uasset'
+[2026.06.09-08.57.43:719][ 15]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ASSETS/Elements/FGB] ([1] browsable assets)...
+[2026.06.09-08.57.43:719][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/FGB]
+[2026.06.09-08.57.43:719][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/FGB" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/FGB.uasset" SILENT=true
+[2026.06.09-08.57.43:738][ 15]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/FGB
+[2026.06.09-08.57.43:738][ 15]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/FGB25D5542A41813A7AECFD5EA405E2ABE2.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/FGB.uasset'
+[2026.06.09-08.57.43:740][ 15]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ASSETS/Elements/FHB] ([1] browsable assets)...
+[2026.06.09-08.57.43:740][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Elements/FHB]
+[2026.06.09-08.57.43:740][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Elements/FHB" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/FHB.uasset" SILENT=true
+[2026.06.09-08.57.43:760][ 15]LogSavePackage: Moving output files for package: /Game/ASSETS/Elements/FHB
+[2026.06.09-08.57.43:760][ 15]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/FHB0E650BED4702736F44DB0C8703755609.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/Elements/FHB.uasset'
+[2026.06.09-08.57.43:782][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.422 ms (total: 2.75 sec)
+[2026.06.09-08.57.43:843][ 15]LogContentValidation: Display: Starting to validate 5 assets
+[2026.06.09-08.57.43:843][ 15]LogContentValidation: Enabled validators:
+[2026.06.09-08.57.43:843][ 15]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.09-08.57.43:843][ 15]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.09-08.57.43:843][ 15]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.09-08.57.43:843][ 15]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.09-08.57.43:843][ 15]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.09-08.57.43:843][ 15]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.09-08.57.43:843][ 15]AssetCheck: /Game/ASSETS/Elements/EspB Validating asset
+[2026.06.09-08.57.43:843][ 15]AssetCheck: /Game/ASSETS/Elements/FBB Validating asset
+[2026.06.09-08.57.43:844][ 15]AssetCheck: /Game/ASSETS/Elements/FDB Validating asset
+[2026.06.09-08.57.43:844][ 15]AssetCheck: /Game/ASSETS/Elements/FGB Validating asset
+[2026.06.09-08.57.43:844][ 15]AssetCheck: /Game/ASSETS/Elements/FHB Validating asset
+[2026.06.09-08.57.43:869][ 15]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/SourceControl/UncontrolledChangelists.json
