@@ -4727,3 +4727,129 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.11-13.33.58:883][972]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.06.11-13.33.58:883][972]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.06.11-13.33.58:883][972]AssetCheck: /Game/ASSETS/HuD/backgroundMM Validating asset
+[2026.06.11-13.37.50:583][290]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1325.449829
+[2026.06.11-13.37.50:751][310]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-13.37.50:751][310]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1325.608276, Update Interval: 324.011353
+[2026.06.11-13.39.25:676][467]LogStreaming: Display: FlushAsyncLoading(336): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.11-13.39.26:608][467]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI_UX/WBP_MainMenu.WBP_MainMenu
+[2026.06.11-13.39.26:615][467]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.06.11-13.39.26:625][467]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.06.11-13.39.26:638][467]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.06.11-13.39.28:590][467]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.06.11-13.39.28:601][467]LogSlate: Took 0.001137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.06.11-13.40.38:191][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.06.11-13.40.38:223][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.11-13.40.38:281][627]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_UX/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.11-13.40.38:287][627]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_UX/WBP_MainMenu.WBP_MainMenu]
+[2026.06.11-13.40.38:287][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_UX/WBP_MainMenu]
+[2026.06.11-13.40.38:287][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_UX/WBP_MainMenu" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_MainMenu.uasset" SILENT=true
+[2026.06.11-13.40.38:339][627]LogSavePackage: Moving output files for package: /Game/UI_UX/WBP_MainMenu
+[2026.06.11-13.40.38:341][627]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/WBP_MainMenu8D87519E4CAD30B95D25AEBFD7F3DD85.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/UI_UX/WBP_MainMenu.uasset'
+[2026.06.11-13.40.38:354][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.740 ms (total: 634.889 ms)
+[2026.06.11-13.40.38:397][627]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.11-13.40.38:397][627]LogContentValidation: Enabled validators:
+[2026.06.11-13.40.38:397][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.11-13.40.38:397][627]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.11-13.40.38:397][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.11-13.40.38:397][627]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.11-13.40.38:397][627]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.11-13.40.38:397][627]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.11-13.40.38:399][627]AssetCheck: /Game/UI_UX/WBP_MainMenu Validating asset
+[2026.06.11-13.40.41:971][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.11-13.40.42:031][ 29]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ASSETS/HuD/backgroundMM] ([1] browsable assets)...
+[2026.06.11-13.40.42:031][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/HuD/backgroundMM]
+[2026.06.11-13.40.42:031][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/HuD/backgroundMM" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/HuD/backgroundMM.uasset" SILENT=true
+[2026.06.11-13.40.42:035][ 29]LogSavePackage: Moving output files for package: /Game/ASSETS/HuD/backgroundMM
+[2026.06.11-13.40.42:036][ 29]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/backgroundMM6104AD6245602D1951F44D89A0FFD5A6.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/HuD/backgroundMM.uasset'
+[2026.06.11-13.40.42:046][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.750 ms (total: 710.639 ms)
+[2026.06.11-13.40.42:097][ 29]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.11-13.40.42:097][ 29]LogContentValidation: Enabled validators:
+[2026.06.11-13.40.42:097][ 29]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.11-13.40.42:097][ 29]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.11-13.40.42:097][ 29]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.11-13.40.42:097][ 29]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.11-13.40.42:098][ 29]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.11-13.40.42:098][ 29]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.11-13.40.42:098][ 29]AssetCheck: /Game/ASSETS/HuD/backgroundMM Validating asset
+[2026.06.11-13.41.41:437][ 55]LogMediaAssets: Error: Failed to validate media source backgroundMM (file://D:/backgroundMM.mp4)
+[2026.06.11-13.41.59:221][107]LogMediaAssets: Error: Failed to validate media source backgroundMM (file://D:/backgroundMM.mp4)
+[2026.06.11-13.43.30:037][ 32]LogSlate: Window 'Message' being destroyed
+[2026.06.11-13.43.30:047][ 32]Message dialog closed, result: Cancel, title: Message, text: Are you sure you want to update the default settings?
+[2026.06.11-13.43.31:964][219]LogSlate: Window 'Editor Preferences' being destroyed
+[2026.06.11-13.43.31:973][219]LogSlate: Window 'Editor Preferences' being destroyed
+[2026.06.11-13.43.36:836][763]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1671.701538
+[2026.06.11-13.43.36:988][781]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-13.43.36:988][781]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1671.845947, Update Interval: 348.815582
+[2026.06.11-13.45.31:436][145]LogMediaUtils: Error: Cannot play file://C:/Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/HuD/backgroundMM.uasset, because none of the enabled media player plug-ins support it:
+[2026.06.11-13.45.31:436][145]LogMediaUtils: | AndroidMedia (only available on Android, but not on Windows)
+[2026.06.11-13.45.31:436][145]LogMediaUtils: | AvfMedia (only available on iOS, Mac, but not on Windows)
+[2026.06.11-13.45.31:436][145]LogMediaUtils: | ImgMedia (URI scheme or file extension not supported)
+[2026.06.11-13.45.31:436][145]LogMediaUtils: | WebMMedia (URI scheme or file extension not supported)
+[2026.06.11-13.45.31:436][145]LogMediaUtils: | WmfMedia (URI scheme or file extension not supported)
+[2026.06.11-13.45.31:569][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.06.11-13.45.31:570][146]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DEWKWAR' took 0.051
+[2026.06.11-13.45.31:571][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/HuD/backgroundMM] ([1] browsable assets)...
+[2026.06.11-13.45.31:574][146]OBJ SavePackage:     Rendered thumbnail for [FileMediaSource /Game/ASSETS/HuD/backgroundMM.backgroundMM]
+[2026.06.11-13.45.31:574][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/HuD/backgroundMM]
+[2026.06.11-13.45.31:584][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ASSETS/HuD/backgroundMM_Auto1
+[2026.06.11-13.45.31:584][146]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/backgroundMM_Auto13B2056CD4F3D0FA11B90A1A155F13C78.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/ASSETS/HuD/backgroundMM_Auto1.uasset'
+[2026.06.11-13.45.31:586][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/HuD/MM_effect_Video] ([1] browsable assets)...
+[2026.06.11-13.45.31:589][146]OBJ SavePackage:     Rendered thumbnail for [MediaTexture /Game/ASSETS/HuD/MM_effect_Video.MM_effect_Video]
+[2026.06.11-13.45.31:589][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/HuD/MM_effect_Video]
+[2026.06.11-13.45.31:599][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ASSETS/HuD/MM_effect_Video_Auto1
+[2026.06.11-13.45.31:599][146]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/MM_effect_Video_Auto13BE353A14C28201A4B054CB0F631024E.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/Autosaves/Game/ASSETS/HuD/MM_effect_Video_Auto1.uasset'
+[2026.06.11-13.45.31:600][146]LogFileHelpers: Auto-saving content packages took 0.030
+[2026.06.11-13.45.45:319][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.11-13.45.45:381][774]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ASSETS/HuD/backgroundMM] ([1] browsable assets)...
+[2026.06.11-13.45.45:381][774]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/HuD/backgroundMM]
+[2026.06.11-13.45.45:381][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/HuD/backgroundMM" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/HuD/backgroundMM.uasset" SILENT=true
+[2026.06.11-13.45.45:394][774]LogSavePackage: Moving output files for package: /Game/ASSETS/HuD/backgroundMM
+[2026.06.11-13.45.45:395][774]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/backgroundMM87D9D88044A19E4598C5DAB718E51CAE.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/HuD/backgroundMM.uasset'
+[2026.06.11-13.45.45:407][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.609 ms (total: 798.248 ms)
+[2026.06.11-13.45.45:462][774]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.11-13.45.45:462][774]LogContentValidation: Enabled validators:
+[2026.06.11-13.45.45:462][774]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.11-13.45.45:462][774]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.11-13.45.45:462][774]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.11-13.45.45:462][774]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.11-13.45.45:462][774]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.11-13.45.45:462][774]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.11-13.45.45:463][774]AssetCheck: /Game/ASSETS/HuD/backgroundMM Validating asset
+[2026.06.11-13.45.55:852][958]LogMediaUtils: Error: Cannot play file://C:/Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/HuD/backgroundMM.uasset, because none of the enabled media player plug-ins support it:
+[2026.06.11-13.45.55:852][958]LogMediaUtils: | AndroidMedia (only available on Android, but not on Windows)
+[2026.06.11-13.45.55:852][958]LogMediaUtils: | AvfMedia (only available on iOS, Mac, but not on Windows)
+[2026.06.11-13.45.55:852][958]LogMediaUtils: | ImgMedia (URI scheme or file extension not supported)
+[2026.06.11-13.45.55:852][958]LogMediaUtils: | WebMMedia (URI scheme or file extension not supported)
+[2026.06.11-13.45.55:853][958]LogMediaUtils: | WmfMedia (URI scheme or file extension not supported)
+[2026.06.11-13.45.58:728][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.11-13.45.58:783][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ASSETS/HuD/MP_Background_Movement] ([1] browsable assets)...
+[2026.06.11-13.45.58:783][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/HuD/MP_Background_Movement]
+[2026.06.11-13.45.58:783][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/HuD/MP_Background_Movement" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/HuD/MP_Background_Movement.uasset" SILENT=true
+[2026.06.11-13.45.58:794][239]LogSavePackage: Moving output files for package: /Game/ASSETS/HuD/MP_Background_Movement
+[2026.06.11-13.45.58:795][239]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/MP_Background_MovementD66E10E44D0939AD750B3ABB01782AF6.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/HuD/MP_Background_Movement.uasset'
+[2026.06.11-13.45.58:808][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.488 ms (total: 878.737 ms)
+[2026.06.11-13.45.58:865][239]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.11-13.45.58:865][239]LogContentValidation: Enabled validators:
+[2026.06.11-13.45.58:865][239]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.11-13.45.58:865][239]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.11-13.45.58:865][239]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.11-13.45.58:865][239]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.11-13.45.58:865][239]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.11-13.45.58:865][239]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.11-13.45.58:865][239]AssetCheck: /Game/ASSETS/HuD/MP_Background_Movement Validating asset
+[2026.06.11-13.46.01:523][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.11-13.46.01:581][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ASSETS/HuD/MM_effect_Video] ([1] browsable assets)...
+[2026.06.11-13.46.01:581][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/HuD/MM_effect_Video]
+[2026.06.11-13.46.01:581][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/HuD/MM_effect_Video" FILE="../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/HuD/MM_effect_Video.uasset" SILENT=true
+[2026.06.11-13.46.01:592][535]LogSavePackage: Moving output files for package: /Game/ASSETS/HuD/MM_effect_Video
+[2026.06.11-13.46.01:593][535]LogSavePackage: Moving '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Saved/MM_effect_Video997562DC4A54ACF0824B44965AE74A7E.tmp' to '../../../../../../Users/matteo.battani/Documents/GitHub/DeskWar/Content/ASSETS/HuD/MM_effect_Video.uasset'
+[2026.06.11-13.46.01:604][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.719 ms (total: 959.457 ms)
+[2026.06.11-13.46.01:663][535]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.11-13.46.01:663][535]LogContentValidation: Enabled validators:
+[2026.06.11-13.46.01:663][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.11-13.46.01:663][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.11-13.46.01:663][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.11-13.46.01:663][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.11-13.46.01:663][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.11-13.46.01:663][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.11-13.46.01:663][535]AssetCheck: /Game/ASSETS/HuD/MM_effect_Video Validating asset
